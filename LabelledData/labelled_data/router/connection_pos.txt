@@ -1,0 +1,352 @@
+0	The average Windows based computer can exist on an unprotected Internet connection less than 20 minutes before someone will find its port address and access it .
+0	I'm trying to point out they have experience and so the <p> reliability of the connection you get is among the best <p> .
+0	If that happens you'll want to save money by sharing the Internet connection rather than pay for two services or more at multiple single connect prices .
+0	This is especially true if you don't need the speed of a wired connection .
+0	Don't worry though the primary computer located by the Linksys can be connected by wire this makes for a <p> solid and fast connection <p> to the Net .
+0	My Xbox <p> connection seems as good as with a cable <p> .
+0	It took some trial and error for a succesfull login with a secure connection WAP2 .
+0	Voila Speeed is very good and <p> connection has been reliable <p> .
+0	Have had <p> no problem with connection dropping <p> using computers with XP and 2000 .
+1	I can't figure out why so I'm going to have to keep moving the router around the house until I can find a better place for it Second I use my laptop on the desk next to my desktop and at times I'll loose connection on my desktop but my laptop will still have a solid 60% signal Overall weighing the roughly 15% downtime vs .
+0	So now I'm using my laptop on the kitchen table about 60'away from where the router is and getting 3 7 Mbps speed via Comcast cable through my VPN connection .
+0	This is based on a measurement speed test by going to either www cnet com or www 2wire com and running their bandwidth meter test to see actual connection throughput speeds .
+0	These are both free sites so check out your connection .
+0	My Panasonic 2 4GHz cordless phone kills the connection every time .
+1	With the older verion the Linksys WPC54G worked OK but I was having frequent connection dropped problem with my Gigafast WF721 AEX 802 11b card .
+0	I am able to take my laptop up to my bedroom which is on the second floor and have <p> never lost a connection <p> .
+0	My goal was to have two or more computers use the Comcast internet connection without having to purchase multiple IPs .
+0	The router has been working flawlesly for the last month and <p> does not decrease the speed of our internet connection <p> .
+0	Remember however that the more computers you use on the same connection the less bandwith there will be available for the individual computers router only divides available bandwith and is not for increasing speed .
+0	My iMac picked up the connection right out of the box but of course that was an open access I wanted encryption .
+0	I love it I can be 2 floors down my dorm and still get a <p> Good connection <p> at 32 mbps .
+0	It <p> handles a wired connection <p> and two laptops with no installation headaches .
+0	The Secure Setup button is <p> great for making that initial connection <p> but the default settings you end up with are incredibly UNSECURE .
+1	One thing it needs an active internet connection to configure .
+0	It took me a few days to figure out Linksys connection software and also to figure out why the wireless kept disconnecting .
+0	It automatically found my ISP Well acutally I use a LAN type connection through the apartment complex I live in however the router had no problems communicating with their ISP then I actually set it up to be more secure .
+0	But for all those who have a wired connection now and are looking to expand later this is the perfect router .
+0	I have DSL home connection and used the PPPoE configuration on windows XP I have to say I was concerned by some reviews that the setup process could be a headache but rest assured this is an extemely simple solution for a home wireless network .
+0	but it seems that my connection is a little slower probably because I was messing with the router so I could let one of my programs acess the internet .
+0	In the space of a couple of hours I have gone from one computer connected to the internet via a slow dial up connection to a bevy of laptops networked at high speed both wirelessly and via ethernet cables over this router and a new DSL connection .
+0	This router was easy to set up and does what you want from a router lets you invisibibly and non intrusively connnect to a broadband connection so you can actually use your computer for what you want to do .
+0	This modem is good for anyone who want a <p> constant connection around the house <p> .
+0	It has a preatty good range and with a <p> good adapter interrupted connection to internet <p> is as easy as turning on your computer .
+1	Every time I turn it on it kills my network connection .
+0	This router is the <p> perfect solution to split up your internet connection <p> .
+0	Initially had to remove WEP as advised by Linksys tech to get a <p> very good to excellent consistent connection <p> but went back and set up WEP 128 bit encryption on my own and still have a strong connection and never a dropped signal .
+0	Both have connection at the same time .
+0	I do wonder how other reviewers can determine they get about 48 to 54 mbs connection Is that true that we don't even get that speed from cable modem or dsl .
+0	The router is easy to install but you cannot use this router to share a Broadband connection is you use AOL .
+0	this review is actually the acid test for the internet connection but the printer is not connecting yet .
+0	There are enough security features that you can enable aside from WEP which can really slow the connection that Linksys did a pretty good job in the overall design and features of the router .
+0	I used the network connection on my Dell software to figure it out .
+1	I had trouble uploading to a FTP site and the connection was dropped often .
+0	The reception That I recieve Is very good I can go any where in my house and get >36mbs sec connection even up stairs in the back room .
+0	<p> No more connection drops <p> and strong signals even from the backyard .
+0	My laptop has <p> connection anywhere <p> in my house and I have not been disconnected once .
+0	It dropped the connection a few times but the wizard reconnected quickly .
+1	I got the linkysys adapter with this which works decent but it cannot move a centimeter or the connection dies .
+0	An unsecured network can lead to others leeching your connection the least possible result is a slower connection and the worst is a hike in your internet bill .
+0	The network usually worked well across a space of 25 40 feet I'm not a great guesser but obsessionally she would not have any connection while mine was fine .
+0	Now I'm pretty confident that this wasn't an issue with my connection because at the time it was very fast and very reliable .
+0	I have a 54 megabit connection between my two PC's located on the first and second floors .
+1	It started to drop the internet connection and not let me ping or surf into the admin web interface in the unit .
+1	Note I also power cycled the router after everything was running and it did not reconnect to the internet even upon refreshing I eventually had to temporarily connect to it using a wired connection to get it back online .
+0	I just recieved this product from amazon after looking at everything out there The speed is just as fast as running my 1 100 line directly which I am doing on two machines running Win2000 through the router set up on those machines took 1 minutes on the first one because I needed to call my ISP cox provider and supply them with my connection address on the back of the router the connection on the second machine took 2 minutes I went wireless with the PCI card on another machine running Win XP after removing my ethernet card and installing the new wireless PCI which took about 5 minutes I inserted the disk and was on in about another 3 minutes .
+1	Right after the first step where it is suppose to go check the network the wizard died saying that I had no internet connection where in fact I did .
+0	I have this utility called Access Connection w c I only realized existed on my system .
+0	It is simple to hook up to a wired connection and adding another wired connection is just a matter of plugging it in .
+0	the biggest plus was that the d link router kept on dropping my connection and i'd have to restart outlook and my IM programs .
+0	Other than that things seem to be working fine and I have a <p> petty reliable connection <p> between my desktop running linux and windows me and my xp laptop .
+0	The router is connected to my computer using an ethernet connection 4 are provided and is wirelessly connected to my wifes' machine located about 75 feet away .
+0	I had difficulty getting an internet connection through the Linsys Monitor however when I switched to the Intel Proset I was online in seconds .
+0	I've only had it for about 2 months but I've never had to reset it due to a lost connection .
+0	I got this STRICTLY for the Wii because we have our internet connection on the other side of the house .
+0	A colleague also bought the same router and it works fine with his Optimumonline Motorola modem connection Lesson Learnt If you think you have an older cable modem model such as the Toshiba PC 1100U this router may not work for you Having used the router for close to a month now I'm very happy with the performance of the modem and so is my colleague .
+1	From time to time I lose connection with the router and have to restart the router .
+1	Remember 2 4Ghz phone usage will kill your wifi connection regularly especially in big buildings with many tenants .
+0	It was claiming that I did not have an internet connection when I Clearly did .
+0	Previously I never thought that buying a new router could <p> speed up my connection <p> .
+0	Maybe something to do with simply the <p> connection being stronger <p> and less packets being dropped I don't know I'm not an IT guy .
+0	In my house we have a computer an xbox and a laptop and i needed a way to combine them all and connect to my cable broadband connection .
+0	Now on my laptop it said i had a connection but not a secure one and it mentioned something really quickly about WEP .
+0	The setup wizard is straight forward for beginners but doesn't create the most secure setup unless you limit your connection to the G type i e don't include the B type connection .
+1	My 54g PCI card two floors directly below the router would occaisionally get no connection and was usually in the <5 Mbps and Weak or worse .
+0	But after a couple hours of tinkering w it I kept getting dropped from my connection w the router .
+0	I have had <p> no connection drops <p> and the unit is a lot colder than my previous router the BEFSR41W .
+0	This item comes with a quick start CD that enables the router to automatically configure itself for the type of Internet connection example Cable DSL etc .
+0	The <p> easy connection set up <p> button on the front of the router is unique and makes set up a breeze .
+1	I had a D Link 802 11b AP and the connection drops all the time .
+0	Very good range and I <p> never have any connection drops <p> Also bought a 54G card and much faster than my 802 11b card Some people has doubt about if this router will become a 802 11g router when 802 11g is finalized .
+1	The range with this product isnt bad though I am unable to get a connection in my bedroom with is about 120 feet away from the router .
+0	Not a geek but needed to lose my dial up connection .
+0	No cable connection in my computer rooms and I didn't want to drill holes in the walls so I put the WRT54G next to the cable modem and cable TV receiver with the kitchen tv .
+0	Set up took a little extra time because I did not have an ethernet card connection between my laptop and the router also because I am not terribly tech savy .
+0	Without a range booster the <p> connection is solid <p> .
+0	Since we set up our internet connection this <p> router has worked flawlessly <p> .
+0	The <p> connection works well <p> all through our house .
+1	This worked perfectly with a windows xp laptop For windows vista the connection was on for a few minutes and die and come back later .
+0	I used to think a router is a router is a router back when all I used them for was as a plain old internet connection and network switch resting easy that there was level of protection from the outside world as well .
+1	Since I prefer not to open up a bunch of ports on my router I've since configured SSH tunneling for the connection but the point is that with these 2 other routers they either flat out didn't work at all or were so slow as to be useless .
+0	I can now access all 4 of my home computers securely through SSH tunnels using a remote desktop connection from anywhere in the world so it looks like I'm physically sitting in front of these machines .
+0	I had previously been using those routers to host an internet connection and never had any problems with them otherwise .
+0	I've been using it for three hours straight and it's dropped the connection once which might well have been my fault I was fiddling with the XP network settings at the time Cisco has a very strong rep in the industry as being a leader in quality networking equipment and from what I can see the Linksys line upholds that .
+1	During the first year or so of use I had to unplug the router and cable modem once every 4 months or so to resolve slow download speeds connection issues .
+0	In a 2 story townhouse with God knows how many old coats of lead paint and numerous potential interference issues I have yet to not maintain a connection signal of 54 .
+0	Guess what they didn't provide a manual on paper and the electronic manual is behind an obscure button Basically you can talk to the box using internet explorer without an internet connection .
+0	Then you tell the box what type of internet connection you have POPeP POPxx xxxx xxx etc I forgot supply your password and user name if you provider requires it Then it should work as a wired router .
+0	So how do you know if Verizon is using POPep or another internet connection You have to call support Wireless is easy if you don't use passwords .
+0	I suggest you first get the connection to work reliably without passwords before worrying about it I recommend passwords .
+0	I was able to reconfigure the unit to act as a router for sharing a dialup connection using our Dell desktop as the host computer .
+0	Hardwired connection works great One problem I've had is with my 2 4GHz cordless phone from Panasonic interfering with the Wireless connection .
+0	4 Allows you to share a single internet connection either DSL or Cable modem among all the computers in the network wired or wireless The Linksys router connects an external Cable or DSL modem by using a regular RJ 45 Ethernet connector .
+0	Typically everything around a 25 feet radius works Ok but deteriorates beyond that to the point of loosing the connection at about 80 feet Bottom line Very good buy .
+0	This is a router it wants to be connected directly to the internet connection if you plan on using this to serve up multiple devices and want to use I C S .
+0	The connection is not really fast but the PC itself is the real culprit it's just slow .
+0	I continuously had problems with the D link's connection and often had to 'repair' my network connection and or reboot the router and or the cable modem .
+0	The <p> connection is solid <p> and the device very rarely looses its connectivity so far that is .
+0	In addition I was able to get connection in some parts of my back yard and front yard .
+0	That is the connection to the ISP's receiver is a non cable radio frequency connection .
+0	The connection between the Router and the modem is of course a wired one In each of the laptops I use Linksys WPC54G Notebook Adapters .
+0	Can't notice that two workstations are sharing the same internet connection .
+0	The WRT54GC has slower more intermittment connection when compared w the WRT54G .
+0	With this faster g version the VPN <p> connection is solid <p> .
+0	The programmability is great and I was able to configure it for my folks WLAN without any wired connection to the router at all very convenient The CDROM setup software was baffled by this no wires config however so I just stuck with the 1 http address of the subnet it was last set to .
+0	This is SIMPLE to setup All you have to do is connect everything then your computers should be sharing an internet connection .
+0	2 Go to your Network Connections and then right click on the Local Arean Connection and choose properties .
+0	3 Make sure all of the boxes are checked and installed under This connection uses the following items .
+0	I just recieved this product from amazon after looking at everything out there The speed is just as fast as running my 1 100 line directly which I am doing on two machines running Win2000 through the router set up on those machines took 5 minutes on the first one and the connection on the second machine took 2 minutes I went wireless with the PCI card on another machine running Win XP after removing my ethernet card and installing the new wireless PCI which took about 5 minutes I inserted the disk and was on in about another 3 minutes .
+0	my <p> internet connection is blazing fast <p> my roommates and i are now coasting through the internet it took a while to set it up correctly but it was totally worth it great wireless router .
+0	It posted all the information to the router and all I had to do was access the router click on PPOE connection and enter my username and pasword After that it was easy to change the wireless security settings in the router .
+0	Overall This is an easy router to set up and <p> great for sharing an internet connection <p> .
+0	I basically started from scratch with a new DSL modem and connection this new router and a new Linksys notebook network adapter card .
+0	As far as performance I <p> haven't seen the connection drop <p> once and when I run speed tests there's no difference between being connected wirelessly to this router and being connected directly to the DSL modem .
+0	It occasionally breaks Internet connection but can be <p> easily re connected <p> by going to the Wireless Networks window .
+0	I highly recommed the WRT54G but time will tell if it holds up as I read that some people end up having slow connection speeds after a few months .
+0	I hooked it up to a Windows XP machine which houses the cable internet connection in about 15 minutes .
+0	I wanted to provide a connection for my laptop anywhere in the house and this product was highly rated in a computer magazine .
+0	Very easy to use <p> very fast connection <p> A .
+0	<p> Connection is Excellent <p> all over the house .
+0	I Strongly recommend it as it's <p> Cisco Certified and the connection is excellent <p> .
+0	it's given me a <p> solid connection <p> and rarely do i get disconnected twice within a month maybe .
+1	As soon as I did that I could get no connection to the internet .
+1	Linksys software showed the card operational but no internet connection .
+0	The install CD reported that there was no internet connection when going through the checks when infact there was indeed a connection .
+0	I have been using the v1 1 Router to share a dsl connection throughout an 1800 sq .
+1	If not you'll need a friend that has or another internet connection to Google for the directions there's nothing in the package to help you .
+0	I went through the installation a few times and somehow the router was finally able to make a connection with the modem to connect to the internet .
+0	The range is good enough at least in my 900 sq ft home that I can walk around with my laptop and still have a connection .
+1	I was having intermittent problems with it losing connection .
+0	In what seemed to be no time I was wirelessly surfing the web with no apparent loss of speed compared to my wired connection To sum it up this is a great product .
+0	I am a novice when it comes to matters of technology but I do know this router is very easy to use and has a <p> fast connection <p> .
+0	My house is a 2 bedroom condo and I get <p> full strength connection everywhere <p> in the house as well as in the deck .
+0	I now have <p> great connection <p> with no disconnects .
+0	Be sure to write down info for the B router before you switch host name MAC address under LAN IP address SSID WEP settings use WAN connection to obtain IP automatically .
+0	I think I will just keep the old adapters for now as my <p> connection is fast <p> with no disconnects .
+0	When it comes to most of us we all have more than one device that works with a internet connection .
+0	I'm using this at home as my main router associated with my DSL connection .
+1	Also its wired ports are so touchy that even breathing on them causes a wired PC to lose its network connection .
+0	I can roam up to 100 feet with the notebooks and still recieve an <p> incredibly fast connection <p> .
+0	You will only see a decrease in speed if you have a connection faster than what the router speed is .
+1	In the beginning the router would continue to drop the internet connection .
+0	The installation software reports no internet connection even though it is connected and broadcasting internet signal .
+1	A couple of months ago I completely lost a connection on my wireless computer .
+0	The Linksys associate told me that my connection was erased because of a bad storm does anyone else think this is an odd explanation and she did walk me through setting up a new wireless network from the adapter to the router .
+0	Every once in a while I will lose a connection on my wireless computer and usually if I turn my router on and off my wireless computer will regain a connection .
+0	I have Cable Internet connection at home .
+0	It should recognize the Internet connection if it doesn't restart your machine and try again .
+0	After the connection recognition include the Linksys router between the Cable DSL modem and your PC .
+0	I noted that my connection strength varied widely from very low to very good without change in location of adaptor or router .
+0	People who have trouble installing something like a computer mouse or a keyboard should keep away from learning how to share their internet connection before they get the very basics right .
+0	Even though this router comes with an absolutely simple instruction guide this is still likely too much for anyone who doesn't know how to even setup an Internet connection on their PC .
+0	I am a Linksys fan ever since EASY setup runs <p> fast easy connection <p> wide range and extremely stable .
+0	My desktop runs xp and recognized and installed the router right away but getting a connection to my 2 laptops that run 98SE was a little tricky .
+0	So far I have <p> no loss of connection anywhere <p> throught my house weeeee .
+0	The original installation wizard did not work for my broadband service Cox but I was able to get very specific help from their web site knowdlege database which resolved the issue Once I had the internet connection going I found that I kept losing it on the laptop intermittantly .
+0	Now before you consider buying this router you need to make sure that you have an ADSL modem which absolutely must have an Ethernet connection sign of a good brand with USB optional or without USB .
+0	For big internet cafes you can keep adding switches so that the network connection looks something like adsl line >adsl modem >router >switch >switch >switch etc .
+0	Use the information the ISP gave you and try to create a working DHCP type connection .
+1	In addition the wired cable connection get inaccesible few times .
+0	My internet connection is in one room and my computer room is in another part of the house .
+0	<p> Connection is very Excellent <p> all over the house .
+0	It's only router and could not work as DSL modem so you need to have a DSL modem in place and you will use this Router as an access point to Share connection .
+0	I Strongly recommend it as it's <p> Cisco Certified and the connection is excellent <p> .
+0	Now everything works flawlessly I have a <p> MUCH speedier connection <p> and I'm paying less per month for my service It was exceedingly quick and easy to set up the hardest part was waiting on hold with Comcast to update my account and it has only hiccupped once unplugging replugging got it working again immediately .
+0	I bought this router for home use but as soon as I got it I had an occasion to take it on a trip where a group of us would want to share a broadband connection .
+0	It <p> seemed to connect fine <p> but when I tried to do a connection test the PS3 got hung up .
+0	I will say that the speed provided by the 54g is not really needed for a cable or DSL connection but if you transfer files between computers send video or audio streams or plan on doing such then the 54g is a great device .
+1	Since I run my work laptop on this network and I suffer from OCD I used the the following renamed the SSID disabled broadcast enabled WEP MAC address filtering oh yeah and did I mention I utilize a VPN connection as well .
+0	I have no alliance or connection with Linksys but it took me only 12 minutes I timed it from the time I opened the box until I was surfing wired and wirelessly with the router .
+0	The CD determined my internet connection determined my system configuration asked me a few questions and bingo I was up and running .
+0	I know I am getting specific but the point I am making is that it does not matter what the connection speed you are running at any given moment based on how close the base unit is to the PC card .
+0	What is important is that your internet connection will never even approach the speed capabilities of this router so don't hassle yourself with any concerns over varying connect speeds of the wireless network .
+1	My only complaint is that on more than one occasion I would be on the internet on both computers not uncommon and all of a sudden my connection would go down .
+0	I live in two story house and have no trouble with connection despite drop in signal strength as low as 57% every now and then .
+0	I probably get a good 80ft before it starts to lose connection .
+1	So it's just easier to have one internet connection do double duty .
+0	For a long time I had blamed my Nintendo DS for having a hard time connecting with my home network and keeping the connection while playing games like Mario Kart DS and Tetris DS .
+0	I enable security so that others in the apt complex cant access my connection .
+0	The old router had trouble getting a sigle one floor down but with this router I get a <p> nice clean connection <p> with hardly ever a dropped packet .
+1	I purchased the WRT45G when my old router D Link DI 714 started dropping my VPN connection to work nearly as quickly as I could make them whether my connection to the router was wireless or not .
+0	As a computer professional looking for a lot of control I appreciate this amount of configurable detail but I think that the experience for less technical users could have been improved by putting the most critical pieces of configuration ISP connection SSID router password and possibly encryption on the same page or together in a simple setup wizard note that I didn't use the Windows only setup software see below .
+0	Bring up your network connection to the router e g on Linux `ifdown eth0 && ifup eth0` or on Mac OS and Windows if all else fails rebooting your computer should do the trick .
+0	As I said before most people only need to worry about specifying ISP settings in Setup > Basic Setup > Internet Connection Type changing the default SSID Wireless > Basic Wireless Settings changing the default password Administration > Management > Router Password and possibly changing the Security Mode Wireless > Wireless Security .
+0	Therefore if you have a really <p> robust connection <p> like a T3 this will help .
+0	Simply adding a router such as this one to your broadband connection will greatly increase your online security primarily by masking the presence of your PC on the Internet .
+1	For some reason My connection drops this happens while my laptop is in sleep mode .
+1	Works perfectly but my internet connection is disconnected intermittently and I have to turn off my computer and disconnect the router and Linksys modem before restarting to get the internet back .
+0	Also my ISP gave me DNS numbers to fill in under the DHCP settings even though I have my TCP IP settings for the connection set to Obtain automatically .
+0	Basically that's all there is to configuring the router ISP connection .
+1	I suddenly lost my connection and I was unable to determine whether the router or modem was at fault .
+0	I can rate linksys WRT54G as one of the best router of the market and the <p> connection is really good <p> i cant complaing It has not fail so far and the range of connection is pretty good .
+0	My opion is concentrate on what you need now This product has EXELENT range holds a <p> steady connection <p> hasent even droped one and i have it for more than a month now .
+0	The <p> connection happens smoothly and quickly <p> once I open my laptop in the morning .
+1	replaced a netgear router which kept loosing connection .
+0	By the next morning however my system no longer acknowledged that a network existed and I no longer had any type of connection through the router .
+0	So an ancient dual processor G4 desktop and a very new MAC notebook are coexisting nicely on my DSL connection .
+0	I can be 150 feet away in my house and still get a 54 mbps connection .
+0	In the provided software on my dad's desktop I selected add a new connection .
+1	Sometimes even wired computer loses internet connection with no apparent reason .
+1	The SMC would constantly drop the connection even when sitting right in front of the router .
+0	For example we can designate our PS2 to have priority over our PC when playing online this is great when you want to maintain a <p> fast connection <p> .
+0	Once I replaced the D link with the Linksys I've had <p> excellent connection quality <p> and great download speed .
+0	It sets up security for you and if you have multiple computers it will configure the security and connection settings for those computers as well .
+0	Granted there could be someone next door using a cordless phone same band frequency as 90% of the routers out there but it's a bit of a hassle because I lose the connection and then it either reconnects itself after about a minute or I have to do it manually .
+1	The internet connection would go down every 5 mins when I used it with a P2P program called Bitspirit .
+0	Within 1 minutes of the thankfully easy set up I had my BellSouth 3 meg connection shared with my PC Wii and DS .
+1	My only complaint is that on more than one occasion I would be on the internet on both computers not uncommon and all of a sudden my connection would go down .
+1	Do have a problem with losing connection and I haven't figured out which component is causing the problem .
+1	I use to have a WRT54G then it broke got a Dlink DIR815 which sucked dropped connection 1 to 2 times a day so I get another used WRT54G .
+0	This router has only dropped once connection since I got this used one 6 days ago this is the only router I will ever get from now on .
+0	My PC and laptop operating system is Windows XP SP 2 with an internet connection via Time Warner cable .
+0	I couldn't tell a difference in connection speed between my old hardwire cable modem and the 54G wireless system .
+1	I did have some issues getting connected via my secure company connection though .
+0	The WRT54G connected to a 4mb Cable connection and downloading massive files for 4 hours does not feel warm to the touch .
+0	But I followed the directions and was able to network two PCs together and share my DSL PPPoE connection in about 1 minutes .
+0	If you want to share an AOL broadband connection make sure you check the Linkysys site before ordering this router .
+0	Lights were flashing and the hard connection to my laptop recognized the router .
+0	The small issue with AT&T SBC DSL service I have to set the DSL modem as a bridge and let the router do the authentication that solved the drop connection issue .
+1	I replaced my D link 802 11b router because it could not hold a connection continuously .
+0	I have never seen my <p> internet connection so fast <p> .
+0	I have had <p> no problems with dropped connection <p> and I am able to use my computer anywhere in my house .
+0	I have not had any problems holding an internet connection throughout my house on my laptop .
+0	The <p> connection speed is very fast <p> .
+0	You should also wait for each device to run through diagnostics or establish a connection before turning on the next device .
+1	The problem that I encountered was that the installation program on the disk that came with the device could not establish an internet connection .
+0	I have a standard DSL connection .
+0	We used this product to wirelessly share the internet connection of our desktop with a notepad .
+0	This product comes with an installation software CD however with Windows XP I didn't need to use it to set up my connection .
+0	I went through the steps on the CD which show pictures of where to plug in the various cables and in which order to plug them in and then cancelled the installation prior to completion as I wasn't familiar enough to make decisions on certain settings the software was asking me about so I cancelled the connection software wizard and my desktop connection worked fine .
+0	<p> hassle free easy connection <p> automated set up no functioning problems whatsoever .
+0	I got about 100 yards past my home and still had a 1 Mbps connection .
+0	Reset the network tried the connection and it's working like a charm .
+0	I am pleased easy setup <p> no dropped connection <p> no reboots .
+0	I got this router working in a few mins on a desktop connection and a laptop connection .
+0	After an easy CD assisted installation and setup I was able to connect the router to the modem and computer and password protect the connection .
+1	Then I have to either reconnect manually or even reboot to get my internet connection back .
+0	Sometimes I have to go on my desktop and repair the connection but that is minor because its apart of maintenance anyway just like an antivirus software detecting vicious malware .
+1	The Netgear router kept dropping the connection and seemed like it was overheating .
+0	My Vista machine gains back its connection much more quickly when coming out of sleep or hibernation .
+0	Tried out the connection and the WPA2 works with the Wii and the G1 Android phone .
+0	Where I received Very Good with the old router the Linksys router only gives Fair to <p> Good connection strength <p> .
+0	I am writing this review on the 5th day of Relatively Reliable service it lost connection MAX of two times one day so far but it instantly measured as ONE heartbeat hooked up again so no complaints here .
+0	Popped in the CD followed a few simple steps on connection create a name here a password there and the wired connection to my desktop and the wireless connection to my laptop were all set in 5 minutes .
+0	It's a network device you plug it into your network and you have a network connection .
+0	I'm typing up my review on my network connection going through this router right now and I did not even open the CD .
+0	It worked pretty well it sometimes just dropped the connection and required me to press the reset button .
+0	It <p> never drops connection <p> there is software to set up for Macs and PC's and it looks nice .
+1	I have yet to have a connection problem with 2 laptops and my desktop operating from it at the same time .
+0	It has been <p> working flawlessly with a connection <p> speed of 144 mbps I am currently using wireless security WPA2 .
+0	Needed a new router to keep connection on my iPad .
+0	I have had problems with my old Netgear WGR614 router such as when printing the connection would constantly drop .
+0	With this router the <p> connection is never dropped <p> with the printer and printing is as least 3 times as fast .
+1	We had to do a Restore or our system to get the wired connection to work again .
+0	once figure out the installation problem the <p> connection is quite stable and fast <p> .
+0	I would still recommend this router for it's <p> ease of connection and use <p> .
+0	My XBOX360 was Open NAT from the get go wired connection .
+0	Speed we didn't have any sophisticated software to test the connection speed but if anything it appears to have remained constant .
+0	Then you install the vendor supplied wireless software and you'll have <p> no connection drops <p>.
+0	The wireless range of the router is almost the same as a b router but with a slightly <p> stronger connection <p> .
+0	I am one happy wireless camper The <p> connection speed is as fast <p> as being hard wired .
+0	I even went next door with my laptop and had a <p> great connection <p> .
+0	Several of these items are not only upstairs but also on the opposite side of the home from where the router is so <p> getting a good connection <p> is important .
+0	Our connection and speed immediately soared once it was online and our network was set up .
+0	Has yet to fail me the WiFi router has maintained a <p> reliable connection <p> for virtually one year to both my laptop as well as my OfficeJet printer .
+0	Other devices utilize wi fi connection while TV is streaming with no problem .
+1	It seemed that I could do nothing else on the internet while utilizing the TV's Smart Apps and features connection was so bad my smart phone couldn't even connect to the wi fi .
+0	I have owned the wndr3700 for about six months and it does a good job at 1 gbps direct connection and up to 300 mbps wireless .
+0	The manual states to setup out of the box using a wired connection .
+1	Some others complain of ISP router drop connection issues .
+1	I began to have WAN drops i e you lose your internet connection almost hourly .
+0	If you don't move a lot of data around south of your internet connection you might not notice but the duel band backplane speeds are unlike anything I've seen outside the datacenter .
+0	Set up was very easy and the 'Netgear Genie' is a nice feature makes it very simple to troubleshoot any connection problems .
+1	Now the new issue is sometimes Wifi network completely dropping maybe one or twice in a day once network droped you must have to restart to get back the internet connection and also if I am transfering files to usb hard drive which is connected to the router the router completely hanging so i have to reboot it to get back this issues was not ther before update the firmware I think netgear will resolve this issue with there new firmware updates .
+0	The laptop still shows a <p> strong connection <p> but the signal to noise ratio is such that throughput doesn't exist .
+0	With no fuss at all and to my total surprise the router was working perfectly within a few minutes of connection and all of our wifi gear laptops iphone internet radio HDTV Kindle is now humming along smoothly .
+0	The Netgear N900 has been up and running now since 11 1 2011 without a hiccup or dropped connection so I am very happy .
+0	The Status Page that shows you internet connection status number of devices connected wireless networks etc .
+1	Even more troublesome was that sometimes the Internet connection was partial i e .
+0	I installed the updated FW and my connectivity is back and reliable I have been going solid for the past 5 days without connection dropping once whereas before it would drop overnight .
+0	Range I could be at one of my close neighbors home and still get a <p> solid connection <p> .
+0	Once a connection is established you just launch your web browser and Netgear's web based user interface Netgear Genie automatically launches .
+0	I love this router it's extremely fast I lose connection on occasion but it's usually my ISP .
+0	I have a commercial grade Internet connection at home I'd normally never plug a wireless router into my network until I had fully configured it first .
+0	The Netgear N900 will absolutely not let you configure it until it's made a connection with the WAN port to the Internet .
+0	I was ready to send it back when it occurred to me to plug it into an existing router via a wired connection it chained onto the private network of the existing router connected to the Internet then its management console immediately came up on the notebook I was using to attempt to configure it .
+0	My commercial grade network consists of 5 hard IP addresses the router would have been unable to 'discover' the address I needed to give it and because I couldn't access the router to configure it it would have never gotten that initial WAN connection .
+0	I have <p> not had a dropped connection <p> yet or random restarts whatsoever even with 11 wifi devices connected to the router traffic was not noticeable .
+1	On my old Linksys router for some odd reason every time I would stream Netflix on the PS3 my Vista laptop would lose connection .
+0	Now when I say using I mean sparingly in the sense that if 2 computers were watching either a youtube video or a netflix movie everything else in the house lost it's connection .
+0	My Wi Fi devices 12 total had started randomly losing connection to the router with the old Belkin router but I have not had any issues so far with the new one .
+0	Had a harder time logging into NETGEAR website but all is well and the speed with my laptop and Netflix connection is great .
+0	it was worth the price of admission as it works flawlessly steaming Netflix to our large screen basic internet to the home PC as well as a <p> solid connection <p> to the work PC .
+0	b the ability to maintain a <p> solid stable connection <p> with its clients .
+1	With my old Belkin my Ipad would lose connection sometimes every 1 minutes and I had to be in the same room or just one room away for my Ipad to connect with that router .
+0	Now with my WNDR4500 it has been several months and I have <p> never lost connection <p> with the Ipad and can use the Ipad in every corner of my house with no loss in connectivity .
+1	drops connection about 2 3 times a day the room where the connection gets dropped is only about 40 50 feet .
+0	The speed is good and always have a <p> reliable connection <p> .
+0	We just recently went to a 50mb down 5mb up connection and the 4500 has been blazing fast for us on this new connection .
+0	I have had lots of trouble with routers recently the last one a Cisco E3200 that used to overheat and drop the connection and simply died after a little more than a year of use .
+1	With previous routers I had frequent connection dropouts and often lost my work VPN .
+1	The only thing it lacks is an external antenna connection .
+0	Although I had a high speed internet connection I was always disapointed with my WiFi .
+0	What a change not only did I get a 5G WIFI it also matched my cable connection at 36Mbps .
+0	My FTP connection also seems to have resolved itself .
+0	BTW one can setup different SSID names and passwords for each connection type .
+1	However this Asus router failed me at a big time as it constantly lost its connection and I had to reboot it a few times in order for the router to start working again .
+1	Netgear N600 WR3800 was significantly better than Asus but still had the connection problem once in a while .
+0	In hopelessnes of running out of my router selections another Netgear N900 WNDR4500 $179 00 at Fry's came up in my mind but this one is pretty expensive Well I took a chance thinking that I would rather get this expensive router in hope that this one would eliminate all the connection issues I had had with Asus Netgear N600 WNDR3800 .
+1	I had a netgear for about 7 years and it started dropping connection so I decided to replace it .
+0	I highly recommend it and even in the farthest corner of the house ranch style home and it is on one end and a computer is at the other end no drops and always has a minimum of <p> good connection <p> most of the time it is excellent .
+0	I am getting speeds as fast as my AT&T adsl connection will permit .
+0	Upgraded my comcast connection to 25Mbps with a 3 0 docsis compatible modem and I don't think I need anything better than that .
+0	So much better than the old 12 Mb s Internet download speed but not as fast as the wired connection of 36 Mb s download with Comcast Blast Internet .
+0	I only received it yesterday so can't report on any drop connection yet .
+0	I like that this thing does NOT require or even recommend a CD or USB connection to configure it .
+0	During that time it <p> hasn't lost connection <p> even once .
+1	The Linksys was constantly dropping its Internet connection due to a heat problem .
+0	Wifi connection in any room hits a solid 5 bars the max .
+0	You can use a separate SSID for both bands to segregate your network traffic or use a single SSID for both bands to allow the hardware to determine the best connection method on the fly .
+0	Either way you're assured of a <p> good solid WIFI connection <p> .
+0	REAL LIFE USAGE I've had the Netgear N900 WNDR4500 for a little over a week now and have not had a single dropped connection compare that to the Linksys WRT610N that dropped its Internet connection every few minutes see my review for that product .
+0	Since I have had this router it <p> has not dropped the connection once <p> .
+1	After I installed the router I noticed that my computer was experiencing a very hard time to establish an ethernet connection every time when the computer started up .
+0	After the Windows desktop has started it would take a ridiculous several additional minutes to do it establish a connection .
+0	My entire system boots up within 30 seconds I then need to wait for a few minutes for a wired Internet connection to be established Although I do not restart my computer very frequently waiting for several minutes for the ethernet to connect is intolerable .
+0	So far I have not had any connection issues with this router .
+0	For some unexplainable reason it took a few reboots to get the router to detect my connection however once it finally clicked and found the connection it has been flawless .
+0	I'll just say that Netgear updated the BIOS the <p> connection problem is fixed <p> and I am a happy customer .
+0	Any time it thinks the internet connection has cut out even for a second you have to click again to re establish it .
+0	The WNDR4500 with its more powerful RF amplifiers can help punch through the clutter and give you a more <p> solid connection <p> .
+0	When you cycle power on your router it may change channels and that may be why it works for a while then drops your connection later if it automatically switches to a more crowded channel .
+0	I have to say that I have never had a problem with a dropped connection that has been the fault of the WNDR4500 .
+0	Since using this Netgear router I have not lost connection and it always works .
+0	Just to let you know what all we have setup with this router three 3 laptops one with VPN connection a print fax copy scan printer PS3 and we do Netflix streaming videos through this Wii we download games Amazon Kindle DirecTV HD receiver download TV and movies on demand etc .
+0	all of this and it works great <p> no loss of connection <p> fast downloads etc .
+1	We had the N600 which was pretty good but kept losing connection we had to reboot it all the time .
+0	With this router we have not had to reboot at all and it keeps <p> great connection <p> for my husband's work laptop with the VPN connection .
+0	Then I went to and watched several of my favorites videos mostly games in 720p and 1080p and the video's played as well as on my direct connection Road Runner Turbo Internet .
+0	I've been using this router the last couple weeks at home for personal needs and at any given point there are about five devices connected either through a wired connection or wirelessly .
+0	So impressed that I tested the connection in my neighborhood .
+0	I was able to go reach about 150 feet away from the router while traveling through my garage and some heavy walls before I experience an unusable Internet connection .
+0	The connection strength as displayed in Ubuntu was either 80% or 100% .

@@ -1,0 +1,54 @@
+1	The mouse  pointer would stop  midway and then act as if the mouse was not plugged in constantly, then work again like normal.
+1	There are times that the fact that the touch pad is still active while the mouse is in use that the touch pad will reposition the pointer at the slightest brush and it's infuriating.
+1	For short periods of time every so often the mouse  pointer will stop  moving and you can't click anything, but then shortly after it starts working again.
+1	This one has one as well but its only to change the scroll mouse, and the search button or third button is moved pressing the scroll wheel which is terrible because you have to press so hard that your  pointer moves away  from the word selected and then it doesn't search.
+1	+ Mouse works on almost all surfaces and is precise (no jittery pointer).
+1	This is probably the cause of the "unresponsive" or "jittery/ resetting pointer " problems some people report.
+1	For example, there is  no option for pointer acceleration  which is critical on iMacs because Apple insists on making its users feel as though they're mousing through molasses.
+1	When I tested it against my other mouse (a relatively new, full-sized Microsoft model without "BlueTrack"), this one was noticeably smoother (pointer movement) and it made my other mouse seem jerky and primitive.
+1	It may seem a bit childish but after purchasing a name brand mouse and having it perform like a china made import in addition to having to go back to the integrated laptop pointer, to say the least I was a bit upset.
+1	With "enhance pointer precision" on in win XP, the speed ramp seems to be a lot steeper than with my old mouse.
+1	While the mouse itself had great pointer response and moved very nicely on my desk, the scroll wheel is what ended the relationship for me.
+1	While the pointer was quick to respond to movements, and accurate, the obnoxiously large "receiver" that has to plug into a USB port easily gets its signal blocked.
+1	For example, I would like to see a numeric keypad and also a presentation/pointer that could work with the unifying receiver - logitech makes both such devices now, but they won't work with the unifying receiver.
+1	Most of the time the  pointer moves erratically  or not at all.
+1	The pointer motion is very accurate and smooth, scrolling is excellent, and conveniently placed thumb keys that are actually useful (just like my old ComfortOptical 3000).
+1	This was my second wireless mouse because the first one gave away due to tons of issues like battery life,  flickering pointer motion  etc.
+1	) The  pointer motion is not smooth .
+1	That's not a huge deal, but the deal breaker comes when you attempt to use the side-scrolling feature (which I use a lot on documents and emails) and you quickly realize the wheel will shake up and down and your  pointer on screen starts going crazy .
+1	Problems on my older Mac: 1) when clicking and dragging a title bar to move a window the mouse will  often minimize the window instead, very annoying, I had not even gotten close to the minus or plus symbols and was staying completely in the blank section of the title bar with the pointer 2) I was not able to click and drag a large rectangle over several icons at once to select them all at once- normally you can do this 3) I could not highlight part of a line of text without selecting the whole line, other mice can do this touch but not with this mouse on my older Mac Since, I've gone back to a wired mouse, no problems.
+1	The buttons work sort of, but you  can't see a pointer  anywhere so the mouse is useless.
+1	I just bought another one for a work laptop and now a co-worker who has a different Microsoft wireless mouse can control my pointer from her cube (about 4-5 feet away).
+1	Instead of being smooth movement across the screen, the  pointer will jump  all over the place if it moves at all.
+1	the mouse  pointer just jumps  from place to other.
+1	and when u click the  pointer moves away  from the place where u clicked.
+1	i dont know if its just mine, but at times my mouse  pointer will go crazy .
+1	i try using it on my bed and sometimes its so hard to get the mouse pointer exactly where i want it.
+1	It's much harder to rapid fire with your pointer finger on the left button to fire in games.
+1	One problem it occasionally stops working  pointer will move only small distances and not to the top of screen at all.
+1	It's as if the mouse had a minimum distance it must travel to register a movement, so the  pointer would essentially 'jump'  from one point to another.
+1	Now I can see this mouse being minimally acceptable for users just surfing the web or general home use where big buttons and easy to hit links help make up for grossly  inaccurate pointer movement .
+1	But in a business setting, or anywhere that vaguely accurate pointer movement is desirable, this mouse is a disaster.
+1	The  pointer will freeze  occassionally, the other times the the mouse pointer will jump across the screen in response for a small move.
+1	it 'works', but the  pointer is either very jumpy , or extremely sluggish.
+1	The 3000 model also has "improved" tracking precision, which means very erratic  unprovoked spantaneous movements of the pointer  in real life.
+1	- limited range: don t try using this as a pointer from across the room because it's not likely to respond.
+1	The laser is located near where the pinky finger would rest not under where the pointer finger is.
+1	It worked for 3 months, then today the  pointer stopped moving , I went to unplug the wireless USB transmitter and burned my fingers.
+1	Yes, it is very comfortable and yes it is a relatively good mouse if you can stand the  pointer stuttering  and lagging for a brief second everytime anything loads.
+1	)  The reason I purchased this mouse is that with the new laptop, even at the fastest mouse setting, I have to slide my finger back and forth over the touchpad several times to get the pointer from one side of the screen to the other.
+1	The cursor speed is significantly higher than any of the other pointer devices I have.
+1	You may see your  pointer dance around  if you use your leg or the bed, but apparently this is more or less normal with Logitech laser mice.
+1	* If other people are using the same mouse in the vicinity, the signals get distorted and you occasionally  loose control on the pointer .
+1	This mouse compared to the Microsoft seems to move the pointer 2 or more pixels at a time.
+1	that was the stipulations for me liking the mouse and even though i had to adjust the screen setting of the pointer (way too fast preset), i wouldn't even consider that a legitimate problem.
+1	I would slide the mouse across the screen (left to right) and the  pointer would track erratically  up and down as it moved.
+1	I have worked with all manner of keyboards, mice (1, 2, 3 buttons and combos), trackballs, pointers, pads and other input devices.
+1	About a week of great use then out of nowhere the mouse  pointer started to lag  and became unresponsive.
+1	The one thing I am disappointed with is the software, mostly it's compatibility with Windows 7 my laptop's (lenovo T410) own trackpad and "eraser" pointer.
+1	On the defective mouse, the scroll wheel worked, the right button worked intermittently, but the  pointer wouldn't move .
+1	on gaming sometimes  pointer just goes  wacko mouse feels nice.
+1	Even at that distance, which is never more than 12" to 18" I still occasionally get a "weak signal" popup notification on my screen, followed by  erratic pointer movement .
+1	It may be my cluttered computer as I haven't formatted in awhile but I wasn't happy with the  pointer skipping around .
+1	An easy fix is to change the mouse pointer scheme to "None" instead of "Aero" in the Mouse Properties section.
+1	.

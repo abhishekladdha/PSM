@@ -1,0 +1,1103 @@
+0	I replaced a wired router from Linksys BEFSR41 with this wireless one .
+0	I am writing this review for those of you who know little or nothing about all the technical aspects of setting up a home wireless network .
+0	Works much better than my old microsoft wireless router .
+0	So my experience may not be the same as that of the average novice but I think that if you're going wireless you've already got some computer time under your belt .
+0	I have it set up in my basement a less than ideal location for a wireless router and I can still connect to my network using my laptop from my neighbor's backyard a good 50 feet away through several layers of sheetrock and a 6 concrete foundation .
+0	Bought the router and access point along with a wireless g pcmcia card by linksys and have had absolutely no problems .
+0	I am running a total of four computers off the router two wired PC's running XP a wireless laptop running XP and a mac running OS 9 2 .
+0	When considering this product I was not sure if I should purchase a wireless N or wireless G .
+1	The wireless N was almost twice the cost & the speed difference would be negligible .
+0	My first experience with wireless and it couldn't have been easier .
+0	I bought this Wireless Router to replace an old Dlink that had burned out .
+0	Finally i have found the right wireless sloution for me .
+0	You whould't even know it was wireless .
+0	Buy this if you are in the market for a wireless network .
+0	With wireless routers you have another potential hole the wireless connection .
+1	Someone next door may have a wireless system too and could access your system if you forget to set these software firewalls .
+0	Why the four port wireless model you ask You may only have one computer .
+0	What about the wireless capability you ask .
+0	So when I needed to switch to a wireless router I just looked for a wireless version of the same thing .
+1	Since it seems to be widely used I found troubleshooting information easily on the internet evidently my wireless phone was on the same channel and I was getting a very slow connection .
+0	I bought this to replace the old Linksys wireless router because my new laptop didn't get along with it .
+0	I was trying to decide whether to purchase a wireless router from Netgear or from Linksys .
+0	I would recommend it to anyone who is looking to set up wireless in a home or apartment .
+0	I was slightly apprehensive when I bought this wireless router .
+0	But since I now have two roommates who both use laptop computers and with our house only having Internet access in one room I figured it was time to finally bite the bullet and see if I could set up a wireless connection for us .
+0	My desktop computer connected via an ethernet cord in the 'main room' is running the Internet perfectly and both of my roommates' laptops which were both equipped with pre installed wireless cards are now magically running high speed wireless internet .
+0	exactly what i needed for my secured wireless network .
+0	bless her heart Anways Plugged the bad boy in hooked up 2 Desktops via ethernet ports then Desktop upstairs Via Wireless NIC and laptop is just AWSOME I get full 54mbps from router in office located in basement to upstairs on other end of house .
+0	And as far as the Xbox goes I'm playing my games right now on it no wires all wireless with the USB adapter for 802 11G .
+0	Enabling wireless security was a snap and features like a MAC address filter list and disabling the SSID broadcast make this access point a great choice if you're worried about network security The range in my medium sized apartment is excellent the speeds never drop below 36Mbps and that only happens if I've got my arm over the transmitter .
+0	To be honest I got it just to link up my Xbox attached to a WET11 wireless ethernet bridge to my cable modem ISP Comcast so I could get rid of the 70 feet of ethernet cable that ran down the hall .
+0	The setup was a breeze I had some reservations about a wireless network see my review for linksys wet11 but this item was on sale as well as the WET11 so I just had to splruge .
+0	This is my first foray into the wrld of wireless and it couldn't have gone better .
+0	The desktop is wired and the laptops are both wireless .
+0	I know the wireless N standard is becoming more common and I was sorely tempted but as all the laptops I have only have G B cards I decided to hold off .
+0	I did notice that changing the wireless channel 0 11 can help as you may be facing interference from other routers phones .
+0	I am writing this over the wireless link configured with 128 bit WEP with no SSID broadcast .
+0	The fact is that configuring networking and especially secure wireless networking requires that the user know at least a little bit about what they are doing .
+0	This is my second Linksys router and the first with wireless .
+0	I've never used a wireless router and installing this one was so easy .
+0	Now I have my wireless network at home which by the way works beautifully .
+0	I've been using it for about a year with my Dell laptop & works great Just put a wireless PCI card in my OLD school Dell desktop & added a Canon MP620 wireless printer last nite .
+0	this is <p> best budget wireless device <p> on the market .
+0	It works right out of the box if you don't mind sharing your wireless .
+0	And it's <p> easy to secure your wireless <p> if you're not into the whole open net thing .
+0	If <p> Wireless G is fast enough <p> for you this is the most bang for the buck available .
+0	Linksys gives you a disk with step by step instructions and the next thing you know your <p> wireless is up and running <p> .
+0	Since I got the Linksys WRT54G wireless G router configured I've been completely satisfied with the performance and reliability of the product .
+0	So for the quick and short of it ordered on Sunday evening at around 10 PM Pacific Std Time and 3 days later on Wednesday I have my wireless router up and running .
+0	Some General Comments from other reviewers why in the heck do you want to upgrade your distance from 200' to 2100' as one person pointed out If I want to go drive almost a half mile away from my wireless network what the heck do I need my laptop for Are you downloading music at a friends or what I'm really curious about that .
+0	<p> Slight improvement in wireless speed <p> no change in signal strength .
+1	Even though I only run two wireless computers with it the set up was not trivial .
+0	Would definitely recommend this product for someone looking at wireless routers for their home .
+0	I had a Linksys wired 802 11B router and wireless access point which worked well but decided to upgrade to an all in one 11G device .
+0	Linksys WRT54G <p> Wireless Router is really good <p> .
+0	Transmition is so strong that all my naighboors can see the wireless network .
+0	It was easy to setup and the <p> wireless coverage was pretty good <p> .
+0	The only thing I had to configure was wireless SSID and WPA shared key .
+0	When buying wireless equipment from any vendor keep in mind that the version number for the hardware and software is as important as the model number .
+0	Another issue is that the range of wireless depends very strongly on the enviroment not just the vendor .
+0	It has very good router features as well as wireless security features .
+0	Go to the cnet com to read about the wireless security issue you will know that WEP is not secure and WPA is so much better and will become the new standard .
+0	And believe me you could use a lot of them if you are new to wireless or like to try out different settings like me .
+0	I had a hell of time to get the wireless to work when I was talking to Linksys tech rep using my 2 4GHz phone .
+0	This is my second Linksys router and I am very pleased with its performance for Wireless G and wired .
+0	I've had a wireless B router that I used for my home networking needs in the past .
+0	Bought this wireless router on sale from Amazon free shipping and am very pleased with the results .
+0	Overall I am happy and highly recommend this wireless router to all new users .
+0	The whole process took me about 15 minutes and my <p> wireless was up and running <p> .
+0	Another interesting feature not offered is WDS which lets you use another WDS device to extend the range of your wireless network .
+0	What makes the WRT54G a highly coveted router besides its <p> good wireless performance <p> and interchangeable socketed antennas is the availability of third party open source firmware which supports these features and more .
+0	Just installed wireless wrt54g router with win98se ethernet cabled in and communicating with win ME on wpm54g wireless adapter .
+0	I bought this router to divide our cable connection's bandwith and go wireless in the same time .
+0	First you should connect the cable from your DSL modem to the router then connect your Mac to the router with another cable don't bother to try wireless for the first time .
+0	Also lets not forget that it provides wireless internet in a home and is able to both low and <p> high speed wireless <p> so you can use an old but still good laptop to hook onto your own system .
+0	Also you should protect your wireless system with password and encryption this model offers a range of possibilities on that point too and all this for a nice price it was undre $50 00 when I bought it .
+0	When I asked around for recommendations on a basic wireless router to use with satellite internet this is the one everyone suggested and I think it was a good choice .
+0	Functions great as a router or just a simple 4 port switch and wireless access point .
+0	I found the Linksys WRT54G <p> Wireless G very easy to install <p> .
+0	It worked with my 802 11b card as well as my 802 11g wireless card instantly .
+0	going wireless is the way to go the set up is straight forward though I ran into an issue with existing anti viral software on my lap top interfereing with the set up .
+0	As i hate being bound by a troublesom wire to my old d link router i need to go to wireless .
+0	Setup was a bit tricky u need to have some knowledge about setting up the wireless laptops and lan wan IP address and such .
+0	This document will surely help you in enabling File and Printer Sharing whether you have a wireless or hardwired network .
+0	My brother had an old Linksys B band wireless router in his home and it was like magic .
+0	Before purchasing the Linksys wireless WRT54G 2 2 router I read all the reviews I could find although none seemed to be for this lastest release most folks seemed to have had some trouble with setting it up .
+0	In less then 10 minutes the Linksys router & wireless adapter for my laptop were running perfectly .
+0	The new wireless router contained large warnings to run the CD first before trying to connect it .
+1	The only other problem was that security for the wireless connection .
+0	But knowing that the IP for my previous Linksys router was 192 162 1 1 I went there and found a drop down screen that had the information the security key I needed to connect my wireless laptop .
+0	The <p> router works fine for both wired and wireless <p> .
+0	If you are satisfied with Wireless G speed this router is full featured powerful and relatively easy to set up .
+0	I wanted to go wireless so i bought this and a Trend wireless pci adapter .
+0	As I opened the package I saw everywhere signs of run CD first and so I did everything seemed to be running smooth until I got stalled on step 8 where it asked me to put in a password did not said which one so I put any combination I could inlcuding wireless router's default and nothing kept asking me for a password .
+0	I had to download the Linksys easy advisor I recommend it and my <p> wireless network was set up instantly <p> so in the end I didn't use the software that came in the CD .
+0	Price has dropped a bit too since Wireless N came to surpass G .
+0	It's your basic starter level wireless router .
+1	I couldn't get it to work properly it would crash fairly regularly upon attempted wireless connections .
+0	I think that as long as the adapter gets configured correctly which shouldn't be a problem considering half these things are PnP I should have no problems with hooking it up wireless .
+0	I just bought the Linksys WRT54G wireless G router I have no networking experience but I found the setup extremely simple .
+0	It took me about 20 mins in total to get going now using a Linksys WPC54G card in my laptop I have wireless access throughout my home .
+0	I recently decided to upgrade to a wireless network and was a bit confused on which product to get .
+0	For me the main purpose of going wireless was the ability to connect my Xbox online .
+0	I wanted to make sure my router and wireless adapters were compatible .
+0	When I bought this I only got it because my network card in my laptop died and I got one of the 54G wireless cards for that I figured since my router is old too why not replace it too I did and got an awesome deal on it through amazon com .
+0	First of all for the past few weeks I have been reading the reviews on Amazon and other websites looking for a wireless router for my Apple however none of them ever seem to mention that they support Macs So for those of you with an Apple this is compatible .
+0	The Linksys package does not say it supports Macs but after doing some research online and asking the guy at the store. I took the router home and was wireless within twenty minutes I live in an apartment and the <p> wireless network works AWESOME <p> .
+0	For you Apple peoples after following the online setup for the router go into Network and have the computer switch to detect a wireless network .
+0	I bought the Linksys wireless router thinking this would cure my ills that I was having with my old Belkin router .
+0	This version also has an SPI firewall as well as more security options for the wireless client My adivce to you is that if you are looking to purchase this router make sure you pick up the 1 1 version And before you begin using it after you get it out of the box press the reset button to make sure it is back to the factory default setting go to linksys's website and update the firmware to 1 42 2 .
+0	i used to have a NetGear wireless router suddenly the wireless part stopped working updated firmware etc .
+0	I use this router for a wireless network in my 2 bedroom apmt .
+0	So far the router has been working flawlessly since I bought it with Linksys wireless card for my laptop and a Toshiba with WiFi as well .
+0	By the time I had looked at the online manual and help information the hub had configured itself and my two wireless laptop computers were telling me that there was a wireless network available and the PC I initially plugged into the router was giving me the network key .
+0	I have everything secured with WPA and I have been getting <p> incredibly fast internet speed on my wireless <p> laptop .
+0	I am truly a novice with wireless .
+0	Read up on the technology online bought a laptop with wireless adapter installed and the Linksys WRT54g router .
+0	I just got this router to replace my old D Link wireless B that expired suddenly .
+0	Replaced my 4 port no wireless Linksys router with this one .
+0	Wired works just the same and I was able to get wireless set up securely in under ten minites .
+0	It works better than my old netgear wireless router .
+0	It's relatively easy to configure I used it with my cable modem and with DSL and I have computers hooked up to the router via wired and wireless connections .
+0	I knew nothing about wireless networking but wanted one because Net now streams 1 000's of their movies to a subscriber's television through a wireless networked system .
+0	I use Linksys products at many of the locations I support at work so I was pretty sure I wanted Linksys when I set up a wireless LAN at home .
+0	This router supports all of the wireless security standards available short of WPA Enterprise .
+0	64 bit WEP is the least common denominator so every wireless device should at least support 64 bit WEP .
+0	Make sure you read the basic instructions which tell you to put the CD in first Do that follow the online prompts and you will be wireless in five or ten minutes .
+0	When comparing the BEFW11S4 2001 vintage wireless wired router and the WRT54G the ethernet cables do not slip in and out as easily in the 54G making it harder to work with from a pure mechanical perspective .
+0	Now my wireless laptop is very very close to the speed of my wired desktop .
+0	this router installed in minutes hassle free right up until the wireless part came in .
+0	I was a bit skeptical on setting up a home network let alone a wireless one .
+0	If your thinking wireless go with this one .
+0	Add another 10 minutes and I had a wireless client on the internet using the Linksys nic WMP54G Wireless G PCI card .
+0	The point is setting up a wireless network is a little more involved than say plugging in a printer I suspect a lot of negative comments about this unit stem from people simply not taking enough time to read the instructions and understand what they are trying to accomplish .
+0	So yes this unit is great I'm running a mix of PCI and PCMCIA wireless units both B and G and after two months have never had a single problem .
+0	1 Make sure you turn off the Microsoft Wireless Zero Configuration service .
+0	2 Make sure you use some sort of authentication for wireless preferably WEP 128 combined with MAC Address Filtering .
+0	One computer is running hardwired to port 1 two computers are networked via the wireless port .
+0	I recieved the wireless router today and it took less than 10 minutes to setup properly .
+0	I also bought the 54g wireless card and everything works fine .
+1	unless you know quite a bit about net working and terms it can be difficult for a new to wireless persont to get easyly confusted .
+0	Easy much improved Setup I attached Wireless G Notebook Card and took notebook out of house It worked great outside the House Even my neighbour could see my Wireless Connection on his PC using his Wireless Card .
+0	We live in a fairly large apartment building with many wireless routers in operation .
+1	I first bought the Linksys Wireless B router and it was nothing but trouble .
+0	Uploading to FTP sites are no longer a problem and wireless connection is very stable between my desktop computer and a notebook with Centrino technology .
+0	Now I don't worry about the wireless thing any more .
+0	Again very BRIEF EASY instructions to follow Someone that is computer savvy should have everything both the wireless router and wireless adapter up and running in less than ten minutes .
+0	I would highly reccomend this product to anyone looking to add wireless capability to their high speed conn .
+0	I purchased the WRT54G and the wireless Print Server WPS54GU2 I could not get them to work initially tried the on line supoort knowledge base and on line chat no help .
+0	Its <p> wireless coverage is very good <p> throughout my house and decent even at the back yard .
+0	I used to own a $20 after rebate cheapo wireless router that I thought would be adequate enough for a home wireless networking .
+0	This is an <p> excellent wireless router <p> .
+0	It also works great with notebooks with wireless adapters .
+0	This product was bought to replace a 3 year old wireless router .
+0	If you want to start a home Wireless network and have either a Cable modem or DSL this is the product for it .
+0	I purchased this plus 3 Linksys Wireless G PCI cards and I now run 5 computers from one connection in my home .
+0	I run not only all of our PC's off this one device 3 wireless and 2 wired but I also run my X BOX wirelessly .
+0	I work on computers and networks professionally and have set up a few wireless networks .
+0	For ease of hookup and installation this is the wireless broadband router to use .
+0	I have networked 1 wired Mac 1 wired PC and 1 wireless Mac .
+1	Though as I understand it wireless technology in general is difficult to work with without prior experience .
+0	This <p> router is quick and easy to set up <p> took about 5 minutes total and is great for tying all your devices together thanks to the wired and wireless capabilities .
+0	The Linksys WRT54G Wireless G Router by Linksys was the rather unattractive blue and black model although there are newer models which look much nicer .
+0	We used it alongside Linksys' Wireless G adapter as my roommate was using a desktop with no wireless card .
+0	My computer as the master still had one wire connecting to the Wireless router which in turn was connected to the modem why was connected to the phone jack .
+1	Sometimes this situation would remedy itself and others I would reset the wireless router reboot my computer or physically unhook the router and modem to fix the issue .
+1	It seems that Linksys wireless options are at the low end of the spectrum and while this was only mildly irritating for us for someone who requires constant uptime or fast connections the Linksys WRT4G Wiress G Router may not be the way to go .
+0	Wireless broadband in your home is great This router would have been very simple to set up had it not been for Comcast Cable .
+0	I only use it to conect a PC and my dell inspiron 6000 wireless to the internet and the performance is excelent .
+0	Setup my entire wireless network in less than 2 hours .
+0	The WRT54G as a wireless router alone is quite good and comes with cutting edge security options WEP TKIP RADIUS etc and supports all b and g wireless equipment .
+0	It took me no time to set up the wireless router with my Mac Powerbook G4 .
+0	I just connected the router to the modem and to the power supply swithced it on and voila my Powerbook <p> detected the wireless network a few seconds later <p> and I was browsing the internet alredy wirelessly .
+0	Installation of all three was very smooth PC = WinXP notebook = Win2k and <p> wireless performance seems to be good <p> .
+0	Went downstairs with the wireless laptop and started surfing .
+1	When it came to the wireless PC card I got stuck .
+0	I was on the internet wireless nevertheless .
+0	The product stood up to my expectations of delivering a <p> wonderful wireless router <p> and also dispensed all my worries of being able to connect both a Mac and PC to it at the same time .
+1	My only warning for other customers is to acknowledge before you buy that if you own a wireless phone that works in the 2 4 GHz band you'll have this product interfering your conversations or when the phone rings your internet connection interrupted .
+0	Some blogs mention that separating the phone and router units helps minimize the issue and this has worked in my case I own a Panasonic wireless phone but this has not always solved other users issues .
+0	Will recommend to anyone looking for a wireless router .
+1	I initially had problems having my T41 ThinkPad's builtin wireless adapter connecting to the network using the 128 bit WEP encryption .
+0	But after tooling around with my laptop I found out it was my wireless setup that was the problem .
+0	I purchased this in 2003 for use with a family desktop music server two wireless laptops and a Buffallo wireless access point for the kid's desktop .
+0	E g you can't really control whether your neighbors have 2 4 GHz wireless phones Anyway something to consider if guaranteed uptime is at a premium for you .
+0	The most <p> reliable and efficient wireless <p> G B router in the world .
+0	But when you establish a secure wireless connection the CD set up is not user friendly .
+0	You have to run through the software a few times setting up wired computers first then go through the software again pretending to set up an unsecured network to get to the information on setting up a encrypted wireless network Great product they just need a better set up disc .
+1	After a few months the wireless suddenly stopped working and I had to manually set up and force the wireless connection .
+0	ok this is how it goes this is the only wireless router i have ever used and it happens to be that way because it has served all my wireless needs perfectly and hence i have had no need to try any other one .
+0	what ever the case may be this is a great product and i recommend it to anyone wanting to go wireless .
+0	HOWEVER configuration of my system and actual setup of the router for wireless use took me more than 3 hours and briefly made me reconsider my choice to forego the airport and its notoriously easy setup .
+0	I say adequate because it was enough to get wireless working but nowhere near enough instruction to do the proper configuration job that I could have done if someone would just give me some instructions in plain English .
+0	My suggestion is if you are in need of a wireless LAN card grad this one .
+0	I soon realised I wanted a Wireless Router so I could use the PSP's Internet capabilities .
+0	It's worth the 20 minute wait And working from home wireless while laying in bed drinking coffee in the kitchen or watching cartoons with the kids is magical .
+0	The Linksys WRT54G wireless router gets a thumbs up from me .
+0	I bought this as a replacement for an earlier Linksys BEFW11S4 wireless router that went bad .
+0	Though the tech support person tried to help the old router just could not produce wireless signals .
+0	That said my Linksys <p> Wireless G is up and running <p> just fine with my Mac .
+0	I was a little amused after reading electronics guy's review where he says The fact is that configuring networking and especially secure wireless networking requires that the user know at least a little bit about what they are doing My brother has been working with computers since the days when they were TRS 80s and he was 13 years old .
+1	that's slow and clunky 2 The router does NOT SUPPORT WIRELESS BRIDGING .
+0	Software easy to install work flowless using wire or with wireless card .
+0	It gave me the excuse to upgrade to wireless got the WRT54G and a Belkin USB wireless adaptor and had the whole shebang up and running in about 1 hour .
+0	And boy am I a happy person After all this time I finally set up a wireless router at home so that I can use my work computer wirelessly in my home .
+0	Just going through a divorce and needed to set up wireless internet for my older mac laptop .
+0	I have done the wireless thing for almost five years now .
+0	While PC notebooks can find the network right away it seems macs take a couple of minutes before the network pops up we haven't figured out if it is a problem on the mac wireless adapter end or the security measures setup of the linksys router .
+0	I recommend configuring your router to just accept the MAC addresses of the wireless devices you have .
+0	I found the an NEW Encryoted wireless network on the list .
+0	I bought this router in a package with a wireless notebook card .
+0	I didn't really need the wireless card as my new notebook has built in wifi .
+0	I bought this router and the Wireless Card for my laptop so I could use my new high speed cable access .
+0	I would certainly reccommend this product November of 2006 and I bought a new laptop with a built in wireless card .
+0	The 54G wireless router works exactly as advertised .
+0	I will first say this if you are new to wireless as I was it may take a little while to get set up .
+0	I recently bought a Dell Inspiron notebook with an Intel wireless card pre installed .
+0	I highly recommend this product so much so that I now have my home pc running wireless with this same router and the Linksys WMP54GS desktop wireless card .
+0	The Linksys WRT54G <p> Wireless was an excellent buy <p> .
+0	I purchased this router along with the WPC54G wireless card and I am nothing but happy .
+0	As a newbie to the wireless home I'm enjoying its fruits .
+0	Very easy to install and connect with wireless cards in house just carefully and methodically follow their install directions don't rush like me I have almost no patience hence the pen name .
+0	The upgrade went smoothly and now I have a wireless bridge for a reasonable cost .
+0	Both of us use Linksys WPC54G Wireless G Notebook Adapters and have had no problems The firmware that ships is v1 1 and both of us took a risk buying this much against complaints heard from other office colleagues that their home office setups would not work when they tried connecting to the office's VPN through digital certificates .
+1	It was HIGHLY annoying and made the wireless useless I just got off the phone with LinkSys support yes at 2am EST Wednesday and a 1 800 number and they recommended unchecking the Enable IEEE 802 1x authentication for this network .
+0	I can't remember the last time I had to reset any LinkSys router I recommend that everyone do a security lock down on their wireless hardware .
+0	I followed a reviewer's advice and did not mix different products from different vendors and also bought the wireless card WPC54G .
+0	I came from an older Netgear 802 11b wireless router that worked in 2 rooms and didn't have coverage over the entire house .
+0	I have successfully used the additional Ethernet ports to add peripherals to my wireless networks .
+0	My son bought this so he use his laptop at home and utilize the wireless capability .
+0	I truely knew nothing about seting up a network let alone a wireless one .
+0	I read a few good things about this product and decided to buy it and the WPC54G wireless notebook adapter .
+1	I tried and failed using the D Link 624 108M wireless router .
+0	In my oppinion the WRT54G plus the HGA7T is a perfect solution if you need wireless coverage in a wider area or for a hard walled house as was my case .
+0	<p> Works great as a wireless <p> or a wired router .
+0	Has decent security features You may want to SERIOUSLY consider securing your wireless network at least to some extend e g .
+0	This <p> Wireless G router is noticeably faster <p> than my old Wireless B .
+0	I liked the router so well I replaced my standard wired router with this one after I bought a Wii so I could use the wireless feature .
+0	As can be expected from all wireless routers configuration takes a little bit but this is a very powerful router .
+0	It has a 4 port switch for used with wired devices and it also features the latest in Wireless Technology Wireless G .
+0	I must say this is the best wireless router that I have ever used and I've used three other brands .
+0	There are those for whom setting up comuter to be wireless is a job that can be done in their sleep .
+0	I'm on linksys WPC54GS PCMCIA wireless notebook adapter with speedbooster and am getting 100% signal .
+0	This router after thorough investigation was chosen by me to hold a wireless network in a 2 story house .
+0	I'm a Mac user and at home I use the Apple Airport and Airport Express wireless routers .
+0	Works perfectly with my netgear wireless PCMCIA .
+0	Had my WPA secured wireless network setup within 20 minutes .
+0	To my knowledge nobody is accessing my DSL from another wireless computer and I live in the density of a major American metropolis .
+1	Of course transfers are a little slower to any of the wireless devices excluding the 802 11g device .
+0	it's <p> stable on wireless connections <p> and very easy to configure I have 3 notebooks and 1 PC working also good in networked games Meets my Network needs Good stuff for a good price .
+0	I was looking for a wired wireless router .
+1	The only real complaint that I have about the router is that on occasion my 2 4 GHz telephone and the router will interfere with one another and I'll loose my wireless connection .
+0	If you're looking to go wireless and want a router that's both easy to use and features some more advanced features you want go wrong with the Linksys WRT54g .
+0	Unfortunately there's no such thing as a plug and play wireless router .
+0	With the Linksys Wireless G router you can rest assured that once you get everything set up right which may be a piece of cake lucky you or require a call or two to technical assistance it will continue to work well for a long time .
+0	The end result is <p> fast easy wireless <p> broadband .
+0	I actually purchased 2 wireless routers to set up a small internet access at my business and I couldn't have picked better units than these Linksys routers .
+0	If your seriously looking into going wireless this product is a must have .
+0	This Linksys wireless G router was simple to set up and I didn't need to upgrade to the latest firmware to get any of the security features to work correctly with my laptop .
+0	I went wireless for one computer in my house was too far away .
+0	Was a little tricky setting up unless you have the Secure Easy Set up wireless adapter in your computer .
+0	Step by step instructions could be better thought out especially for WEP and wireless incription security .
+0	I was trying to get this device to work with a WMP11 802 11b wireless PCI card D Link Air wireless laptop PCMCIA card and a wired desktop to the router .
+0	I have not had a chance to try out a wireless connectivity beyond 11MBs .
+0	I needed to upgrade my wireless network and since I had previous good experience with Linksys products I decided on this wireless router .
+0	For those who are planning to purchase the product of this catagory I would recommend go ahead with it but DO NOT FOLLOW the procedure prescribed in CD for wireless connectivity .
+0	It would me MUCH simpler to just call Linksys Customer Care You may need to call twise at toll free number s and product will meet your expectations of wireless router .
+0	After turning this feature on the wireless network could not be found .
+1	So i just left it off  One thing that i dont like about this WRT54G Wireless G Access Point Cable DSL Router is that the range is not so great .
+0	I never knew <p> wireless connection can be that stable <p> until I use this router .
+0	I thought the wireless was like this After using this router with the same card 802 11b I have I found that my D Link is a piece of junk .
+0	My friends can link up when they dropped into town with their wireless laptops as well .
+0	I combined this with the WET11 wireless Bridge and my Xbox live is smooth and wireless Note If still using 802 11b make sure to adjust wireless transmission rate on advanced screen to Auto .
+0	Mine shipped with it set at 54 only and my wireless devices wouldn't interface with the router .
+0	I currently had a Linksys router and wireless access point WAP so I thought I might just go wireless in my new office .
+0	I replaced my router and WAP with a single component Linksys Wireless G WRT54G .
+0	I had tried to setup a home wireless network with appropriate security a couple years ago and had all sorts of problems .
+0	It also has easy to follow instructions for connecting wireless devices and limiting access to only those allowed devices .
+0	Just installed this wireless access point router over the weekend and am amazed at it .
+0	Instead I had to configure the router after I installed my wireless card a little challenging since the since the Web based configuration was tough to access without a wireless network already operational .
+0	Am planning on adding my work laptop Dell C400 to the wireless network as soon as new chip arrives .
+0	Had a friend help me secure the wireless connection which was not that hard to do .
+0	Now as Wireless N becomes the standard the price of G routers should come down however if you have a pc that was made before n was introduced it is pointless to buy a n rounter .
+0	Wireless can be used on a multi floor building but don't expect 100% connection on every floor from this router .
+0	I use Linksys Netgear Orinoco and AT&T wireless cards and not a single one gives troubles with this router .
+0	If you follow the instructions it should take you less than an hour to install the network and card adapters and have your <p> wireless up and running <p> .
+0	I gotta say I was a little intimidated to set up a wireless network .
+0	I love wireless and I totally recommend this fine product .
+0	Just hooked up my wireless G router with the W G PC card .
+0	Being that this is my first exposure to wireless I'd like to learn more about things like placement of the router tips tweaks or tricks .
+0	I bought this router for two reasons I had upgraded my cable internet service but was not getting anywhere near the promised speed and my son wanted wireless internet connectivity to his Nintendo Wii and DS .
+0	I ignored it and just connected to the router directly adress 192 168 1 1 username admin password password I set the WEP security key in the Wireless Security section changed the password and I was ready to go .
+0	This is definitely a five star router for those whose needs are similar to mine wired computer connections and wireless games with some computer skills .
+0	If you want fast WIRELESS computer acess might want to consider a faster N router and if you're computer illiterate you might want a router with easier setup instructions .
+0	After this change the wireless is working fine for vista .
+0	If you want a wireless G router buy this one .
+0	The <p> wireless router just worked right <p> .
+0	This was fabulously easy to get done I connected the router to my cable modem and installed the wireless NIC cards in 2 laptops and 2 desktops .
+0	We now have <p> wireless high speed Internet connections <p> all over the house and most importantly I was able to retreat to my summer office outside in the Gazebo with two wireless phones and wireless laptop and continue to slave away Technology that doesn't drive me crazy will always get my vote .
+0	The unit is high on a shelf on the second floor as you want to put wireless as high as possible .
+0	I was a bit worried initially that I would have difficulty getting the router to talk to the laptop's built in wireless adapter but I needn't have worried despite the fact that I ad never set up a home network before I was up and running in minutes .
+0	The laptop and router had no problems communicating From what I've read about home wireless network security this one seems to have all the essential features WPA the ability to filter by MAC address of the machines on the network ability to disable DHCP etc .
+0	the online configuration is a snap although there are a lot of options to hunt through and not all of the security settings related to wireless networking are in one place .
+1	it is a good router when it workers properaly but my main problem is with my ISP and that i have to regester the mac adress and linksys had 3 different mac adresses for their wireless routers .
+0	update that will work with my wireless products .
+0	where we have an entire campus of Cisco Wireless 340 350 access .
+1	w your wireless AP router which frustrates me extremely .
+0	I received my Linksys WRT54G Wireless 54g Router and Linksys WPC54G Wireless 54g PC Card and I all I can say is WOW .
+0	After an upgrade to 802 11B several months ago BELKIN wireless router and card I was very happy with the wireless world in the home home office environment .
+0	In an age where nanoseconds are often the difference between 2 items this sets the standard bar a notch higher for the rest of the wireless community .
+0	no problems accompanied this purchase since i decided to add wireless capability i read some reviews and bought this wrt954g .
+0	Use the simplier smaller one because your wireless PC card cannot handle the complex one .
+0	I haven't tried the other lines maybe they are passwords also On your wireless card when you log on it ask you for a password supply what I said in the last paragraph If you get fustrated shut everything down and power up in the sequence suggest in the manual .
+0	Upon completion two of my laptops <p> easily found this wireless <p> device and connected to it .
+0	This was odd since it had been <p> finding my Wireless <p> B device prior to my upgrade to Wireless G .
+0	I disabled the Linksys card from this action and immediately had the new device show up in my Wireless Connections .
+0	There are 3 computers in my house all getting wireless connection from this router and everybody is happy with it .
+0	With the install disk spoon feeding you what to do to set up a wireless LAN and the flawless performance this gets 5 stars .
+0	Two laptops and another desktop with a Linksys wireless card were easily set up for wireless service in the house .
+0	Since that time we signed up for HughesNet satellite broadband access and the unit has been reconfigured to act as an internet gateway in addtion to being a wired wireless router .
+0	Easy set up and does not need to be reset once connections to wireless devices are made .
+0	one other problem which is not linksys's fault is getting disconnect while someone is using wireless phone or cell phone .
+0	this is the forth Linksys Wireless I have purchased and installed for myself and my friends it worked as expected right out of the box with no problems whatsoever thanks Linksys .
+0	Performance of the wireless connection throughout my 2 story house and deck area is <p> good with wirelss speeds <p> well above my DSL internet connection .
+0	and as an ap dhcp off i use this <p> beautiful wireless router <p> .
+0	This was actually an expansion of the wireless network that I already have .
+0	This device allows enhances your home network in a number of ways 1 It allow you to connect up to 256 wireless computer to the network .
+0	3 <p> Allows communication among wired and wireless computers <p> .
+0	As with any wireless router the <p> wireless speed even for G is good <p> for nominal file sharing web browsing and email but if you need to transfer large quantities of data I would rather connect to one of the 4 available ethernet ports in the back .
+1	The speed and reliability of the wireless connection decrease significantly with the distance from the router and the interference .
+0	First if you are thinking about going wireless it is well worth the investment .
+0	I had much success setting up this wireless router Linksys makes a <p> excellent wireless G routers <p> .
+0	I give it 5 stars Love this wireless router It sure makes my life easier .
+0	buy yourself a Linksys WAP54G Wireless 54g Access Point it will work out better .
+0	Perfect for my wireless network at a great price .
+0	This is my second wireless router the first was the D link 614 old by today's standard .
+0	Oddly I had more trouble from my 'wired' connections than wireless .
+0	Both my wired and wireless connections work great setup and encryption were easy and I have yet to receive a 'page not found' error or had to repair a network connection .
+0	With a web browser check that you are able to use the internet through the wireless connection .
+0	The router has a <p> good wireless range <p> and it works well even with several brick walls between transmitter and receiver .
+0	This feature enables you to easily configure a secure wireless environment provided that your wireless card driver also supports SES .
+0	I have to say that for a first time buyer of networking equipment wireless or otherwise I'm happy about the purchase .
+0	But Linksys with its web based configuration and clear instructions helped me to get set up and wireless in about 20 min .
+0	Now I have <p> wireless access to the Internet <p> on my laptop can share files with my desktop PC and can print from my laptop from anywhere in the house .
+0	Over all a good product and given the other linksys products that i have I would recommend it to anyone who lives in a mid size house or uses has a linear workspace for which they need wireless connectivity .
+0	My plan was to try all wireless routers since I want the best coverage w the max .
+0	This linksys wireless router was my first buy and I'm hooked~ I didn't bother trying out any other routers The setup took less than 5 mins .
+0	I would recommand anyone who wishes for a wireless network to try it .
+0	I upgraded my network to wireless with this router .
+0	All of the wireless components that I bought were a breeze to set up as well .
+0	I use this Wireless Broadband Router to connect two Windows XP Dell laptops to a wireless broadband modem .
+0	Persistence is required Overall I'm more than satisfied with the Linksys choice for a wireless home network .
+0	<p> Excellent wireless router <p> for a cheap price fair speed I couldnt bare my D Link and its reboots anymore Finally a nice wireless router .
+1	This is the only wireless router I've ever used but I couldn't be happier .
+0	The day it arrived I had my old Win98 desktop wired to it and the newish XP laptop running wireless .
+0	In fact I'm not convinced my emails and discussions with tech support even got the problem into the right channels so it might be fixed one day However once I stopped trying to use the MAC address filter option all my wireless devices 802 11b and 802 11g can connect without problem .
+0	This router worked perfectly with an Orinoco gold card in my laptop Linux system Dlink Netgear and Belkin PCI 802 11b cards in Windows PCs and both the DSL service at my folk's place and my Nextel Flarion wireless broadband at home .
+0	I later installed a Roku soundbridge also highly recommended and the wireless software recognized it and asked if I wanted to add it to my devices .
+0	I setup my wireless network and wired network with little to no issue and I am NOT a network IT person but I am very good with computers .
+0	I love mine and while I would like to have wireless n technology this router gives me utmost confidence in Lynksis equipment .
+0	As long as it works wireless g will be fine for me .
+0	This has <p> everything you need to use a wireless <p> system at home .
+0	This is it Now I have two wireless points for the both sides of my house .
+0	I have laptops with Wireless B which easily detected and connected to the new wireless access point .
+0	This Router is the best extra eternet ports and wireless connection and protection for wirless i must say Linksys make some great products .
+0	If you need to go any faster or farther I recommend you try the Linksys Wireless G Router with Speedbooster or the new Linksys Wireless A router .
+0	Cisco Systems is so on top of things that they provide software that easily leads even the novice through several steps to create an amazing wireless transmission .
+0	I have an HP zd7160US with an internal wireless card and had my laptop receiving transmission from Linksys Wireless G Broadband Router from remote areas around my home regardless of walls .
+0	I've had several wireless routers before all Lynksys but this was by far the simplest set up ever .
+0	You will need to enter one of the keys in your wireless pc network connection as it will be disconnected .
+0	Be sure to change your router settings and set up Network Security so your wireless network is somewhat secure .
+0	Great deal for a wireless router .
+0	I'm new to the wireless scene and I chose to go with Linksys because their prodcuts have never let me down so I picked up the WRT54G Router &amp WMP11 802 11b PCI card for my computer .
+0	The software cannot add another wireless computer if the MAC address filtering is on this is when plugged in via cable .
+1	And for some reason the software turned off the wireless card only when MAC address filtering is on and gave an error to turn on the transmitter .
+0	And since my laptop has two network devices wireless and Ethernet the computer shows up twice in the network browser they include .
+0	I love it the best of both worlds wired for my roommate and wireless for me .
+0	highly reccommended for gamers and wireless enthusiasts .
+0	I didn't have time to restrict the wireless connection to specific MAC address though Initially I got 80% signal on my laptop but a small change in antenna orientation boosted that to 100% send and receive I'm happy with the router happy with the ease of setup and very happy that Linksys's power supply is not a barnacle and uses only a single plug in my powerbar .
+1	However every time I get a call I completely lose my wireless network .
+0	<p> Wireless range is perfectly acceptable <p> within an average scale home .
+0	Had a problem after the first week when we could not connect to the wireless network with a laptop but called support at Linksys and they solved that problem in about one minute .
+0	I've since also added the Linksys wps54G wireless print server to my network and it too works flawlessly with this router .
+0	It has all the necessary security settings for your wireless network device .
+0	I can only configure my Apple Powerbook G4 to work with this router is to have it open accepts all wireless connections .
+0	I had it a <p> wireless network up and running <p> in my apartment about 30 minutes .
+0	If you want to get specific I have Windows XP on my HP pavilion laptop and a Broadcom wireless adapter and I connect to the Internet via a DSL modem courtesy Comcast .
+0	After a few kinks I finally got the desktop to work but the wireless laptop was a bit different .
+0	Finally figured out my Toshiba P25 S609 was the B type so I had to go back into the linksys setup site online and change the protocol to B It's now working flawlessly My laptop is fairly new and I didn't know that it has a built in wireless networking device which makes it even better cause I don't have to use a pcmcia card .
+0	Hello out there I love linksys software but for AOL users Wireless G WRT54G does not support AOL .
+0	Its a drag Wireless G is faster and has better encrypton .
+0	I now have a wireless internet connection on my Windows 2000 machine upstairs at a blazing 54Mbps very cool .
+0	VOIP phone wired and <p> wireless connections all work great <p> with my cable service .
+0	I think it actually took me longer to open my boxs and take out the old network cards and pop in the new reboot and done scanned connected and surfed all 3 machines with in 1 2 hour I would reccomment this to anyone going wireless .
+0	I'd recommend this is you want to wireless network your laptop but if you want to wirelessly network a couple desktops together you might want to wait until Linksys improves their desktop software hardware .
+1	Your wireless connection is wide open to anyone now however .
+0	You should go into the Wireless setting on the setup pages and change the SSID to something else and set the encryption to the maximum whatever you're connecting with can handle the WPA algorithms are the strongest but WEP is better than nothing .
+0	Multiple security options and much more make this a great addition to any wireless network .
+0	Then i bought the wireless notebook card that ran off my router .
+0	I live in an apartment building with about 15 other Linksys wireless ap's routers and about half or more haven't changed their default passwords .
+0	Had problems with set up initially its not like I havent set up wireless networks this is the 4th I have set up in last 2 months .
+0	The USB wireless antenna on the remote computer installed just as easily and found several different networks within my neighborhood a typical suburban cul de sac .
+0	But if you want to get into networking and running wireless .
+0	This Wireless G Router has great safety features and is something anyone can understand how to use .
+0	I had no idea it would be so easy to set up a wireless network .
+0	I had been using my high speed modem with a USB port but you must have an ethernet port to set up the wireless router .
+0	Great product it works very good for my needs a home wireless network .
+0	I used a linksys router before and when I decided to upgrade my network to go wireless I decided to go with Linksys again .
+0	I am connecting my PCs to the router through wired ports and connecting my notebook computers through wireless .
+0	Within seconds the device had configured itself and was advertising a working wireless network which I connected to instantly able to surf the web .
+0	I quickly changed the router password set a network password and turned on WPA security WPA is the new strong wireless security .
+0	I would recommend this router to anybody that needs a wireless router .
+0	Until I got a laptop last summer we didn't have a need for a wireless home network .
+0	But it got to be such a hassle to go plug it in at the office desk that one day my wife picked up the Linksys Wireless G Router before I had a chance to do much research .
+0	I was concerned that speed would be compromised being wireless but it's as fast as when it's plugged directly into the DSL cable .
+1	Due to the wireless feature of the modem the connection can be a bit jumpy if you're playing any online games or streaming video like watching sports games live on a site .
+0	All wireless modems have that drawback and this one actually shows less of delay then other modems that I have seen before .
+0	I say this as an avowed idiot when it comes to networking and I only had to bang my head on the wall once while setting up the wireless network .
+0	We have a three level duplex and the router is in my basement office and I most often use wireless in the upstairs bedroom .
+0	For wireless reception over a greater area look into the upgraded antennae .
+0	I found it easy to set up with security and easy to connect to wireless devices .
+0	I have an unsecured portable D Link 54G wireless module I use when traveling .
+0	I thought it would be best to use the WPC54G wireless adaptor with this router instead of the integrated wireless on my computer .
+0	Next another hour to regain the wireless operation .
+1	So for some reason the integrated wireless on my laptop interfered with Linksys .
+0	After all of this I learned that this model of Toshiba uses Dlink as part of its integrated wireless system .
+0	Purchased the Linksys WRT54G and had it up and running in 5 minutes It worked perfectly with my Compaq Evo N800c w integrated W200 USB wireless 802 11b LAN adapter .
+0	For years I've used a Linksys 4 Port Wireless B router at my house to share the internet connection between multiple computers and also allow wireless access from our laptops .
+0	When I moved to college that router stayed at home and I purchased the Linksys WRT54G Wireless router this one .
+0	In addition the <p> wireless feature is amazing <p> allowing me to share my access with others on my hall so they can use their laptops .
+0	The only complaint is with the range of the wireless but in a brick building there's only so much you can do .
+0	Now was the hard part or so I thought to connect the wireless card to a desktop 3 flights up .
+0	If you're looking to jump into wireless this is a simple decision .
+0	The throughput is the best I have seen with wireless routers and the setup is very flexible .
+0	I own Netgear Buffalo and Dlink equipment as well but I will never go back after setting up this unit It literally took 2 minutes before I had my wired and wireless computers up and running including 128 bit wep I only needed the manual because it sets up camp on 192 168 1 1 rather then 0 1 like most .
+0	But what originally drew me to this unit was the optional Wireless Signal Booster .
+0	It is not marketed for the 54g unit because it is not FCC licensed to be paired with it but it works perfectly with it nonetheless The major feature of wireless networks that all these vendors drop the ball on is range extension options .
+0	Alas even Linksys has none but they do have a range extension option at least with the booster and it gave me 10 dbi which is excellent and my wireless range went from 2 rooms with my Buffalo to my entire property People's experiences do vary with the signal booster however so if you buy one make sure you have the option to return it if it doesnt work with your layout .
+0	Web interface is not as user friendly as I have seen but is powerful enough for any home users to set up their own wireless networks .
+0	I'm very glad to say it does exactly what It was supposed to do and that get's wireless to my room .
+0	I've had this for a little over a week and it's working well so far but I'm currently only running a PC and wireless printer .
+0	I was a little worried about purchasing this item after reading other customer reviews since I have no previous experience with wireless networks but after opening the package and following the simple instructions included on the Setup disc my WAN was up and running .
+0	Even making my wireless network security enabled took less than 5 minutes .
+0	Performance is no different from the wired unit when the wireless option is disabled as I have not yet purchased the wireless cards and only plan to using the 11G types .
+0	After buying the Wireless G Router all our fights ended beween my daughter and me now we can be working at the same time and no problem at all excelent product .
+0	now i dont know what to buy i may just stick with this wireless g router until it dies which i doubt will happen in my lifetime even though im only 19 and linksys is still the best and i would recommend all their products especially their older one still better than anything netgear or d link has put out .
+0	I plugged the WUSB54G adapter into my client computer spent a few minutes setting it up and PRESTO I have a superfast wireless network with both computers able to use my ADSL broadband connection .
+0	Returned Buffalo Wireless g High speed Router & Access Point 802 11G with Aoss and ordered this Linksys instead .
+0	If you are a novice with wireless networking and already have a home broadband connection this is the router for you .
+0	What an easy to install easy to use fantastic item is this Linksys Wireless G router This is my first time entering the wireless world and had been really nervous about how all this was going to work .
+0	Then call the Linksys folks a few things to enter in and click on and presto You've got wireless I love these guys .
+0	A couple helpful hints though to other wireless newbies which I learned the hard way of course .
+0	Also as a computer genius friend of mine explained keep in mind that the wireless router broadcasts omnidirectionally in all directions .
+0	And do try to located it as closely as you can to where you plan to use your wireless computer remember that signals degrade with distance with as few solid things between it and your wireless computer as possible .
+0	If you have ever setup a wireless router before it is pretty simple from there on .
+0	It used to be the simple WPA encryption for wireless internet protection about 3 years ago but now it is upgraded to include WPA2 encryption which is supposely better protection .
+0	I especially like the feature which allows one to completely disable the wireless network if it is not needed .
+0	I had never set up a network to say nothing of a wireless one When the product arrived I could not have been more surprised at the ease of set up .
+0	I highly recommend this to anyone in need of a wireless connectivity solution it's affordable and easy to set up .
+0	It took 2 minutes for me to install the router and set up my wireless network in my home .
+0	I recently bought this to set up a wireless network in my house because I did not want to run ethernet cables through the halls and up stairs .
+0	I bought this router along with the Linksys WUSB54G Wireless G USB Adapter .
+0	The wireless connection when in good or excellent status allows me to download and surf the web at the same speeds as the computer that I have connected through cables .
+0	It's not perfect but I've used other wireless routers and this one works really well in comparison .
+0	I've had broadband for a little more than couple of years now and recently decided to add wireless capability also .
+0	This wireless router gave my enough wired ports to still have one wired desktop connection in most of the rooms and add wireless capabilities for my laptop .
+0	All in all I connect 3 laptops wireless 2 desktops wired fileserver wired and a palm device with Linksys Wireless G compact flash card .
+0	speedbooster wasn't an option since it needed a compatible wireless card tight dependency .
+0	Speed seems good on my girlfriends Wireless B laptop and the only other wireless is an audio bridge downstairs that has no problems .
+0	So far it all works fine with either cable or wireless connections .
+1	I was having disconnects every 4 to 5 minutes with computers on the wireless B router .
+0	Linksys WRT54G Wireless G Router is a simple and convient router that works very well with computers through either a wired connection or through a wireless card sold seperately in the stores .
+0	That might be unfortunate for some who have a laptop computer because they would need the wireless card .
+0	Although there are other routers that might work well Linksys is one of the best brands on the market for anybody who needs a little add on to their wireless network whether it is in the office or extra internet ready devices .
+0	Thew WRT54G Wireless G Router is a great buy .
+0	Works fine for both wireless and wired connections .
+0	I am typing this review right now on my laptop completely wireless .
+0	I also have an older Linksys wireless router and the two can't come close to comparing .
+0	I'm guessing that this is a problem with wireless signals in general and not this router but I don't know for sure .
+0	I don't see any drop in my 1Mbps internet bandwidth when using wireless vs wired .
+0	I've had zero problems with this product or the 54g wireless adapter .
+0	Wanting a <p> faster wireless connection <p> I decided to upgrade to another Linksys .
+0	After needing to replace our aging Linksys BEFW11S4 wireless router which only supports 802 11b to a router that supports both the 802 11b and 802 11g protocols I purchased a Linksys WRT54G router .
+0	I was then able to reconnect several other computers and an XBOX 360 by setting up the wireless connections between them and the router .
+0	Though several individuals have reported much difficulty setting up the Linksys WRT54G router with non Linksys equipment I had absolutely no problems connecting an XBOX 360 using a Microsoft wireless network adapter to this router .
+0	The other computers that connected with no problems use Linksys wireless adapters .
+0	With any wireless network it is generally wise to use a particular router with network adapters from a common manufacturer to minimize the possibility of incompatibility issues .
+0	Though a particular wireless router from manufacturer A and a network adapter from manufacturer B are both listed as supporting an identical network protocol standard there is a higher probability of an incompatibility between the devices because there is no guarantee that either manufacturer tested their equipment with a competing company's device .
+0	I fully expected the XBOX 360 wireless adapter to operate with the Linksys WRT54G router after researching recommendations from Microsoft .
+0	I then decided to purchase a Linksys WRT54G router because of both Microsoft's recommendation and the fact that our other wireless adapters are primarily Linksys products to ensure compatibility .
+0	The Linksys Wireless Router is a very good product I haven't had any major problems or been kicked off the internet like some reviews have stated .
+0	I was terrified to even begin the install procedure because I've had such trouble with wireless networking products in the past both from Linksys and other companies .
+0	I live in a city and routinely connect accidentily to neighbors wireless LAN's and am able to surf the Internet on their dime .
+0	I had the wired broadband router from Linksys for years and loved it but recently switched to a wireless network .
+1	Their wireless laptop adapter worked great also but the PCI wireless adapter is NOT recommended at all see negative reviews .
+0	I've used a variety of Linksys products over the last two or three years but the Wireless G Router is just a simple cost effective solution to juggling separate routers wireless access points and ethernet cabling .
+0	Even with my desktop computer in the shop for repairs I have effortless wireless on the laptop as I write this .
+1	I bought this router to replace a belkin wireless router that was absolutly terrible .
+0	Once the router was up and running I configured the wireless network manually after several attempts of using the easy secure setup .
+0	Have had both wired and wireless networks up and running for about a month after installing firmware v 1 00 6 and have had nothing short of a pleasurable experience .
+0	strong wireless signal never less than 83% and download speed in excess of 1700kbps .
+0	Transmission is really good and hence results in <p> strong wireless signals <p> .
+0	Overall I am surprised at how easy it was to get all 6 PCs 4 wired 2 wireless notebooks connected .
+0	Before ordering I knew absolutely NOTHING about routers we own an inn and wanted to offer wireless service to guests so two different acquaintances recommended this particular router .
+0	I'm quite the happy wireless nerd now .
+0	First let me set the stage by saying that I am not a network specialist just a regular Joe who for convenience reasons wants a wireless network in his house .
+0	For the last couple of years I'd run the Linksys Wireless B router it was rock solid no issues whatsoever .
+0	As I'd just purchased a new computer with a Wireless G adapter I figured I'd upgrade the router as well and set it up as it's supposed to be .
+0	Anyway after learning that the Speedboost feature only does anything for you if 1 you are also using a Speedboost adapter which I was and 2 if you are transferring large data files between computers Note it does NOT increase your speed on the Internet but only between computers on the network I opted to return the product and get the standard Wireless G v 5 .
+0	I have the router configured with my Dell 1100 Laptop using the Dell branded PCMCIA wireless G card and a Dell Axim X50 .
+0	Since it has worked flawlessly I decided not to mess with success when it was time to go wireless .
+0	I browsed to see which computers were on and I simply clicked the setting to allow ONLY this computer to use the wireless network .
+0	Feels good knowing I have advanced wireless security with 128 bit WEP encryption MAC or IP address filtering built into the Linksys .
+1	I bought this to replace my failed Netgear wireless router that was about 2 or 3 years old .
+0	Since my wireless computer has been set up I have had no difficulty keeping a connection .
+0	You just need to pay someone to show you how to setup a wireless home network if you aren't good at those things .
+0	It still handles three dozen wireless systems and almost a dozen via ethernet through an interim hub of course .
+0	Why did I wait to go wireless Well it probably had something to do with security .
+0	1 Windows XP wireless connections by default enable IEEE 802 1x authentication .
+1	I had a problem with my wireless Dell dropping the connection if that option was enabled .
+1	w your wireless AP router which frustrates me extremely .
+0	This device has everything you could ask for in wireless and more It was easy to configure and I have no complaints at all .
+0	With a new laptop and a bedroom in the attic I had to set up a wireless network off of a DSL or go without access .
+0	The wireless range is not quite what I would like but your milage may vary .
+0	The <p> range of the wireless extends pretty far <p> and I have not had a problem with the wireless connection thus far .
+0	From the Router internet interface to the wireless ease to the 4 port hub and the super wicked looks Let's talk about the internet interface Really straight forward and easy to configure .
+0	This takes wireless to the next level UP Oh make sure to download and install the latest version of the firmware .
+0	Great product Has WPA2 plus a whole host of security features such as MAC filtering and preventing wireless clients from configuring router settings .
+1	If you're using the free version of ZoneAlarm like I was for a firewall it won't work with the wireless network .
+0	Personally I paid a little extra to own the Linksys WRT54GS Wireless G Broadband Router with SpeedBooster model I used to be hard line only .
+0	I also kept in the back of my mind that it was quite possible to add a wireless AP access point later if I wanted to go wireless .
+0	The bottom line here is that although I planned on keeping the Belkin making the Linksys a wireless AP the Linksys ended up replacing the Belkin which is now sitting back inside its box again .
+0	Having an all in one wireless router switch means everything in one box serving your broadband to any wired or wireless machine on your network .
+0	The Linksys WRT54G Wireless G Router does not make your network limited to wireless only devices because the router is built with Ethernet Out connections at the back .
+0	The router then shares your internet Ethernet out to devices on the network and wireless out to devices on the network .
+0	The installation of the Linksys WRT54G Wireless G Router was a piece of cake .
+0	The Linksys WRT54G Wireless G Router has a straightforward installation program .
+0	Sometimes you need update the driver of Wireless NIC on your PC if you want to use WPA2 wireless security .
+0	The big bonus is that you can turn off wireless and still have a wired router with internet .
+0	Now if you really want to just add this router as an AP on your network and not a router just connect the LAN of the wireless router to the LAN of the hardwired router and do not use the WAN of the wireless router .
+0	Celebrate your new Wireless 54 Mbs .
+0	If you have trouble connecting to a WPA2 wireless network then you probably need to update your wireless network card drivers .
+0	I like the fact that I can now add other wireless devices into the network as I need them .
+0	My wife's next notebook will be wireless for sure .
+0	I had to figure out how to lock down and hide the wireless network but some Google searches fixed that quickly enough .
+0	Wireless newbies like me be prepared to do some security research and make some manual adjustments .
+0	My third call resulted in removing the Linksys software and I got help setting up the more automated wireless connection through XP .
+0	After 2 hard days including wasting a whole day with the Belkin units I finally have wireless .
+0	This product is one of the best to mount a wireless network relatively easy to install and economic for the budget .
+0	I have wireless all through my duplex upstairs and down with a <p> strong wireless connection <p> Im satisfied with this product .
+0	It took me about an hour to set up a wireless environment in her townhouse and she hasn't called me yet with any problems .
+0	I'd also recommend wireless products made by Belkin .
+0	i've had their wireless card for my laptop since 2000 and it has rarely given me problems .
+0	Having bought other Linksys products I was inclined to try them in setting up my wireless network .
+0	Setup went quickly a few reboots and boom I was wireless .
+0	Since I purchased the Linksys Wireless Router WRT54G I have had absolutely no problems with it .
+0	I have been using this router with both wired and wireless connected PCs and we have had better luck with the wired connections but the wireless hasn't been too bad .
+0	Works great with the PCMCIA card I bought so my lap top is wireless and my desk top is wired .
+0	This <p> wireless router works great <p> and would be easy to install except that one important detail is not included in the guides and is not dealt with by the automatic setup program .
+0	For effort free wireless network adaptors use the linksys USB adaptor .
+0	If you need convincing on the security side read Wireless Hacks this is a book of excellent tips not just security published by O'Reilly .
+0	BTW home network is a mix of print server wired PC wireless Apple powerbook everything running smoothly .
+0	Due to Dell's delivery delay we did not install the wireless laptop for some time afterwards .
+0	The instructions for setting up the laptop went flawlessly we were wireless on the new laptop in less than 30 minutes and that includes the time to unpack the laptop .
+0	I hooked up the house with a wireless network .
+0	Works incredibly well except it may be helpful to know that I experienced problems when I first hooked up the wireless card on my Gateway 600X with Win XP Pro .
+0	While it took over an hour the rep relentless to figure out the issues instructed me to disable the XP Wireless interface and use the Linksys interface .
+0	Seeems there was a software conflict causing the issue and while Linksys should look into this my wireless network is humming along beautifully now .
+0	I installed the <p> wireless router fast <p> and easy .
+0	Purchased the new Linksys Wireless G router and PCMCIA card yesterday 2 2 03 and had it working in about 10 minutes .
+0	Replaced my old Linksys Cable DSL router with the new Wireless G router and so far I am extremely impressed with the performance for the price .
+0	Bottom line I highly recommend this product for a home office wireless network .
+0	So to connect the two rooms together wired network to the internet I added the Linksys WET54G wireless bridge access point to the network .
+0	Once installed it worked for about 2 days then it would constantly need to be reset for both the wired and wireless computers attached for it to connect to the internet .
+0	Even the most non technical person can set up a router and wireless access point with this product The WRT54G's web based configuration menus are a breeze .
+0	The WRT54G wireless router is an excellent pirce of equipment .
+1	A previous Linksysrouter did not work well wireless B 2 4 gigahertz .
+0	I've had good luck with them and im satisfied with the strength of the wireless signal they provide .
+0	For the money they are a good choice and i recommend them for anyone who wants to go wireless .
+0	I purchased the Linksys WRT54G Wireless G Router and the WMP54G Wireless G PCI Adapter .
+0	Simply put if you need a non fancy reliable router with easy installation and trouble free service and <p> good secured wireless connection <p> this is a right product for you .
+0	This product was easy to set up on our two computers so they could both enjoy wireless secure routing .
+0	I wish I hadn't waited so long I placed my order with amazon on Tuesday September 30th and received my router on Friday October 3rd very quick shipment considering it was free I took the router out of the box followed the quick installation and had the wireless connection working within 15 minutes .
+0	I could also use VPN to connect to work using both ethernet and my wireless card .
+0	I would recommend going to the Linksys website to get tips on securing your wireless network .
+0	I also use the MAC address cloning since it is recommended with the older wired 4 port router Just like the older Linksys 802 11b wireless router you need to enter WEP key in the format of $ followed by your 26 Hex key generated by the admin utitity in order to make it work with Apple Airport Card 802 11b .
+0	I think it is one of the product that works great with Apple Wireless solution and saves you a lot of money instead of having to buy that Airport Extreme base .
+0	I've never bought a wireless router before so I looked around and read a lot of reviews .
+0	Easy disabling of wireless access of the unit's set up .
+0	Last in chain of cable modem digital voice modem and wireless router but it all reboots after power failures and glitches without intervention .
+0	I purchased my router 2 years ago along with a Wireless PC card and was very pleased with the performance .
+0	When my wireless signal dropped when my 2 4Ghz phone rang I replaced the phone which I also liked .
+0	I just plugged the router into the net connected my Sony AP to the router port for an alternate wireless connection and then rebooted the network components .
+0	Instantly worked with my existing Sony wireless PC card .
+0	I have two D Link access points operating as wireless clients and a Linksys WGA54G gaming access point all of which were connected and functional on the first try .
+0	The problems started when I tried to change the wireless configuration of the PS3 to attach to the new router .
+0	The wireless routers can be a bit tricky to set up with the security features but once set up they work flawlessly .
+0	There may be other wireless routers that are easier to set up but I doubt that they have the security features that this router has and if you are using a wireless router security features are important .
+0	Setup would have been even quicker but for 128 bit WEP Mac Filtering that I was implementing Linksys CD Setup program took my existing cable modem configuration and seamlessly transferred this to the modem configuration Very simple Not bad for a product described as being suited for early adopters in the editorial review I bought the linksys wireless G card for my notebook same time I bought router .
+0	No issues whatsoever If you have a portable I recommend buying the linksys wireless G card if you really want the performance ease of setup I experienced .
+0	For instance I borrowed a friend's compaq tablet PC with an 802 11b internal wireless card and I couldn't get it working without disabling WEP .
+0	I believe this was more a problem with tablet PC internal wireless card than it was with this router .
+0	Besides when you use mixed mode G and B you'll get the slower speed which defeats the purpose of having the faster wireless G solution .
+0	The wireless in my apartment it working great .
+0	The D Link router has been flawless but with the recent acquisition of a laptop it was time to go wireless .
+0	Because of the past performance of the D Link box I was all set to try the wireless version .
+0	It was a breeze to setup and the <p> wireless reception is much better <p> than my previous Linksys BEFW1124 .
+0	Why did I wait so long to go wireless I heard that once you go wireless you never go back .
+0	Now i have a <p> wireless network with fast access to the internet <p> with my laptop .
+0	Having never hooked up a wireless network before I took the advice of the quick start guide that came with the unit and used their included CD .
+0	I hooked the Linksys wireless router up to a broadband connection which is running at a maximum of 700 plus Kilobytes on the download end and 100 to 150 upload speed .
+0	I am pleased with the speed and would recommend this to anyone with a need for basic wireless internet use in their home .
+0	With a couple of calls to Tech Support which were very productive I managed to get the wireless network going .
+0	Anything above a solid 2 MBps doesnt improve my 1 5 MB DSL gateway anyway Finally the 54g PC card which matches this system isnt really big on coming out of standby which is a pretty big problem since notebooks especially those which actually are mobile and use wireless networking come in and out of standby constantly My old Lucent Orinoco silver snapped in and out of standby reliably every time .
+0	They should add an option to make the wireless network name unpublished in the wizard .
+0	It works great with the Tivo wireless mode and two desktops wired to its ports .
+0	This worked out so well I got a matching Wireless G notebook adapter and connected my notebook too .
+0	Everything works fine both the wired and wireless connections .
+0	This router literaly took me 10 minutes to setup and I was up and running a wireless connection with WEP 128 bit encryption .
+0	For our wireless hotel Internet access we recently installed several of these routers within the hotel .
+0	This model has been utilized in more professional settings than any other I've known for wireless computer connections .
+0	If you don't know anything about wireless purchase this model connect it to the router box your cable company provides you with via a Ethernet cable and away you go .
+0	WOW I'm replacing a D Link DI 524 wireless G router .
+0	Much <p> stronger wireless signal <p> as well .
+0	I have a 2 bedroom apartment and I needed wireless for 2 maybe 3 computers at a time .
+0	I bought this to replace a cheapo wireless router .
+0	I have had no problems with the router since its installation 3 months ago and even setup a wireless unit for my Xbox 360 with it last night .
+0	I found this product to be exactly what I wanted a dependable wireless router .
+0	I'd like to see a wireless router with 8 ports but that's just me .
+0	After purchasing both netgear and microsoft wireless g networking products and experiencing only pain and frustration I opted for the linksys WRT54G Wireless G Router and the laptop card and am finally happy .
+0	After getting through the initial configuration problems with help from the free tech support phone service my <p> wireless network was up and running perfectly <p> .
+0	I purchased and installed the 54G PCI card WMP54G in my desktop and a Cisco B band wireless card in my laptop and the Linksys PCI Card picked up the network instantly while the Cisco card needed some utility finaggling to get it to work .
+0	I recently bought the Linksys G Router after getting my hp laptop needing to setup wireless at home .
+0	Fool that I was After countless attempts at recycling the modem and WPA keys etc I finally figured out that the modem could not support the wireless router and it had a short plus RCA no longer carried it and the thing was ugly taking up space .
+0	the setup is the same The Router itself is a pleasant blue on black color and has a built in 4 port switch as well as wireless capability .
+0	Even if you only want to go with the 4 port switch wired functionality and upgrade to wireless later .
+0	The Linksys WRT54G wireless router is a good product for everyday home use .
+0	We are using both the wireless connections and the ethernet LAN connections with Macintosh and PC computers .
+0	The <p> wireless broadcast has a good range <p> and has not been affected by our 2 4 GHz wireless phone or our microwave .
+0	We have the following computers hooked up to our network Two Macintosh OS X machines two PC laptops and one PC desktop with a USB wireless adapter all running Windows XP .
+0	You get the impression that it could take a knock if you dropped it off your desk others I've seen look a little more flimsy In short it's a smashing piece of kit and I'd recommend it to anyone looking for a wireless network in their home or office .
+0	My son used this wireless adapter after he had built his latest computer to then download some software updates and regirster the computer without the need of getting to one of the wired sections of the house .
+0	but you should setup it several times to get the pin and make the wireless protected .
+0	This wireless router functions very well AFTER you get it set up .
+0	house and <p> wireless signal is excellent <p> everywhere within .
+0	For a cool $ this is the best performance wireless router available .
+0	WRT54G is backward compatible with our current 802 11b wireless clients .
+0	No problems setting up my wireless network .
+0	This router is one of the best on the market today i have done some research on the net and found that this is one of the more cheaper wireless routers It is only a good $$$ but it has great speed When i first opened the box i was so excited to put it together to see how it would work .
+0	Well to make the long story short I did what the instructions told me to do and it was very easy to do Then after all that took maybe 10 min it worked I hope you take some time to look at this new linksys wireless G router i think after you use it you will love it Good luck to all who want a good deal and a great product buy it .
+0	I was waiting for a while for the price to decrease it's now the next to fastest series since N came along and got this at the same time as a wireless adapter for my notebook .
+0	It is perfect for a SO HO because it connects to my cable modem 2 wired desktops a wired print server good savings over wireless the printer is close to the router with a 10 100 port left over .
+0	I'm using a local wireless internet service so those of you using cable or DSL may experience different results than I did but this router is SOLID .
+0	The router is wireless connected to a Toshiba laptop and a Mac Powerbook and is CAT 5 connected to a HP desktop .
+0	This is my favorite wireless G router on the market since its one of the few that can be modified by the user to do things like serving web pages setting up a VPN etc .
+0	Solid wireless 54MB routing capability including the built in QOS feature for my Vonage hookup Linksys PAP2 was all I really needed .
+0	For the regular guy who just wants a solid router with an <p> awesome wireless range <p> that will perform everyday computing tasks in a wireless VOIP environment this router fits the bill perfectly and then some .
+0	I have 3 macs and 2 iphones sharing the wireless .
+0	I like the fact that it IS EASY to use with limited networking experience the problem I have is that there are many useless features on the unit and some wanted features like a list of computers accessing my wireless is not easily found on my router .
+0	I just upgraded to the Linksys WRT54G Wireless G router last month and I am very happy with the quality of the product .
+0	This router acts as a wireless access point 100 MB switch and a router making it a nice multipurpose device .
+0	For the wireless connectivity this router supports that latest 802 1lg standard which offers 54Mbps speeds but in the 2 4 GHz range .
+0	I also have a 2 4 GHz cordless phone and I don't get any interference with the wireless router If you do decide to buy this router I would highly recommend that the first thing you do after installing this router is upgrade its firmware from the Linksys website .
+0	While WEP is not a perfect solution some security is better than no security and I would recommend anyone using the wireless feature enable WEP .
+0	This is a little tedious but the security it provides is worth it In addition to WEP and WPA the Linksys router also offers wireless MAC address filtering .
+0	Wireless MAC Filters feature allows you to control which wireless equipped PCs may or may not communicate with the router depending on their MAC addresses .
+0	I get amazing throughput using my NetGear 802 11g wireless network card and the range is incredible .
+0	If you are in the market for a great wireless router this is it .
+0	I recently decided to share my wireless iwth my neighbor and we looked at getting a wireless extender or repeater as most IT people know it as .
+0	I decided to replace all of my netowrk with linksys wireless G products .
+0	I have used netgear wireless Belkin Dell when they were in the wireless business and Proxim .
+0	By far this was the <p> easiest wireless network to setup <p> .
+0	This product is by far the best Broadband Router on the market I bought this to replace one of those Linksys Instant Wireless B routers worked great for about a year .
+0	IF YOU NEED A WIRELESS ROUTER .
+0	I have had SMC DSL Cable gateway and SMC wireless access point 802 11b All I did is unplugged both SMC router and access point and plugged in the Linksys WRT54G instead The PCs connected using RJ 45 worked immediately the laptop I had to put the LINKSYS SSID instead of the SMC and everything works in less than 5 minutes later on I went in and changed the ADMIN password and added more wireless security features I tried to do the same thing with U S Robotics Router I gave up after few hours and took it back .
+0	I am continuously upgrading my home network and adding on wireless devices to everything and this router joined into the network nicely .
+0	I had no trouble getting the wireless router to work on its own .
+0	After looking at a few blogs though I found that all I needed to do was disable DHCP on the wireless router and let one of my existing routers handle that role .
+0	Although I've done tech support for a certain large computer maker in America's third largest state and having been using PCs since 1985 I had zero experience with wireless before two weeks ago .
+0	After making the decision to buy a laptop my wife and I decided to go wireless so we could surf the net with the laptop anywhere in the townhouse .
+0	The wireless networking and security set up was a snap I was surfing the net in less than ten minutes .
+0	My laptop's built in wireless card picked up five networks near out townhome up and running .
+0	Taking the laptop on a visit to my parents house the built in wireless card picked up several networks within range of my parents' home .
+0	It picked up an open access point from the elementary school a quarter of a mile from their house Since it was unsecured and listed as open access I connected the wireless network to it and was surfing the Net within seconds with a speed of 36Mpbs excellent considering how far away the router was in excess of 1 000 feet .
+0	If you're new to wireless or even a computer newbie the set up couldn't be simpler or more user friendly .
+0	Although I had to write down the WEP Wireless Encryption Protocol key because of its length and random letter number sequence once it was input the network was secured .
+0	I've experienced none of the problems I've read in other reviews of competitor's wireless routers .
+0	I changed high speed internet providers and need to buy a router to replace my modem wireless router .
+0	In less than 20 minutes I was connected by cable to the desktop and by wireless to the Wii .
+0	I have my Tivo connected directly to it with an adapter wired and have my laptop connected wireless .
+0	I have another Tivo upstairs in the bedroom with a wireless adapter and it too works great .
+0	Great router very easy to setup this is my first wireless router and when I call Linksys the rep is very nice and helpful .
+0	We are putting a wireless network in our house this season and it just makes sense to invest in the next generation of wireless networks .
+0	Both interfaced by wireless means without any problems .
+0	The four wired ports plus the wireless access makes it a nice combination .
+0	THIS ROUTER CAN'T BE BEAT FOR THE PRICE AND PERFORMANCE IF YOUR LOOKING FOR A WIRELESS ROUTER LOOK NO MORE LINKSYS WRT54G IS PROBABLLY THE MOST POPULAR OUT THERE AND FOR GOOD REASON .
+0	I was on the internet about three minutes from the time I turned the router on even using a wireless 54g card .
+0	This was a painless transition and having wireless in the house is so SWEET .
+0	OK I needed to replace a well worn Belkin wireless router that served well for over three years and I bought a WRT54G by LinkSys Cisco .
+0	Now I know that basically wireless is wireless and 99 9% of all routers probably work with Macs OK .
+0	If your looking for an <p> affordable wireless router <p> with no bells and whistles and you appreciate good American customer support .
+0	If you have an existing wireless network like I did make sure you have your old SSID handy and if you use encryption make sure you have your key .
+0	That way you can configure this router the same as your old one and your other wireless devices that connect to the network will still be able to do so without any modifications to their wireless setup .
+0	I have two wired and one wireless laptop on the router .
+0	The range on this one is much much better than my old DLink but it should be since it is one of the better wireless routers out there and newer .
+0	I bought this wireless router in the hope that I would be able to use it to connect both my computer and my X Box to my DSL connection without having to run an ethernet cable from my office on the second floor to my basement where the X box and TV are located .
+0	As I am not very technically savy and Microsoft's technical support for X box won't provide support for wireless routers I made sure to hold on to my receipt in case I could not get it to work right .
+0	I used an ethernet cable to connect my X box to the router while using the wireless capability to connect my computer .
+0	Linksys is my first choice for wireless routers .
+0	Since I needed to replace my 2 year old D Link Wireless router due to numerous drops of the wireless network I chose this Linksys router mainly due to the ability to disable the broadcast of SSID .
+0	note Network Snuffer was not able to detect my wireless network after disabling SSID .
+0	I bot a Dell 2300 truemobile G B wireless router with my Dell laptop equipped with a Dell 1300 truemobile wireless adaptor .
+0	No problems as usual A good all around router very flexible this one is acting as a wireless network expander .
+0	This model is just good for the use of family or small groups you can use either wireless connection for your computers in different rooms or easily connect your up to 4 PCs with RJ45 cable flexible and convenient .
+0	I used to have 3Com router it was not bad too but for wireless router Linksys has the best ROI now .
+0	After I finally set the thing up properly and after NUMEROUS problems with encryption and recognition by my computer for some reason XP would not recognize changed encryption settings I got it to work however the wireless signal would drop every 4 minutes .
+0	I bought Linksys WRT54G Wireless G Router a month ago Its performing good .
+0	Setup was a breeze and it has worked flawlessly ever since even stuffed between my router printer and wireless mouse base .
+0	It allows you to configure all of the standard stuff like WEP and addressing but I was really blown away by the security options the SMC was nowhere this powerfull You can disable broadcasting the SSID and most importantly you can create an access list of MAC addresses that are allowed to connect to the wireless interface so sorry warchalkers I could go on and on the setup is great .
+0	I was on the Wireless Network and Wired Network just in 3 minutes it is hard to believe but all it took me was to unbox the router and plug the network cables thats it .
+0	I turned on my Dell 8600 and I was in business with Wireless Network However than after I had to install wireless router for somebody else .
+0	One wired PC downstair and two wireless PCs upstair with the Belkin F5D7000 adapters up and running all by themself .
+0	Overall it has been a very effective and <p> easy to use wireless router <p> at the low end of the price range .
+0	After decideding we needed wireless internet access in our home we purchased this to replace our wired Netgear router .
+0	Unlike our previous router we were able to play every Playstation 2 game we owned online without enabling port forwarding or turning on DMZ even with the router's Firewall turned on Presently we have 2 PS2s an XBox 2 wireless computers a wireless game adapter a 4 port switch 5 port hub and 3 file servers all using the router and we have not encountered any problems .
+0	I have 3 computers 1 Dell PDA and my X BOX all hooked up via wireless all are using Linksys cards except the PDA built in wi fi .
+1	I previously had a Netgear router and wireless adapater which I never was able to configure properly .
+1	The router portion worked but the wireless part failed .
+0	So far the replacement works fine and seems to have an expanded reception area for the wireless .
+0	I thought there was trouble when my wireless laptop disconnected from the network after only a few minutes but I quickly discovered it was trying to connect to the old default network .
+0	This <p> wireless router works well <p> on my computer but installation is a little bit tricky .
+0	Nontechnical wireless users unfamiliar with WiFi technical jargon won't immediately grasp how to setup basic WEP security DHCP auto assignment or other essential features without first educating themselves on the topics Linksys' software does little to aid user discovery of key features .
+0	Overall I recommend this AP Router for anyone looking for <p> excellent wireless range <p> and reliable routing on a moderate budget and who can handle some complexity obscurity in the admin tools .
+0	My previous wireless router was a Netgear and with that one I could filter out the websites .
+0	The <p> wireless is very good <p> and fast and it's easy to set up .
+0	I use it mostly for my wireless laptop connection and I have had no problems with it .
+0	note that this guide is for bellsouth users but search their site for Linksys Wireless G Broadband Router and you should be able to find the fix Once everything was up and running it works great It has great security features that you REALLY should use 128 bit WEP encription mac address filtering and turning off SSID broadcast GET IT .
+0	This wireless router is a must for any network .
+0	Well recently I had occasion to pick up the wireless router and have been very happy with it Installation was a breeze I just swapped out my old router with the wireless one .
+0	I buy this wireless a few weeks ago and work whit out any problem i recomend 100% .
+0	It took 15 minutes to get my secured wireless network going you don't have to be a tech nerd to figure it out .
+1	The drawbacks are that you can't plug a USB printer into it for wireless printing AND you can't use Appletalk .
+0	But if all you really want is wireless internet and don't mind walking to the printer then it's worth saving $140 .
+0	Very nice to be wireless in the house .
+0	Including going to the browser page and enabling Wireless security and setting up a router password the entire process took no more than 3 minutes .
+0	Computer connecting to the router is 60ft away with a Amped Wireless UA600 usb adapter with a Dlink 7dbi antenna siganl 78% to 84% link 100% @ 54mbps .
+1	This wireless online process was much more compicated than I thought it would be .
+0	I have been using this wireless router for a few months with no problems .
+0	The only wireless connections I run on it are a XP based laptop and a robotic wireless network camera which has it's own webserver built it so that it can be viewed and controlled remotely .
+0	The wireless utility manager lets you connect anywhere in a flash .
+0	I find this wireless router really awesome since the time I have installed it I didn't have to renew the IP even once .
+0	Prior to this I was using a Verizon wireless router with which I had to renew IP almost every week .
+0	As well as runs good with wi fi things such as the xbox 360 wireless networking adapter nintendo wii hp media center pc in another room and a playstation 3 .
+0	My company now sells these routers to it's wireless network customers exclusively .
+0	I purchased this device because of its ability to support both wired and wireless connections .
+0	I did have a problem with the Installation Wizard CD but the paper instructions were more that adequate for me My next challenge was hooking up an Xbox Wireless device .
+0	For our wireless network here at home my fiance got this router .
+0	We have three wired computers and one laptop that we setup for the wireless network .
+0	Warning If you are changing from a wired to a wireless router you might encounter installation problems .
+0	I went with Linksys after the D link wireless router I bought failed to connect and I gave up hope of talking to D link tech support after 45 minutes on hold .
+0	The <p> wireless range is good <p> about 150 feet from downstair to upstair in my house .
+0	I purchase this on December 2007 at the time Wireless G was the fastest in the market .
+0	<p> Wireless have a good range <p> and strength .
+1	I have to use wire networking to connect my Linux home server since the wireless never quite work properly on my Linux box .
+0	I pay for this router $45 in Dec 2007 so the $64 they asking now seems expensive more so if you realize that most Wireless N Routers sell now for $60 .
+0	Unless you have really old laptop or PC I recommend you get latest Wireless N technology chances are that you going to upgrade anyway in the next year or so since Windows 7 is coming out strong .
+0	Some Wireless N Routers do have legacy support so look into the specs before you make the purchase to find out if that specific model will support your hardware some models have Wireless a b G and N .
+0	I also wanted to switch to Broadcom hardware which the linksys uses because my WiFi MiniPCI card in my dell laptop with lucent silicon in it used 70% of my 1 2Ghz laptop's CPU when using the wireless at full speed .
+0	That's more than 4x the best speed I was able to get with the 802 11B device with encryption turned OFF I use the device more like a wireless hub not in router mode since my internet connection is no where near the middle of the house where I want the wireless access point to be .
+0	I have subsequently set up a wireless printer which was a breeze .
+0	Although I was predisposed toward the Linksys brand because of a good experience with the BEFSR41 I was somewhat concerned about the mixed reviews on the WRT54G Wireless G Router .
+0	My <p> wireless range provides outstanding coverage <p> throughout the three floors of my home covering about 5000 sq .
+0	Just plugged it in fine tuned some security and wireless adjustments and away I went at wireless speeds equalling the speeds of the hard wired PC's .
+0	I own a Mac iBook G4 with a wireless airport card and my parents own a 4 year old Dell desktop .
+0	When I got the Linksys wireless router I opened the box plugged it in and connected the two ethernet cords from the cable modem to the router and from the router to the Dell .
+0	20 seconds later the Dell had internet and my iBook had wireless internet .
+0	I had an issue where the laptop could not see the router for some odd reason the default channel did not work in my house go figure after speaking to a patient technician we worked it out If you are going wireless THIS IS THE ONE TO BUY .
+0	I was skeptical about my ability to set up a wireless network in my home even though all I was trying to do was share my cable modem connection .
+1	I did have a small problem with the wireless signal being cutoff every 3 minutes .
+0	Purchased this router after a failed attempt to set up a wireless network using a D Link DIR 615 .
+0	The Linksys router immediately recognized my modem and was sending a <p> strong wireless signal <p> throughout my two story Victorian .
+0	My daughter connects to the router with the cheapest USB wireless adapter I could find .
+0	When I wanted to lock down my wireless network extra securely the tech support guy walked me through that as well taking an extra 15 minutes or so .
+0	I use an apple powerbook and I was wireless in first 5 seconds time taken in selecting network .
+0	I am extremely pleased with the Linksys WRT54G Wireless G Router .
+0	The day SpeedBurst rolled out in my area my Netgear started flaking out on me giving me modem speeds essentially I'm not entirely sure they're related but I did some research over and decided it wouldn't hurt to upgrade especially considering my WAP was wireless B .
+0	In short I'm perfectly satisfied with the onboard QOS and the <p> wireless is great <p> a vast improvement in range and speed over the old b standard linksys WAP I used to use .
+0	I purchased this router used as wireless access point after netgear WGT634U died used a month .
+0	It look me less than an hour to install the network and notebook card adapters to set up my wireless at home .
+0	I bought the linksys Wireless G Router because i was looking for a router with a wide range signal .
+0	One device Tivo Series 1 DVR is far enough away from my network router to need either a really long Ethernet cable or a wireless connection .
+0	Also the housing on the router is really lightweight and seems like it would break if I dropped it once However this router had good compatibility with my cable modem and was a snap to set up with my wireless NetGear WGR511 card .
+0	and sure enough 5 minutes later i had a working wired and wireless connection working .
+0	Be forwarned however my intention was to simply set up wireless with encryption and nothing else .
+0	I simply wanted encrypted wireless for my xp windows pc and vista windows laptop in the house .
+0	Highly recommended especially for novices who simply want wireless in their house .
+0	I had a bit of trouble getting everything synced but that's because I have a Mac and a wireless printer that all had to sync together .
+1	I brought a new Links wireless WRT160N from Walmart sorry Amazon router and have been trying to get it to work for the last 2 days but it wouldn't connect whatever I did .
+1	I don't know what it is about Safari but Linksys wireless router definitely do not like it .
+0	I bought this router because I couldn't get the D Link DIR 655 Extreme N Wireless Router by D Link to work with my Vista Xp network after days of online support that lacked in expertise .
+0	For years we have been happy users of a Netgear MR314 wireless router .
+0	Instead just turn on the router look for the wireless signal or plug in directly using an ethernet cable then use FireFox the current Safari doesn't work and any changes cause a server unexpectedly dropped connection error .
+0	Even though it's really really simple to set up the Mac for wireless it's still nice to be recognized .
+0	The Ultra RangePlus wireless N Router is a very high quality product .
+0	Vastly increased speeds over Wireless G Routers due to the dual band transmissions with the N router .
+0	I guess i lasted less than one hour or so setting it up even given my usual habit of not reading manuals which usually add some delays i've got all my wireless devices working flawlesly mobile phone and laptop basically .
+1	As a whole wireless routers tend to be unreliable .
+0	Unlike many routers it provides prominent screens to help individuals create at least a relatively secure wireless network .
+0	Also unlike my D Link Wireless G router if there is a short power failure it won't resort to creating an insecure open wireless network .
+0	The Linksys WRT160N will act as both a router and a wireless access point .
+0	It also acts as wireless access point which will allow computers with a wireles card or built in wireless to connect to it and to your network .
+0	If you have a wireless network you should read understand and enable both features to keep others from accessing your network .
+0	I found this <p> wireless router easy to set up <p> the instructions were very clear .
+0	I also have a laptop configured for wireless Internet access and so far so good .
+0	This <p> wireless router is very easy to setup <p> with a big colour picture .
+0	We bought this unit to replace a failing wireless router .
+0	We'd recommend this to anyone looking for a relatively <p> low cost wireless G router <p> .
+0	Great software to monitor your wireless network repair if necessary and set security settings .
+0	The <p> wireless strength is good <p> in every room of the house and I no longer need to worry about dropped connections .
+0	I bought this to replace a Netgear wireless G router that died on me after just four months of use .
+0	This is my third wireless router overall and I can say after 13 months of use that it works around 95 percent of the time .
+0	It's now working fine but I didn't expect to have such a difficult time to install a wireless router .
+1	It was constantly interfering with my wireless connection through Windows and it would never stay working .
+0	I wasn't able to delete my Windows wireless connection because I was using a USB wireless router for my desktop so had to delete the software .
+0	I have had an older version of this Linksys wireless router for years and have had zero problems .
+0	You do not need any knowledge of wireless networks to setup this router just pop in the CD and follow the on screen directions and diagrams .
+0	It has provided me with several months of uninterrupted <p> reliable wireless internet <p> .
+0	I have two desktop units hardwired together and can run wireless from my second floor office clear to the basement of my house .
+0	I had previously been using a Netgear WGR614 router which was still 54mbs and wireless g enabled .
+0	Who says you have to pay $100 for a <p> good wireless router <p> .
+0	This ReFurb Router arrived 2 days early relatively easy to setup on my Host PC with the Linksys CD inclusive of very SIMPLE instructions once I LINKED the 2nd Client PC to the router by typing in the Network Password the PC blasted to the moon at 54 Mbps because it is so much faster than the hardwired hookup with DSL btw I am using a ZyXEL wireless adapter which is compatible with 802 11a b g .
+0	The first router that I purchased years ago was a Linksys which was excellent and served me well for years until I made the move to wireless .
+0	Connected all my wireless devices and I was good to go .
+0	I've been wanting a wireless router for a while now saw this and decided I couldn't pass it up for the price I have no regrets .
+1	My old router was no longer working reliabily with the wireless signal .
+0	Since this is just day 1 of using this router I have yet to test distance wireless speed consistency and stability other wireless pc and notebook .
+0	My wireless PS3 works like a charm too .
+0	I travel often and places I go to have internet access but not wireless I was looking for a wireless router that was non expensive small with no attennas sticking out to break in my luggage .
+0	Same thing plugged it in set up the wireless and it's easy and fast .
+0	We work wireless clear to the end of my 100ft driveway and everywhere else .
+0	This router was my first wireless N purchase and I have been using it for the last year or so now .
+0	However if you're willing to give DD WRT a shot it makes this a great buy and probably the <p> cheapest wireless n router <p> you will find .
+0	I spent 1 hrs to setup this wireless router via its installation software and still could not connect to the internet .
+1	I have read that Kindle does not connect well with wireless N .
+1	The intial 802 11g throughput wireless speed from my ethernet wired desktop pc to my 802 11g wireless laptop was very slow .
+0	best value for the money especially for a wireless N router not to mention by cisco linksys .
+0	has great reach none of my other wireless routers provided a signal upstairs to my room .
+0	My old one had to be reset at least once a week if not more and no wireless n support or wifi bummer for ipod usage .
+0	This one has held its own between two wired desktops two wireless laptops and xbox 360 online play .
+1	We have an older house and my wireless router just didn't have the strength to cover every room .
+0	Set up for the Linksys RE1000 only took a few minutes and now everything is running at <p> full wireless signal <p> .
+0	The Linksys wireless range extender was easy to install out of the box .
+0	And I think it would be easy for even a novice wireless user .
+0	I'm prepared for bear I decided to use my wife's wireless computer to perform the installation .
+1	When I tried to run the installation CD it did not like my Intel Proset wireless chipset and wanted me to enable the windows drivers instead .
+0	The Linksys RE1000 Wireless N Range Extender is a useful device for those that cannot get wireless access from their existing router in all areas of their home or business .
+0	We toyed with the idea of adding a wireless card to our desktop computer and moving the router but after discovering the RE1000 range extender we decided to go that route first .
+0	Setup to set it up correctly Linksys asks that you use the setup CD on a computer that currently has a wireless connection only .
+0	Reception before installing the extender we took an iPhone 4S to the outermost point furthest away from our router of our house where it registered 1 bar .
+0	We took the same iPhone into the backyard where we had never before had wireless reception and it again registered a full signal .
+0	Both floors of our house now have a <p> solid wireless signal <p> and because of that I would recommend this product to anyone .
+0	I am now thinking about purchasing one more RE1000 for my home wireless network and placing it in the middle of my home to get the very best signal strength throughout my home .
+0	this time I did have a look around the reviews for the Linksys RE1000 Wireless N Range Extender .
+0	The product does what it says extend your wireless range .
+0	Just insert the setup CD on your wireless connected notebook plug the extender to your AC outlet click next done Fantastic .
+0	I wanted something to boost the WiFi range so I picked up the Linksys RE1000 Wireless N Range Extender .
+0	First for those with issues every time you connect a Vista machine over wireless check out this solution from the Linksys forums .
+0	I regularly hit 25 mbps in speed tests over wireless and 2 mbps in real world download scenarios .
+0	Too bad none of my wireless adapters support the 5 Ghz band the dual band adapters seem to be common with laptops though . .
+0	I went out and bought a pci dual band wireless adapter Linksys WMP600N with 2 external antennas .
+0	This <p> wireless router is fast <p> seriously fast . .
+0	Always looking to provide better speed to all of the wireless items within our household I was anxious to test out the .
+0	It used to be that to set up a wireless router I would have to go through an installation process using a disk and one of our computers but with this one that wasn't required .
+0	After much homework and too much frustration with our cable provided wireless routers 4 replacements in 8 months we decided on the Netgear N900 I am above average with technical knowledge but it is easy enough for the beginner to set up .
+0	Easy set up but was having trouble finding my wireless printer so I call Netgear's 888 number and low and behold the rep said she couldn't help out unless I forked over $129 .
+0	We purchased the N900 Wireless Router in June for a new franchise office and have been very pleased with its reliability and performance .
+0	I must live in some sort of black hole as I have been through several different routers in attempts to have my wireless network up to the standard I believe it should be .
+0	You can set this up out of the box using wireless .
+0	I purchased this for the upgrade from my FiOS provided wireless router .
+0	I simply turned off the wireless on the FiOS router and set this one in AP Mode and connected to a LAN port .
+0	Now our <p> wireless is blazing fast <p> . .
+0	Anyway this router AP will definitely put your wireless slightly ahead of the techno curve at least for now .
+0	I haven't used the router functions or messed with much of the <p> advanced wireless <p> functions because at this point I just don't need to . .
+0	<p> Wireless range is great <p> and i havent had any issues at all since I installed this . .
+0	We had the <p> best wireless broadband available <p> but it still wasn't useable upstairs at the other end of our huge old 1930s duplex . .
+0	I recently upgraded from an 802 11g Wireless Router to the N900 . .
+0	What a difference in performance I was delighted when I plugged a USB hard drive into the N900 and found that my music photos and videos were instantly <p> available to all my wireless <p> devices TV BD Tivo iPhone iPad etc . .
+0	I bought this N900 to replace my Buffalo WHP 300 wireless N as well that was unable to stream 1080p movies . .
+0	Suffice to say I have the N900 streaming 2 1080p FLAC movies from 2 wireless devices in 2 different rooms and it laughs at the thought that I had doubted its capabilities .
+1	I was getting a drop off in wireless signal in one corner of my house and I also had wifi connection problems with my motorola droid first generation celllphone .
+0	The router ships with a unique ssid name and unique wireless password and the strongest encryption is enabled by default . .
+0	I bought this router a month ago to replace a Belkin N Wireless Router and I'm so glad I did .
+0	I also really like having the USB ReadyShare printer port and my 10 year old HP LaserJet 2200d works just fine with both of my Windows 7 PCs that are networked to the router one wired and one wireless .
+0	I've been involved with wireless networking for the past several years this router is technically superior at a price that's very competitive .
+0	hard wired and wireless with no issues other than the ones mentioned above Worth 5 stars because of the speed and ease of use .
+0	If speed is what you're looking for in your router look no further than the Netgear N900 Wireless Dual Band Gigabit Router WNDR4500 .
+0	The N900 comes with two USB ports allowing you to connect both storage devices and a wireless printer four LAN connections and a port for your cable DSL modem .
+0	I got this router to replace my old linksys router which was having issues maintaining its wireless connection to my TV .
+0	I initilly purchased the Linksys ea4500 router to upgrade my system from a wireless G router to a wireless N I previously had the Linksys WTG54G which covered my entire 3 800 square foot house .
+0	I was reluctant to replace my old <p> reliable but non wireless <p> Netgear router . .
+0	I played with many of the Netgear settings including trying all the wireless channels on both bands with no success .
+0	Connecting to the 2 4ghz band I get just as good if not better than my old D Link wireless N PCIe adapter with minimal stutter .
+0	Even with my adapter not getting full bars it IS a small USB adapter afterall my wireless performance has been near flawless .
+0	Heck the router comes pre configured with a default wireless network name and password so if you are super tech averse you only need to read the label on the side as the info for the network is written right there .
+0	Just put its uplink into one of the ports on verizons 10 100 router and you can have this run your machines at gigabit and wireless N .
+0	Wireless N has both 2 4ghz and 5 1ghz operation With two different SSD .
+0	I am doing well with a Netgear switch going into the netgear router using wireless devices at both 2 4 and 5 1 some devices do not run 5 1 some do .
+0	I have 10 devices running on mine 6 wired and 4 wireless on a regular basis no guests .
+0	The explanation for the performance of the 3800 is at least partially due to the heavy neighborhood wireless signal traffic around me especially when looking at bonded channel 2 4 GHz testing occupying more channels with the 450 Mbps Mode of the 4500 will interact with more wireless signals in my neighborhood than the 300 Mbps Mode of the 3800 leading creating more issues with negotiating those frequencies .
+0	Besides the Good Neighbor policy of WiFi certified wireless routers dictate that the router switch to a non bonded 20 MHz channel automatically in this circumstance .
+0	I would recommend either router to family and friends based on their needs for streaming data neighborhood wireless traffic and feature set of the router as the deciding factors .
+0	Is this fast Yes Not 900Mbps fast as the name may make you think but its as fast if not <p> faster than all other Wireless <p> N routers . .
+0	They are much stronger than last years model allowing for a truly pervasive wireless solution in almost any home .
+0	Fast Wireless I've peaked at 270 Mbps though they say you can get 450 Mbps I haven't seen any devices that can do that .
+0	Marketing of the 900 this bad boy cannot crank out 900 Mbps wireless nor are there any consumer devices of receiving that its a shame they felt they had to do that .
+0	Overall I am really pleased with it and the speed is great I didn't have to change hardly any settings it was setup pretty secure except for the password change came into late for me lol I like being able to shut off the wireless at a touch of a button thought that was real cool lots of nice features .
+0	Netgear has been on a roll with their wireless routers of late .
+0	It's easily the <p> largest wireless router <p> I've ever seen .
+0	At the top of the front panel is a WPS button and a wireless on off button .
+0	MAC filtering on the Netgear N900 is called Wireless Card Access List and is much easier to manage than the other routers I've tried .
+0	For users who aren't familiar with wireless routers the Basic section handles most of router's standard configurations and features like basic wireless settings Readyshare parental controls and guest networks .
+0	Mind you my location is littered with neighboring 2 4GHz wireless networks but if you're buying this for your home you're likely in the same scenario .
+0	The N900 performs very well overall and offers a few extra features that make it a compelling wireless router .
+0	I noticed my <p> wireless speeds were pretty <p> slow using the out of the box firmware . .
+0	Works great for gaming and all the wireless devices that 5 years ago wouldn't have thought I needed Fantastic product should last a longtime .
+0	It appears that every time I reboot the router the router gives IP address sequentially to any wireless devices rather than remembering the last IP address for each MAC .
+0	I have a true mixture of wireless toys on my network and everyone of them setup without a hitch including 2 Macs and a PC on the same network .
+0	My PS3 netflix HD video was beautiful so much more <p> clarity streaming wireless <p> compared to my older router . .
+0	I tried wired and wireless connections to both a Mac and PC notebook using Firefox Safari and Chrome the router appeared completely dead .
+0	It also doesn't seem to want to show me the network map on my Windows XP desktop connected through an Ethernet cable but the feature shows up just fine on my Windows 7 laptop using a wireless connection .
+0	If you dont have any wireless B devices 97% of us you should set the preamble length to short preamble under advanced setup wireless settings tab this will give a slight boost in thorough put .
+0	Netgear needs to change their wifi policy this router conforms to the good neighbor policy where it will automatically dial down wireless channel width when it detects other similar bands in the area thus in the options you can change the router to go up to 450mbps .
+0	I am just listing most of the cons otherwise this is still an awesome router to get for the right price though right now there is a strong possibly even better competitor the .
+0	The wireless lights went off and the power internet and LAN lights all stay fixed amber .
+0	Wireless N had trouble with some older N devices but worked fine with some others .
+0	This thing is <p> fast compared to any other wireless <p> router I have ever owned . .
+0	Netflix runs <p> fast even over the wireless <p> . .
+0	I've <p> worked with a lot of wireless <p> and wired networking devises and this is probably the best I have worked with Outstanding piece of hardware . .
+0	Guest network feature on 2 4 and 5 ghz is really nice so house guests can check email and not invade your main network hard drive Both band are operational at all times Getting 4 to 5 bars on the wireless all around the house which is up from 2 to 3 bars in some areas .
+0	It did not matter if the combination of two was wireless or wireless wired combo .
+0	I bought for the wireless N and the range .
+0	I have used many different brands of wireless routers over the years .
+0	Transfer speeds using the e4200 were plain unnacceptable especially from my NAS server to any wireless device clocking in at around 200kbps .
+0	A separate Guest Access it is becoming more and more common to give a guest access to your network but I wanted a completely separate SSID and password that I could reset if need be without having to re connect all the wireless devices that I have in the house .
+0	Talk about simple I plugged in my portable Western Digital hard drive and Voila the Ready Share feature recognized the drive and it is now <p> available for wireless <p> access from any computer in the house . .
+0	Range With my free router from TWC I was dropping down to 2 bars in the living room and losing a wireless signal entirely in the back yard .
+0	Now I have a wireless signal half way down the block .
+0	We are a bit of an Apple family here and I have both our iPhone 4s her iPad 2nd Gen and my Apple TV connected to the <p> wireless network with no problems <p> whatsoever . .
+0	No more having to pry her Mac out of her hands in order to back up her files Also I had no problem whatsoever in connecting my printer to the network in order to have wireless printing .
+0	I had no problems connecting iPods iPhones Android phones HTC and Motorola PC laptops an iMac iPads Nintendo Dsi PS3 Wii and wireless N adapters for Blu Ray players and wi fi enabled televisions .
+0	I regularly move large chunks of data across the LAN through mixed mode wired and <p> wireless and have no problems <p> . .
+0	The wireless speed finally maximized and it equals the wired speed out of a router in our 20M comcast network which I have never been able to achieve in my old WRT54GL .
+0	My gaming roommate told me it has not dropped wireless signal once while playing LOL .
+0	I have yet to find out the maximum wireless transmission speed internally between the wireless client .
+0	I highly recommend this tower of power for wireless connections because of its security WEP technology .
+0	It is perfect easy set up and <p> supports all 15 of the wireless <p> devices in my house . .
+0	Now I can have the works of wireless devices connected as I please . .
+0	I have tried several brand of wireless routers but none has gave me the quality and stability showed by Netgear N900 .
+0	Purchased this to replace a dying 6 year old Linksys router that I was using after I got fed up with slow speeds and wireless ranges getting so bad standing more then 10 feet away would result in a dropped connection .
+0	Installation was a breeze <p> Wireless ranges are quite impressive <p> broadcasting almost a block away from my house and it's quite fast . .
+0	I could not connect my Kindle Fire to my Linksys 54 wireless router .
+0	I could not connect my Sony Blu Ray DVD player to the Linksys 54 wireless router except with a 100 ft cable .
+0	For 6 months I used it only with the wireless and didn't hook up anything directly to it .
+0	I also used it to run my computer on wireless internet and did not notice any loss of signal while streaming music or programs .
+0	When I replaced my computer and did the easy transfer through windows I noticed that while doing it wireless it would take about 7 hours .
+0	So I disconnected the computers from wireless and ran a patch cable which dropped the time to 1 5 hours .
+0	I later ran an ethernet cable directly to the router and it was also faster at loading websites although I <p> never had any real issue with it on wireless <p> either . .
+0	So I am leaving it connected to the router via ethernet port and still using the wireless for the phones bluetooth tablet etc .
+0	I also think I am going to set up my wireless printer through the netgear so I can print directly from my other devices without having to use the computer .
+0	Previously the wireless signal in my wife's studio which is in a separate building outside the house was about 1 bar out of five .
+0	And the wireless signal inside the house is robust even through the walls .
+0	Once I found that I installed it on both a wireless and a hardwired computer and it ran flawlessly .
+0	The Netgear wireless router is by far the most reliable most secure router on the market today I install a lot of wireless router and by far the Netgear is the best the range of the is also outstanding .
+0	All my wireless stuff noticed it was there and between the WPS and Individual device wireless interface software I had 6 devices running and a guest network in about an hour .
+0	I did this for two reasons makes it easier for guest who visit to connect legacy devices but more importantly to me is that I have a wireless printer that will not support WPA2 security and hoped i could figure a way to use the printer for awhile longer .
+0	With the WNDR37AV I spent countless hours experimenting with third party firmwares finally forced to settle with a beta version of OpenWRT to rectify issues with dropped wireless connections Netgear eventually fixed all my issues after several official firmware updates . .
+0	2 To focus purely on the router's throughput I hardwired the server host to my router and turned off all other network hosts except my test wireless client .
+0	The WNDR4500 can be configured for use as a wireless repeater allowing a wireless signal's range to be extended .
+0	2 USB printing quite an anachronism with most printers being wireless .
+0	If you are considering the WNDR4500 I would also point you at my review of the Netgear N600 Wireless Dual Band Gigabit Router Premium Edition WNDR3800 which brings features such as Clear Channel to the party but at the cost of speed .
+0	Even though it was wireless we could only run one or two pieces of equipment at a time .
+0	I had a D Link wireless router that stopped working and needed to be replaced .
+0	Since I purchased it at it's release I have gotten exception wireless coverage in both 2 4 and 5 ghz bands and even better routing performance .
+0	With well over 30 total clients at half of which are wireless I can strongly recommend this to any home or small business user . .
+0	It has good range fast speeds and reliable performance which are probably the three most important things you want out of a wireless router .
+0	It quickly recognizes the devices that are connected to the network either wired or wireless .
+0	I bought the product as soon as it came out and an issue I had with my wireless Tivo was fixed with an update .
+0	I found this router very easy to hook up the directions were straightforward and my speeds for both wireless and wired connections have been consistent and more than adequate for my needs .
+0	When running the wireless speed test on my computer it comes up with a 25 mbps download and 3 mbps upload on the 5G channel .
+0	The N900 is king of wireless routers .
+0	This goodie reaches all around my house works flawlessly with my now networked Canon Multifunction printer and wireless BluRay player .
+0	Thank you Netgear for restoring my faith in the magic of wireless . .
+0	Setup your Home Office SOHO with the Netgear WNDR4500 and a collection of Netgear WNDA4100 wireless adapters and you can link every device in your office using Push 'N' connect technology for a secure hidden network connection .
+0	Here is my setup at my home ipod touch iphone 4 PS3 PC DVR Blu ray player and a mac pro laptop and a desktop which is wired the rest are all <p> wireless and connect fine <p> to this router . .
+0	I followed the setup instructions pointed my wireless computer to the router logged in and wa la I'm connected .
+0	I pointed my Canon PIXMA wireless printer to it logged in and that was connected .
+0	I turned on & pointed the wireless of my xbox360 logged in and that was connected .
+0	The <p> wireless range is excellent <p> covering most of a 3200 square foot structure from essentially a back corner . .
+0	<p> Never drops wireless signal <p> and the QoS function works like a gem .
+0	The first router that I picked up was defective it was permanently locked in WPS mode meaning that it was actively searching for something to connect through with the push button that allows <p> easier wireless <p> connectivity . .
+0	It sensed the devices as I plug them in or turned on the wireless and pushed the setup button .
+0	We initially moved from a DLink Dir 655 to a Linksys E4200V2 because we had too many wireless devices and the DLink was having trouble keeping up .
+0	We have 2 tablets 3 laptops 3 Logitech Revues 2 TV's 2 Blu Ray DVD players and 4 phones which use wireless and we stream movies wirelessly from our NAS to our tablets and or TV's everyday .
+0	I highly recommend this wireless router . .
+1	The only issue I have is the interference I get with my wireless headsets .
+0	If your a gamer and need more bandwidth for your online games this router is perfect but if you use wireless headsets you'll get a lot of interference so switch to corded headsets . .
+0	We have multiple laptops that access it several wireless printers and we stream movies to several tv's using Roku devices and BD players with internet connections .
+0	In addition to this I have 4 or 5 wireless devises connected .
+0	I have various devices working online including two xbox 360's one PS3 Wii 2 DVR's one netbook two iphones and one Droid 2 Global running on this thing wired and wireless just to see how much it could take and I had not one hick up during testing it's just so smooth and fast it also has great range get's as far as my neighbors house without a hitch I know this because she occasionally asks me to borrow the signal which leads me to the next feature I love about this router .
+0	This is a great router for those new to wireless and those who are well seasoned .
+0	For those new to wireless it comes pre configured with an ssid and encryption key for both wireless bands 2 4ghz and 5ghz .
+0	Wireless is smart enough these days to know when the wide channel can be used without squatting on neighbor's frequencies though . .
+0	Overall this is a very dependable wireless router with a great amount of features . .
+0	The speed of the router is amazing downstream HD videos are a pleasure to watch no disconnects what so ever .
+0	Outstanding coverage and the <p> best wireless <p> router I have ever purchased . .
+0	It has clocked wireless DS of 31 6 Mbps and US of 3 48 Mbps .
+0	I worked up to this model after trying an Amped Wireless sr10000 poor quality the Motorola SBG6580 firmware v3 1 prevents VOIP and Netgear N750 great router works well .
+0	I really enjoy the wireless access and the increased speed with a new modem as well . .
+0	One issue is that not all devices can see the 5 0 Ghz radio so if you are anticipating wide usage of both radios make sure your wireless devices can see a 5 0 Ghx radio as from expereince I can tell you that not all devices can .
+0	How many people say you can rely on a wireless network Hardly anyone .
+0	I ran the speed test of my wireless network using my iphone download and upload speeds with my Netgear N900 are more than double compared to Neatgear Rangemax .
+0	Speaking from a non technical viewpoint I think this is a great product It was easy to install we had no problems at all and our <p> wireless signal connection is better <p> than ever faster more reliable . .
+0	Thinking how great the wireless router and our cable modem would look stacked together and save space I did just that . .
+0	Now even at the other end of the house I am able to use wireless internet without any problems previously some devices had trouble picking up a signal .
+0	Then about 12 hours later the router would lose both wired and wireless connections .
+0	All 10 wireless devices in the house work perfectly with speeds rivaling those of wired connections .
+0	Now that the router is working I can honestly say that it is the <p> best wireless <p> N that I have ever had . .
+0	As far as speed is concerned the 2 4 and 5G <p> wireless N are definitely faster <p> than the old b g and range is really great on the 5G N going through about 5 walls to a wireless usb adapter on another computer . .
+0	I have about 20 items in all accessing the router either wired or wireless Sling box Vulkano 2 Rokus IP 9258 2 Tivo's Apple TV laptops 2 Ipads cell phones etc .
+0	I bought this as an upgrade to my 2010 netgear dual band wireless router .
+0	The dual bands on both the WLAN and guest sides are nice to segregate Windows Mac Linux and wireless device access to the minimum needed .
+0	I have a rather diverse home network two desktops two laptops printer DVR home security PS 3 both wired and wireless so I was hesitant to do the exchange by myself remembering what a pain it was to set up the original network .
+0	<p> wireless signal is very strong <p> router is in the basement have a great signal on the second floor Should have done it sooner . .
+0	I also have my application server as well as a SAN connected that run beautifully using the wired gigabit ethernet and the wireless n network at these speeds .
+0	I'm using about 20 wired devices with an additional switch and several wireless including .
+0	I purchased the Netgear N900 Wireless Dual Band Gigabit Router WNDR4500 to replace the Linksys Cisco Wireless G router because I noticed that the wireless G was slowing down my Internet speed .
+0	I also wanted gigabit wired Ethernet ports which was not available when I purchased my Linksys Wireless G router many years ago .
+0	However with the Linksys Wireless G router on wireless the PC would get up to 12 Mb s download and 6 Mb s upload .
+0	So the wireless G router was slowing down my Internet speed from 36 Mb s download to 12 Mb s download .
+0	Also if it sees a lot of other wireless routers down your street it will slow down the speed since the N spec says it has to .
+0	Also the speed test at speedtest net goes up and down constantly using 2 4 GHz wireless however the old Linksy router did the same thing .
+0	Now for the 5 GHz frequency which my wireless Blu ray player and all PCs will support once I get rid of the wireless G PC the speed is very good .
+0	All my PCs and devices only support up to 300 Mb s and do not support 450 Mb s but I got 450 Mb s wireless router for future devices PCs .
+0	My 300 Mb s PCs on wireless N 5 GHz get a download speed of 36 Mb s .
+0	I bought the Netgear N900 Wireless Dual Band Gigabit Router in October 2011 and I am very happy with my purchase .
+0	This router is fast easy robust great I had trouble with another router that I sent back MediaBridge .
+0	It is now connected to three Mac's a Windows 7 an iPad iPod iPhone and a wireless printer internet TV and Blu Ray player .
+0	Let me tell you this is my fourth wireless router over the years and it is fantastic .
+0	It streams video and music flawlessly cat5 gigabit wired or <p> wireless Two DNLA supported <p> high speed USB worked perfect . .
+0	They don't tell you this but it will also act as a wireless repeater .
+0	It gave me a 300 to 500% increase in the speed of my wireless and doubled the transfer rate of my wired connections .
+0	I bought this to replace my linksys E4200 their top of the line router the E4200 would work great for a few weeks than just quit Sometimes I could access my wireless printer sometimes I could access my WD backup sometimes it would just crash and change all of it's settings The first two times this happened I called customer support and they were able to walk me through resetting it .
+0	It took me all of 20 minutes to unpack and install the N900 I have 2 laptops 1 wireless printer 1 iPad 1iPhone a WD back up hard drive and a Samsung Blu Ray player .
+0	I'll just say that I agree with all the praise and hype I test drove no less than FIVE disappointing brand name Wireless N routers before I finally broke down and laid out the extra cash for the WNDR4500 . .
+0	It did what it was told the minute is was connected to our network just like any quality piece of wireless technology should . .
+0	For those who may be curious as to how much gear this great product can handle here is a list of our network devices both wired and wireless .
+0	One of the things we did before calling gave a message to connect the printer to the computer but as it was so far away which is why we use the wireless option we didn't do that .
+0	Now that the computer and printer communicated directly it picked up the wireless signal and all the computers were now able to print wirelessly .
+0	Also the communication with old wireless cards and up to date wireless cards is great .
+0	Due to the nature of wireless your results will most likely vary .
+0	So as far as transfer speeds and wireless signal goes this device met all expectations .
+0	I bought the Netgear N900 Wireless Dual Band Gigabit Router in September 2011 and I am very happy with my purchase .
+0	My Xbox WII and printer are now all wireless thanks to Netgear .
+0	I recently upgraded my TV to a new plasma and when I did all the nearby wireless devices Logitech Review and Onkyo receiver were no longer able to reliably connect to my Linksys WRT610N .
+0	According to him it was very easy to set up and link with our 3 laptops 2 iPhones Roku tablet and wireless printer .
+0	I have had wireless networks in my house for 14 years .
+0	Brick home with plaster and lath construction don't seem to pose any problem for this wireless device .
+0	We ordered this as we needed a nice fast and <p> good ranged wireless <p> router that we can offer free secluded Wi Fi to our customers and keep our own systems on our network . .
+0	Wireless signal throughout the whole building is considerably better than it was with our previous router .
+0	I have not been a fan of Netgear products in a LONG time I thought their quality dropped considerably and for a long time their wireless routers were not very good .
+0	Canon printer is setup to work wireless . .
+0	For those of you that don't know what an AP is it acts as the wireless part of your network when you already have a router My problem was that the wireless router provided by my ISP AT&T is in the basement surrounded by the furnace and ductwork on one end of my house .
+0	So I set up the WNDR4500 in my office which is on the second floor and turned off the wireless radio on my AT&T router .
+0	That may be due to interference from your neighbor's wireless networks .
+0	In my area I have 24 other wireless networks on the 2 4 GHz band that my computer can see .
+0	You might try manually setting the wireless broadcast channel try each of the 11 channels and see which channel gives you the best performance .
+0	This one is consistent reliable <p> good wireless range <p> and well designed . .
+0	All of my <p> wireless devices receive great <p> signal without crashing . .
+0	This is a very quick router and it <p> performs flawlessly for wireless <p> devices . .
+0	I have TWC wideband 50mbs download 5 mbs upload and I'm getting that via wireless two rooms away and at the furthest point of my house I drop to a range of 30 40 which is incredible since that point is downstairs and a good distance away .
+0	I have more than 9 devices on my network including various apple devices apple tv several laptops a desktop tivo xbox wireless printer so the simplicity with how device setup and works is appreciated .
+0	Okay this replaced my free Netgear wireless 150 router which I know is pretty sub par and anything compared to this is an improvement . .
+0	I love this router In addition to getting lightning fast speeds on my laptop downdstairs router is upstairs I now do not have to upgrade my older non wireless printers because of the readyshare printer feature No one who has reviewed this has mentioned how fabulous this feature is It turned both of my wired printers into wireless simply by plugging my printer into my router there are two USB ports for this .
+0	I have not tried plugging my external hard drive into it yet but apparently it will also turn that into a wireless drive that you can access awesome .
+0	We have been thinking about getting a new wireless router for some time now .
+0	We love the Netgear extender that we have but our old wireless router just wasnt doing it anymore was continuously losing the connection and the strength would radomly vary even with the extender after a short time .
+0	This is a review of the Netgear N900 Wireless Dual Band Gigabit Router WNDR4500 .
+0	I am an IT professional author of many technical books and I work from home and needed a performance upgrade from my older Linksys wireless router Linksys WRT54G2 Wireless G Router .
+0	So I purchased the Linksys E2500 Advanced Simultaneous Dual Band Wireless N Router from amazon com and it was a disaster see my 1 star review there for details .
+0	I unpacked the Netgear N900 WNDR4500 and had it installed in about 5 minutes on my home network with 11 computers and many wireless devices What I did .
+0	3 I turned on a wireless laptop Windows 7 and opened the wireless connections dialog it listed the NETGEARxx SSID I logged in with the previous info and was immediately on the internet .
+0	Played my PS3 with the wireless connection online multiplayer with several games with no visible lag .
+0	I would be fine with USB 2 0 if I was running everything wireless `cause USB 2 0 is about as fast as the N900 wireless connections anyway .
+0	My N300s don't reliably hold that sweet wireless HD connection to my tablet like the N900 does . .
+0	After that it was just a matter of picking through the menus and setting up subnet addresses DHCP reserved addresses and wireless MAC filters .
+0	I like that netgear provides a unique wireless access code .
+0	The router is sitting on a high shelf in the laundry room now streaming a movie a call of duty session an internet call every now and then my HD wireless viewing of NMAtv and the usual surfing .
+0	There were a lot of areas in our apt where we had simply no wireless reception .
+0	Voila Not only do we have much greater coverage the <p> wireless is blisteringly fast <p> . .
+0	These tests were done using a 25 foot Cat5e cable and a distance of about 15 feet while wireless .
+0	As far as data transfer to external drives is concerned I haven't used this feature too much but I do recall getting a 3 mb s download through wireless and 7 mb s upload through a wired connection to a 7200 RPM USB 2 0 drive .
+0	Wireless default ping packet size 75 feet away with multiple walls .
+0	My wired internet speed is rated at 10 mbs the wireless signal that I got from Speed Test was virtually the same 9 985 mbs .

@@ -1,0 +1,811 @@
+1	I've had this mouse for about an hour now and I've come to these conclusions: - The scroll wheel is nice and smooth but will take some getting used to - Movement is generally precise but has been occasionally jerky and unresponsive - Mouse feels good in the hand though is a bit heavy (I realized I pick up the mouse to go across two monitors sometimes) - The buttons near the thumb (left and right arrows) seem pretty useless and really, really irritating to my thumb, if they weren't there this mouse would feel 100% better Maybe I still have to get used to it but I just might be shipping this thing back.
+1	My second complaint is the middle mouse button (or the mouse wheel button).
+1	Also, I REALLY miss the auto-free-spin switch feature (where if you scrolled very quickly, the wheel would automatically toggle to free spin mode, and toggle back when you stop).
+1	And finally, I've gotten so used to having the mouse wheel button function as the free-spin toggle that I often find myself clicking that when I'm trying to switch to free spin mode.
+1	That said, the zoom button on the Performance MX, which you toggle by pressing the button and change by using the middle mouse wheel, will suffice and should please anyone who frequently needs to zoom but never had dedicated buttons for it before.
+1	The main feature of the revolution MX was implementation of the wheel button.
+1	The wheel action was very smooth, with a heavy metal wheel.
+1	When you spin the revolution wheel fast, it turns into free spin action, allowing fast page scrolling.
+1	The performance MX  wheel have a cheap feeling  to the mouse wheel spin, with hard clicks.
+1	In order to get free spin, you have to press a button under the wheel, which is much less convenient.
+1	Some improvements over previous model: * The battery is now a standard AA type (sanyo enloop) * The receiver is very small * The mouse can be charged via USB * side scroll is now built into the wheel Overall, the muse feels allot cheaper than previous model.
+1	But the  worst part by far is the scroll wheel .
+1	My biggest complaint is the ridged texture of the scroll wheel.
+1	Responsivity is fine for my simple needs on my personal laptop; I doubt this mouse would meet gamers' needs and the scroll  wheel would not be comfortable  for a full day of computer work.
+1	The scroll-wheel is great, the buttons are great, but this mouse fails at its fundamental task.
+1	Also after only a few days of light use, the scroll  wheel is now very loose  (in click mode).
+1	Not only eliminated the excellent system of the wheel but also worsened the overall design making it bigger and less ergonomic.
+1	Lastly, the flywheel is amazing on long page scrolls.
+1	) The left/right scroll wheel action no longer clicks as it did on previous MX mice.
+1	There's no obvious feedback that you've pushed the wheel in either direction.
+1	My one real complaint is that the touch wheel is a bit over sensitive.
+1	Sometimes when I am scrolling with the wheel the mouse decides that I clicked it and goes into scroll lock which can be a bit frustrating.
+1	But the scroll  wheel SUCKED  the big brown eye, and I have never gotten used to controling the mouse (It's the only true vertical mouse so you have to move the mouse from your elbow and forearm, not just flick your wrist like all the other ergonomically slanted or flat mice).
+1	The SetPoint software also touts the ability to allow you to assign application-specific key-presses or functions to the various mouse buttons, but I found that it couldn't do something as simple as register a press on the mouse-wheel as a middle-click (despite the software allowing me to set it up this way).
+1	2nd, the Rocketfish's scrollwheel also has the ability to lean left and lean right, which allows you to scroll left or right using the wheel (and not just up and down like 'regular' mice).
+1	There's a "turbo wheel" of sorts that allows super fast scrolling through webpages, but I have yet to figure out how to make it work.
+1	Beneath the scrollwheel there is a small button that I think most people have mistaken for being a scroll speed enhancement.
+1	Cons: The tiny little scroll  wheel is difficult to click  and not particularly comfortable.
+1	Apple Safari does not work if you want use the scroll wheel but it's still mostly functional.
+1	Only real complaint is that the thumb wheel is located a little far back for people with larger hands.
+1	I love the free-spinning wheel for moving around in long documents, and I also like the back and forth scroll action available from the wheel --- if you press it to the side, you can scroll from left to right.
+1	This mouse is very comfortable, it glides smoothly and the flywheel mousewheel is amazing.
+1	Pros: Small Long battery life Plug-and-Play, no need to setup anything Cons The wheel button makes a VERY irritating noise when turns Stops working sometimes, then you need to push the small button underneath to reset.
+1	I have had this mouse less then a year and the scroll  wheel has gone bad .
+1	The scroll  wheel intermittently goes out  and there is no longer that distinguishable "bite" when turning.
+1	The scroll wheel was just the last straw.
+1	I couldn't find any great Logitech or Microsoft mouse that was: ergonomic, had a scroll wheel, and had extra programmable buttons.
+1	The wheel itself has a surprisingly large moment of inertia and allows you to quickly scroll down web pages just by flicking the wheel.
+1	The nano mouse has a button on the top right down the wheel which I used to search things, it works very nice.
+1	This one has one as well but its only to change the scroll mouse, and the search button or third button is moved pressing the scroll  wheel which is terrible  because you have to press so hard that your pointer moves away from the word selected and then it doesn't search.
+1	Since the wheel is exactly for that, scrolling its impossible to press it down without scrolling at least a little the page and that is all it requires to cancel the function of the button.
+1	But after a few months of use first the rubber came off the scroll wheel.
+1	I was still able to scroll after I pulled the rubber out, but it was more  difficult now to turn the wheel .
+1	The scroll wheel in the middle of the mouse now spins free or clicks depending on the application and how fast the user turns it.
+1	The Internet page Back and Forward buttons do not work as well for me as they did on the MX1000 and the search button is in a frustrating position directly under the scroll wheel which means that if you finger slips it hits the search button and up pops whatever engine you have designated.
+1	The main wheel free spins, and can zoom through things rather quickly.
+1	The side 'wheel' can be used for many things.
+1	The rubber grip on the main scroll  wheel actually comes loose  from the metal component, making the free shipping not so 'free spinning'.
+1	It adds quite a bit of friction to what I can only guess is the 'bottom' of the whole wheel mechanism.
+1	This mouse's greatest feature is also it's most disappointing flaw: the hyper-fast scrolling wheel.
+1	The concept of a frictionless scrolling wheel is great and it makes a lot of sense, considering that many of us spend hours clicking through long web pages or documents.
+1	But this scrolling  wheel renders the mouse's middle-click almost useless .
+1	In clicky mode, the scroll wheel clicks like your old fashioned scroll wheel, except it moves much more easily than your standard mouse.
+1	In spin mode, the wheel moves without any friction, so it can be spun with a flick of your finger and allowed to come to rest on its own.
+1	By default, the middle-click (achieved by pressing on the scroll wheel) on the MX Revolution changes shift modes from click-to-click to spin.
+1	Fortunately, you can use the Logitech Control Center (on Mac, which is SetPoint on Windows) to change the scroll wheel's click behavior to middle-click rather than to change modes.
+1	In a long document, I could give the scroll wheel a spin, and the mouse would whizz into free spin mode and, as the spin slowed down to a stop, the mouse would eventually *CLUNK* back into click-to-click mode.
+1	The problem with this setup is that -- even though the middle-click is now a proper middle-click -- the mouse wheel is so sensitive that actually pressing on the scroll wheel causes the page to scroll.
+1	So, if you're viewing a multi-page document in Firefox and you'd like to open a link in a new tab by middle-clicking, by the time you've applied pressure to the scroll wheel, the page has zipped out from underneath the cursor and you are clicking elsewhere.
+1	Unfortunately, because the MX Revolution is so unique, these third party drivers cannot control the mouse's scroll-wheel features, rendering them largely useless.
+1	The scroll wheel however may be a bit too smooth for some people.
+1	--- The scroll wheel is very smooth.
+1	Because, what happens is when you scroll the wheel, you don't really get any tactile feedback to indicate whether you have scrolled one tick or two or three.
+1	The scroll wheel is designed to serve as the middle button.
+1	It only works when the wheel is pressed down in a specific way/direction.
+1	It had 10 programable button functionality (tilt left/right), three buttons including center wheel push, four thumb buttons, and a button to switch between free spin wheel and detent wheel (awesome).
+1	The MX/VX series of mice with their free spinning scroll wheel were still to this day the best mice ever created by mankind.
+1	The VX which ran for 6 months on a commonly used battery is an amazing achievement, it's free spinning scroll wheel had a small lever on the bottom the select between ratcheted and smooth scrolling.
+1	Since I have never operated any of my free wheeling Logitech mice in any mode other than free wheeling, I am hoping to disassemble this one and remove the annoying button.
+1	I've never used a hyper-scroll wheel before.
+1	I believe the older Microsoft mice just had a smooth wheel.
+1	Positioning the mouse for optimum use of the top buttons and scroll wheel moves your thumb away from the application switching wheel.
+1	The application switching  wheel is located too far way  from the "front" and "back" buttons, and moving your thumb from the buttons to the wheel forces the mouse to move because of where the back of the mouse sits relative to the base of your thumb.
+1	My main concern is that after about a month of owning the mouse the scroll  wheel lost its sensitivity , now I find scrolling pages in documents to be a real chore, the click wheel has become unreliable and I have resorted to clicking the scroll bar and dragging, this is a major issue for me, I may resort to my old battery powered microsoft mouse, I havn't looked into a replacement yet, but may soon.
+1	I had to adjust my mouse settings in Control Panel, but I think that's because laser mice are more sensitive than wheel mice.
+1	Minus a star for its size (which I should have researched more) and a minor annoyance with the scroll wheel (a little sensitive to clicks), really good mouse.
+1	The top  wheel is very cheap .
+1	The side buttons are not nearly as useful as the thumb wheel on the Revolution, the button placement is awkward, too much of a reach.
+1	I just received this mouse and it seems to be pretty decent, but there is a problem with the scroll wheel.
+1	This is a shame because the mouse is otherwise good (apart from the fact that depressing the scroll wheel for middle mouse  click tilts the wheel  to the side).
+1	The issue of not being able to use the  wheel to click is a little annoying .
+1	I reprogrammed one of the buttons to perform a keystroke to open a new tab in IE (which is the only thing I used the wheel-click for previously).
+1	It opens the new tab, but it's just a generic tab, not to a specific site/link and it pops up right away--you can't open the tab behind the one you're in and stay in the one you're in at the same time like you could with a typical wheel-click.
+1	, have the middle/wheel button show/hide all tools in Photoshop.
+1	Before I bought Performance MX, since its zoom button has to be combined with scroll wheel in order to zoom up/down, I thought the zoom button could also be programmed to work with scroll wheel to control volume as well.
+1	And finally, the scroll wheel doesn't tilt much or click, so it's very hard to scroll left/right on a page.
+1	The first thing that I noticed is that the scroll  wheel has a very choppy feeling .
+1	I use a Logitech for my desktop and it has a very smooth operating wheel in comparison to this microsoft mouse in which the scroll feature clicks with each turn or operation of the scroll wheel.
+1	Although I may consider giving it another try if I excahnge it, I may compare other brands and or models due to the bad scroll wheel design.
+1	If you use the scroll wheel a lot and your mouse has a pretty smooth feel to it then you will know what I mean the first time you try this model.
+1	In addition to the usual left/right clickers and the scroll wheel, there are also two additional button controls on the sides, and these can be used for additional tasks like moving forward and backward through web page.
+1	It has it's bugs (in Vista x64 it would sometimes forget your settings on startup and you would need to double click the SetPoint taskbar icon for it to activate - an example is the wheel setting, being click-to-click or middle button).
+1	Which, in turn, comes with many features of which: - Configurable wheel (free to spin - or normal click-click-click), if you don't want a middle-button you can set it to shift between the two.
+1	- The wheel itself would act as left/right buttons if you push it to the sides.
+1	- 2 additional buttons on the side, and one in the middle just behind the wheel - configurable to whatever you like.
+1	Though this model does work fantastic on glass, the precision of the mouse cursor is great my main issues is the button configuration and the scroll wheel.
+1	The scroll  wheel is insanely sensitive , I've spent about an hour with the settings unable to change the fact that even the slightest touch to the wheel will make it scroll.
+1	This makes a lot of accidental scrolling and disjointed scrolling, if I happen to scroll down quick with the precision button on (makes the wheel click for more precise scrolling) the scroll will eventually scroll up in a middle of scrolling down, or vice versa.
+1	For the money this mouse cost I would have thought it would have been the perfect mouse, I was wrong and the fact I use the scroll wheel a lot when doing graphic design and illustrations on Photoshop makes this mouse as useful as a 20 year old ball tracking mouse.
+1	3> It would make sense to configure the button just behind the wheel to act as middle click button, no?
+1	Left and right tilt of the scroll wheel are treated as only one setting in LCC, and the list of functions tilt can be set to perform is VERY limited.
+1	Ditto for the forward and backward rocking of the Thumb wheel.
+1	While the fly-wheel-like "Free Spinning" mode can come in very handy, the software tended to constantly switch to that mode at various times it was NOT assigned to; almost every time i switched apps.
+1	I wound up setting most apps for manual shift, which is accomplished with the center (scroll wheel) button.
+1	It DOES make available left-tilt, right-tilt, forward-thumb-wheel, and backward-thumb-wheel, as 4 separate buttons which can be assigned to anything in that software's long list of functions.
+1	The reasons for my giving this mouse 2 stars instead of 1 are it's incredible comfort in my hand, the nice feel of the scroll wheel, the number and good placement of buttons (almost as good as the MX-1000), and usefulness of the scroll wheel's "Free-Spinning" mode.
+1	I probably would have kept it and used USB Overdrive, doing without the one button, IF the scroll wheel mode-shifting hadn't broken down after such a short time.
+1	ATTENTION LOGITECH: A mouse with this ergonomic design, this scroll wheel with a rugged purely mechanical mode switch button, the thumb wheel, AND the button arrangement of the MX-1000 would be the ultimate mouse!
+1	Buttons and click wheel feel great to me.
+1	It lacked that cool IBM blue illuminated scrolling wheel but had the advantage of being wireless.
+1	well, the scroll wheel on top works- I found the wheel to feel nice and its movement very fluid.
+1	The middle mouse button  (wheel) is already failing  to register clicks after only two days of use.
+1	Overall the mouse feels cheap with lackluster plastic chrome trim and a  faulty mouse wheel .
+1	After a few months the middle  "wheel" stopped working .
+1	I have used this mouse with windows XP and VISTA works great the thumb wheel is a pretty cool instant ALT + TAB for vista users.
+1	I was all set to get a new Performance MX and then I find out SmartShift is gone on the scroll wheel and that killed it.
+1	Set that wheel to use the smooth as silk detents when you're scrolling slowly and carefully and automatically freewheel when you want to scroll a long doc/web page/spreadsheet/code quickly and it's heaven.
+1	Oddly, many of its best features, like speedshift and the document flip  wheel are impossible to find  on other mice.
+1	Newer Logitech mice that have a two-mode wheel, like my recently purchased G500, use a physical button instead.
+1	The document flip wheel is useful both in Windows for quickly flipping through a large number of open windows, and in games.
+1	I had a little trouble scrolling with the wheel when playing games, I really had to flick that wheel to get it to respond.
+1	In addition, you can enable the tilt wheel on the Logitech for horizontal scrolling (good with Excel).
+1	The scroll wheel is the best I have ever experienced.
+1	You have to press the scroll  wheel relatively hard  to the left and right to get the horizontal scrolling to work, I have experienced better.
+1	The gear shift scroll  wheel is half gimmicky/half useful .
+1	I prefer click-by-click scroll wheel and that mode feels like every other Logitech mouse.
+1	The smooth free wheel mode takes some getting used to.
+1	And there is a slight, but noticable "clunk" when the wheel changes mode.
+1	Clicking the wheel button down takes more effort than it should -- which is why this is not a great mouse for users of Maya and other 3D programs (you use the middle button A LOT in Maya!
+1	While the mouse itself had great pointer response and moved very nicely on my desk, the scroll wheel is what ended the relationship for me.
+1	Even the "clicker" button, makes the scroll wheel "feel" like previous mice did, was bad.
+1	One would expect each wheel scroll to translate into 1 movement, but instead it was varied and never the same.
+1	Now, it worked perfectly if you angled your finger's force to be perpendicular with the scroll wheel buttton!
+1	This is a problem, however, because the scroll wheel itself is slanted to the right relative to the surface you have the mouse on.
+1	So, if you push straight down on the button, the mouse thinks you are either doing nothing, or trying to push the scroll wheel to the right to scroll right instead of middle click.
+1	There's a little button behind the scroll wheel that is intended to enable you change the scroll speed from slow to fast.
+1	The scroll  wheel has too little resistance  in either free or "clicky" mode 10.
+1	There is a dedicated button to switch between free and  "clicky" scroll wheel .
+1	My old one didn't have horizontal wheel scroll or back/forward buttons so hence I went mouse shopping.
+1	I saw this mouse at BestBuy and after looking through the other mice, I settled on this one for reasons such as: 1) clicks are quieter than the Logitechs' 2) Scroll wheel is smooth, quiet, and has a nice grip (only Logitech ones w/ nice quiet scroll wheel are the ones with the hyperscroll feature) 3) Curious about BlueTrack technology 4) Was rather inexpensive compared to other leading competitors So I set it up at home on my MBP and I really enjoyed using it at first.
+1	I was able to program the buttons to do what I wanted them to do, but I was disappointed I couldn't program the mouse wheel's "horizontal scroll" to act as buttons since the newer Logitech software can do that.
+1	Aside from that, the mouse  wheel is just too sensitive  to be useful.
+1	Now I can remove the software and maybe it'll be smooth like how I wanted it, but that defeats the purpose of getting a new mouse, because w/o the software the horizontal scroll  wheel becomes very slow  and I lose the function of the other buttons.
+1	About the only drawback I can see in funtionality is with the wheel on the mouse.
+1	I really, REALLY like the free-spinning wheel, and the ergonomics are excellent, but the radio problems render it unusable.
+1	The scroll wheel also has a good feel to it and moves smoothly and precisely.
+1	Eventually the adhesive for the grip wore off, leaving a round rubber piece that wasn't "attached" to the scroll wheel.
+1	This made the scroll  wheel very awkward  to use.
+1	Another thing to note is that after about 8 months the scroll wheel click (also known as the "middle click") became unresponsive.
+1	The scroll  wheel is set too high , it should be almost flush with the surface, and the scrolling is not smooth at all.
+1	I can move the wheel a little and there is a delay before pages scroll.
+1	Also, the scroll wheel button is a bit stiff.
+1	On the plus side, the unique "clutch" wheel lets me spin it to get to the middle of a long list and move by smaller degrees when needed.
+1	The scroll wheel feels pretty nice and has a smooth and a tactile setting that stays locked (unlike prior Logitech mouse versions where it would click out of the setting randomly).
+1	Only flaw we could find is that the middle scrolling wheel scrolls down the page way too quickly.
+1	For comparison, the MXR introduced a smart-shift scroll wheel.
+1	Basically the function of it was an interior mechanism that, with software detection, would notice HOW you were scrolling the wheel and automatically shift from interval scrolling to an "infinite" scroll, allowing you to get through documents in a breeze.
+1	With Setpoint, this function could be tweaked (how fast must you scroll before the wheel goes infinite), or turned off entirely.
+1	If your look at lots of pictures the no click  wheel can make it difficult to stop  on the correct picture or even back up to it, and I'm being polite.
+1	The no click  wheel offers no extra resolution  or help.
+1	However I have a major beef with the scroll  wheel, which is fairly stiff , i.
+1	the smallest rotation possible on the  wheel only scrolls down a tiny bit , which means that it takes more turns of the wheel to scroll down.
+1	---- I agree with almost everything said in the other positive reviews about the great ergonomics, the scroll wheel that you can toggle between hyperscrolling (very useful) and the more common measured/notched scrolling, the many useful features attached to the other buttons, the way you can use the mouse while the battery recharges, and the incredibly tiny receiver that works with other compatible devices.
+1	This mouse is ok on the button/click feel side of things but the  wheel is ultra sensitive  and has no clicking detentes in it.
+1	This is an otherwise great mouse - right size, good touch and feel, small USB plug, light weight, however, the flimsy scroll  wheel is the weakest point .
+1	This is very annoying - all mice I have (even including ones costing only $10) have better scroll wheel feel.
+1	On a Mac (Snow Leopard) the left and right buttons and the scroll wheel work right out of the box.
+1	They removed SmartShift from the scroll wheel and took the top button and replaced it with some mechanical shift mechanism.
+1	" They way they talk about the amazing scroll wheel on all MX products, I just assumed SmartShift was a feature in all MX mice.
+1	It glides smoothly on the desk, the scroll wheel rotates smoothly, even the buttons feel smooth when you click them.
+1	On the other hand, the "thumb wheel" is not a wheel at all.
+1	The biggest drawback to the Performance MX model is that the wheel sits too low to the top of the mosue so that almost invariably, when you try to work the wheel for either side, you unintentionally depress the  wheel wtih unintended consequences .
+1	This thing with the wheel on the MS Performance, though, it's something I run into everyday; it's not like a small change in shape that you can get used to after a while unless you learn to stop trying the use the side-click on the wheel altogether -- I can't break the habit because I use it often on diff machines with MX Revs or MX 100 mice.
+1	The problem is that the roller wheel broke and did not respond and wasn't making those clicking sounds anymore on the 4th day after I purchased it.
+1	The scroll wheel is good, but I sometimes lose control of it on spreadsheets.
+1	Automatic shifting between normal and freewheeling scroll wheel modes was very useful.
+1	I loved to flick the wheel, let it spin, then move the wheel slightly backwards to get that THUNK feeling of the gear dropping back into position for normal mode.
+1	Pros: Accurate, works on most surfaces, comfortable, tiny receiver Cons: Horrible backward/forward button design, can't redefine mouse wheel left and right click The design of this mouse has highs and lows.
+1	Logitech mouse software will let you redfine the left and right leaning click of the mouse wheel so they act as forward and backward, but Microsoft won't.
+1	The ONLY button that can be set as Middle is the scroll wheel, which doesn't click as well as other wheel.
+1	The second  wheel doesn't scroll , it rocks, and can only be set as document flip or zoom.
+1	The search button can't be assigned to all the functions available to back, forward, and wheel tilt.
+1	Worse for my usage needs (gaming and graphic design programs), when clicking the middle button it's very easy to accidentally trigger the mouse wheel.
+1	It's slick that the wheel comes with two levels of resistance, one for fast smooth scrolling, and another for the more traditional graduated scrolling with resistive clicks.
+1	However, even in the traditional mode the  wheel doesn't offer enough resistance , so it was far too easy for me to trigger scrolling.
+1	It sounds like some people have no problem with the middle wheel/button.
+1	If the middle button & wheel weren't so important for my uses I'd be very happy.
+1	"The problem is on the mini-PCB which is used to detect the left, right, and middle mouse buttons, as well as handle the scroll wheel.
+1	This one replaces it with a button that switches your scroll wheel to hyper scroll.
+1	It does seem to have problems tracking on some surfaces, but the one thing that creates the biggest annoyance is when I run it in parallels on auto-CAD the scroll  wheel is way too sensitive  and I can't seem to change the settings once in windows (running parallels on macbook) The good thing is that all of the buttons help to navigate quickly.
+1	There is a 'flip document' button/wheel on the side of the mouse.
+1	On all of logitechs high end mice, they have the adjustable scroll wheel.
+1	The indexed gear is just like a normal wheel, you move it, it clicks.
+1	My one complaint against it would be the mouse wheel, which takes a bit more pressure than one would like to click down to perform third-mouse button functionality.
+1	The  wheel rattled so much  I wasn't sure whether or not it was broken.
+1	The scroll wheel, the assortment of programmable buttons, the precision, and the overall feel are satisfactory.
+1	The mouse  wheel is very very sensitive .
+1	If you wish to use the directional 'scroller' (in which you can move a page up, down, left and right), you need to click the wheel.
+1	The problem: You need to use very little pressure to click the wheel instead of simply scrolling a couple of lines.
+1	Some, if not all other mice allow you to either have smooth scrolling, or click-scrolling, so you can feel feedback as you scroll the wheel, which I prefer.
+1	USB Overdrive will even allow you to map the tilt-scroll wheel as buttons so you will have more 'buttons' on the top.
+1	With the old Revolution the wheel settings seem stable and Setpoint has a wheel tab.
+1	With the new Performance Mouse MX, Setpoint doesn't have the wheel tab - so the auto-shift from clicky to  free-wheel is not settable .
+1	It has both a forward & back button, a smooth scroll wheel and texturized sides for grip.
+1	The worst part is that the scroll  wheel is very very loose .
+1	Scroll wheel and buttons work fine, side-scrolling with wheel is a little awkward because you expect some sort of resistance feedback or click and there is none.
+1	By default it uses a 1000 dpi setting I believe but you have to assign the DPI setting to a button (I use the wheel press) to set a secondary option (for me I have done OK with 700 dpi, not quite as sensitive to every slight movement).
+1	2ND UPDATE: * The Mousewheel has now begun to malfunction, which was my initial fear.
+1	Everything was smooth sailing until a last week, when the scroll  wheel broke .
+1	The only reason I'm going to purchase another of these is that I just love the free-scroll wheel.
+1	I also agree with other reviews about the smooth-scroll wheel.
+1	This mouse was good for the first few months then the rubber on the scroll  wheel started disintegrating .
+1	I immediately noticed some strange performance from the main scrollwheel, which allows you scroll vertically through documents.
+1	There is a small button behind the scroll  wheel which is uncomfortable  when using the scroll wheel.
+1	I click my scroll wheel all the time in order to open a new tab in Firefox.
+1	It was  difficult to click the scroll wheel  and no definitive sound or feeling that it had "taken".
+1	This material is also present on the oversized center mouse wheel and side wheel.
+1	Scroll Wheel: The center scroll wheel allows for normal paging through documents, but if you flip it with a tad more vigor, the "clicking" device disengages and the wheel runs freely, allowing you to scan through hundreds of pages in a single flip.
+1	Quick-Flip: A second wheel position on the left side of the device allows you to quickly flip between all open windows and documents, which is an excellent tool for me as a graphic designer.
+1	Not so good:   wheel action is clunky  compared to my Logitech mouse wheel; packaging is the absolute worst to get into.
+1	The scroll wheel is - interesting.
+1	It rattles everywhere: the battery cover, the left and right mouse clickers, and the scroll wheel push button.
+1	Cons: The  scrollwheel feels flimsy  and makes metal "clinging" sounds occasionally and as previously mentioned, it scrolls seamlessly, which makes tasks like middle clicking difficult.
+1	You can assign it to pressing the wheel in setpoint, but it is absolutely unreliable.
+1	You cannot assign (and will not be capable in the future also, logitech support assures me)  middle click to left-wheel, right-wheel or "one-touch search" in setpoint (an ABSURD limitation, what where they thinking?
+1	I have to say when I first got it I was very annoyed with it, there is this little button that sticks out right below the scroll wheel to toggle between smooth scrolling and contextual scrolling.
+1	Nice 2 button (3 if you click the wheel) mouse.
+1	The wheel is nice and rugged with "grips".
+1	The application switcher is a life saver, especially on Windows XP, and the dual mode scroll wheel is more useful than you can imagine.
+1	My VX Revolution has 8 programable buttons, tilt wheel, cordless laser, and fast scrolling.
+1	On the VX there was just a spring loaded slide on the top left that you could push forward or backward to zoom in and out, now it is one button above the thumb that you hold and move the mouse scroll wheel to zoom.
+1	They replaced this with the toggle button to have the mouse wheel click or free spin.
+1	Hyper fast scrolling is very easy to get accustomed to, and now I cannot use any other mouse without the smooth wheel that can spin freely to scroll fast, especially in Outlook during email message list scrolling, or in the message itself.
+1	I owned the MX Revolution before this; it was basically the same mouse but didn't have Unifying functionality (which I like) and had a second scroll wheel for the thumb, which I wasted on a volume control.
+1	On THIS mouse, however, the button simply switches the "mode" of the scroll wheel from free-spin mode (very low friction, spins forever) to a more clicky mode, where the wheel stops quickly but only moves in discrete increments.
+1	The MX Revolution (old model) had a software setting for this where if you spun the wheel faster than a certain (configurable) speed it would automatically go into free spin mode, and then revert back when the wheel started slowing down.
+1	For normal use, click mode is pretty much the only way to use the scroll wheel, it is FAR too sensitive otherwise, even at 1-line scroll setting.
+1	Additionally, the scroll  wheel is so sensitive  that even in click-mode, it sometimes registers the next click before the wheel is physically clicked into position.
+1	And if your finger even touches/bumps the wheel (not enough to make it "click" into a new position though), it will register as a scroll and zoom you in/out.
+1	If anyone knows of custom drivers to let you mess with the scroll wheel sensitivity that'd be great, it's the only issue I have with the mouse but its very annoying.
+1	I don't game much but the wheel is sensitive enough that in FPS games, if you scroll to select weapon, it will almost always scroll 3 or 4 weapons over instead of just 1, making it hard to play.
+1	I have to disable it to play anything that uses the scroll wheel as a secondary weapon swap button.
+1	I never scrolled 20000 line of codes top to bottom using scroll wheel earlier.
+1	Problem is, this mouse shares a fatal design flaw with all Microsoft mice - you cannot assign other actions or keystrokes to the scroll wheel's horizontal (left-right) motion.
+1	But I am annoyed at Microsoft's complacence and bad design - their "ergonomic" mouse's scroll  wheel was so hard to press , it was hard to use as a middle button and caused more strain than a normal mouse.
+1	BTW, my scroll wheel toggle from free-spin to ratchet broke in about 2 weeks.
+1	I checked out the mouse in the store a year ago and it had a really nice scroll wheel.
+1	Pros: The scroll wheel is really nice.
+1	first off the scroll  wheel is quite awful .
+1	The sensitivity and speed are nice when you're scrolling through a long web page, but it's so sensitive that it will register a 'scroll' and shift a web page just when you move the mouse without even touching the wheel.
+1	well, it doesn't do cartwheel but the battery lasts and its pretty sensitive; it does everything my previous wired mouse did; reasonable in price; everything i could hope for in a mouse.
+1	The side flip and free rotate center wheel are major improvements.
+1	I repeat, 60% OF THE TIME, due to the  poorly designed wheel .
+1	One of my biggest complaint is it takes a lot of effort to get the roller wheel to tilt left/right and it does not click to give you feedback that you've pressed it completely.
+1	The scroll wheel is constructed of metal with a rubber-like "tire" around it.
+1	Over time, it seems to have grown softer and now is slipping off the wheel when I try to tilt the wheel left or right to scroll in those directions.
+1	Over the past month or so the rubber has started to disintegrate - I can see small rubber particles clinging to the side and top of the wheel.
+1	the only issue i had was with the scroll  wheel which unfortunately does not click  as you scroll.
+1	this is because the  wheel itself does not scroll , instead there is like a rubber piece that rotates around an unmoving round middle button.
+1	this has started to get annoying  as now the  wheel won't turn properly  and is a pain to use.
+1	in summary the mouse was good, until the  wheel started to break apart  due to lackluster construction/design.
+1	The free-spinning scroll wheel alone makes it a very useful tool.
+1	My last mouse, cordless laser also but fairly cheap, has fantastic software that lets you assign just about anything you want to not only the buttons/wheel, but also to combinations of buttons.
+1	(Edit note: I did finally find how to do this, but the implementation is not apparent and doesn't work well with this scroll wheel).
+1	If you deal with large documents and need the hightech scroll wheel (which works very well) then this is a great mouse.
+1	My MX anywhere mouse seems more solid and better built, including the scroll wheel.
+1	Regarding a couple of issues that other reviewers had, yes, the scroll wheel is completely smooth, with no clicks in it, so if that is a concern, then you might not like this mouse.
+1	As many others have mentioned, I confirm  issues with the wheel .
+1	Yes, the smooth scrolling  wheel will feel a bit weird  in the beginning but as others mentioned I got used to it and actually I sort of prefer it now.
+1	My main  problem is with the the wheel  click functionality, it's a crap of a design.
+1	After some experimenting I found that I can get it to work first time 90% of the time if I push the wheel a bit to the right while I'm clicking.
+1	I love the mouse, especially because of battery durability, the tiny size of the receiver, the cute look, the smoothness of movement, the nice RF range, and the smooth scrolling wheel that I began to like.
+1	But the  cheap construction of the wheel  (you could almost hear rattling metal and sideway movement) and it's bad click behavior is a minus.
+1	The only gripe I have with it is that the scroll wheel is slightly slanted to the left, making right-side scrolling just a little trickier.
+1	That's not a huge deal, but the deal breaker comes when you attempt to use the side-scrolling feature (which I use a lot on documents and emails) and you quickly realize the  wheel will shake  up and down and your pointer on screen starts going crazy.
+1	This is because the side-to-side action on the so-called high end scroll  wheel on this mouse is so stiff  that you are forced to first scroll up a bit before you can go side to side.
+1	And even that doesn't work at times, therefore you end up wasting more time trying to scroll side to side with the wheel than if you had simply manually done it via the scroll bar itself.
+1	For such an expensive mouse that has so few features on it, you'd think the scroll wheel would be much higher quality and better designed.
+1	And the scroll wheel is so deepy embedded in the mouse that it does not give you enough surface area to even move it.
+1	Changing the wheel from click-stop motion to smooth motion takes some getting used to.
+1	I am used to a wheel that scrolls smoothly and it doesn't matter to me one way or the other.
+1	The ergonomic design leaves allot to be desired, indeed it is a laptop mouse and as such you can expect for some concessions when it goes to ergonomics, but it having an analog mouse  wheel is simply annoying , and don't get me started on those puny extra buttons on the sides of the mouse that will not let you click them without lifting your hand of the mouse.
+1	The new fancy  scrollwheel cannot be used  as a regular button - wheel click is hardwired to change the scroll mode.
+1	General pros/cons: + Construction/finish appear to be on par with Logitech's previous higher end products + Battery is user replaceable; standard rechargeable NiMH AA (Sanyo Eneloop) + Mouse can be operated in wired mode even with the battery removed + Uses the same "hyper-fast scrolling" scroll wheel as found on many other Logitech mice, can be switched from standard operation with detents for small movements to freewheel mode where the wheel spins freely allowing for very quick scrolling through large documents/web pages/etc.
+1	This could have been negated had Logitech elected to use a cable like that found on their G700 mouse wherein the micro USB connector is encased in a larger than normal chunk of plastic that is keyed to fit into a guide on the front of the mouse Pros/cons relative to the MX Revolution: + Subjectively, I prefer the matte silver accents on the Performance MX to the piano black of the MX Revolution + No charging contacts to wear out + Doesn't require dedicated/specific charging base + Receiver is much smaller, approximately 20% as long (~7mm vs ~38mm) as that for the MX Revolution - The MX Revolution could be configured to switch from regular to freewheel scrolling based on the speed the user is scrolling at, the Performance MX can only be switched via a physical button located below/behind the scroll  wheel - this is also less functional  in that the button used to switch scroll modes on the Performance MX cannot be used/remapped for any other purpose as can the button that occupies the same place on the MX Revolution.
+1	- When the scroll wheel on the MX Revolution is used to scroll left or right, there is very definitive tactile feedback.
+1	In place of the thumb wheel/button there is a button located in the portion of the mouse where the user's thumb rests on the left side of the Performance MX.
+1	While this button is useful in its own right, the thumb wheel/button is one of the MX Revolution's best features.
+1	The biggest issue I have with the mouse is the removal of the thumb wheel; imagine having to.
+1	This arrangement also means there are only two options available to your thumb as opposed to three (no depressing the wheel).
+1	My second  gripe is with the wheel  at the top.
+1	The scroll  wheel does not click  and has a rubber coating for traction.
+1	The mouse worked fine for a few days and the scroll  wheel malfunctioned .
+1	However, recently the middle-wheel-click action has become annoyingly unreliable.
+1	The weighted screen scroll wheel, something that I was not real excited about, is great, and I'm happy for having it.
+1	I am not much for thumb wheel and buttons.
+1	So, I don;t make much use of the thumb wheel.
+1	) So I lost 2 USB ports, have a mouse that is harder to charge, lost my side toggle and speed shift mouse wheel for?
+1	My only complaint is the free-spinning scrollwheel.
+1	I want to play it in first person, but if the mouse jerks at all, it'll move the wheel enough to back me out to third person.
+1	In the "performance" MX, as in the MX Revolution, there is a feature to switch the mouse between a "free wheel" scroll and a more conventional "clicking" scroll experience.
+1	on my MX Laser 1000) is the gentle center wheel left/right tilt (rocking) for horizontal scroll.
+1	BTW, I've seen this mouse at brick-and-mortar shops and the wheel looked fine.
+1	Pros: -High build quality -Lots of buttons -Spin wheel -precision sensor -fits hand well -usb/ac cable charge option = versatility -uses nimh batteries easily replaced -small usb reciever Cons: -thumb buttons are too high up on the mouse and require a reach -no dock -tilt buttons have no tactile feedback -no holder for usb reciever on mouse -cable bag doesn't have enough space for mouse as well -no auto profile switching as with g9 -zoom button right below forward and back thumb buttons, forward back are more important than zoom, but zoom gets in the way, you are likely to press it by accident, poor design choice.
+1	Minor issues include the  wheel's uncomfortable clicking  action, and poor left right ability.
+1	The best part of the MX Revolution was the auto-scroll wheel where after a certain speed of spinning the wheel it would go into a free-style spin.
+1	It was much better when it was automatic that you could set threshold for when you wanted the wheel to start free-spinning.
+1	The thumb  "wheel" is ergonomically uncomfortable .
+1	The thumb  "wheel" is too hard to push / rotate .
+1	The thumb  "wheel" just has a mushy feel  to it.
+1	I am disappointed overall with the mouse because i was hoping the task flip wheel / button whatever would speed up my production.
+1	I can program the buttons to do different things such as using the scroll wheel tilt feature to toggle my osnaps.
+1	The problem is that it takes a great deal of effort to tilt the wheel, usually ending up in hitting the left or right mouse button and bringing up an unwanted command.
+1	The right click is extremely sensitive making the hard tilt of the scroll  wheel even more of a problem .
+1	I'm a big "wheel user" for scrolling, and it's NOT a smooth scroll - it's like there's a ratchet/cog in there.
+1	This, is in fact very cheap feeling - especially for someone like me that spends most of my working days opening and closing many tabs, in which clicking the scroll wheel to close a tab would only work effectively about 70% of the time.
+1	My complaints are mainly about the buttons; this mouse has a lot of them (seven plus the wheel) and they're not all convenient to press when you want, or to not press when you don't.
+1	The scroll wheel is nice, and there's a button to switch from "ratcheted" to "smooth" depending on your preference.
+1	I can only assume it's the battery since the mouse seemed to work perfectly fine when I first purchased it, but it now consistently doesn't recognize clicks or scrolling of the wheel.
+1	4) the "quick flip"  wheel is terribly located  under your thumb.
+1	but I don't think I'll be trying another one, it really isn't a much better mouse than the Mx 1000, the only thing I liked more was the metal scroll wheel (which broke) and the pad design on the bottom of the mouse, which made for better movement on my mouse pad.
+1	I was in love with the scroll wheel and its ability to switch between frictionless and notched operations.
+1	The ability to switch between a click wheel and a smooth rolling wheel is very nice.
+1	So is the ability to push the scroll wheel button left and right to pan a web window left and right, if the window isn't open wide enough.
+1	-Firstly the middle button doesn't 'click', there seems to be an issue within the housing of the scroll wheel and the push sensor.
+1	-Secondly the scroll  wheel is too low ; so if you wish to tilt the wheel to the right, i.
+1	Unfortunately, because the surface is tilted, the scroll wheel needs to be too, but it's not.
+1	This means the left side of the scroll  wheel is barely above the surface , whilst the right side is about the right height.
+1	The wheel on the 2nd one worked intermittently when rolled and also when clicked as a button, and the wheel on the 3rd one only worked as a middle button if I tilted it a little to the right (not too much though) before pushing on it.
+1	The scroll wheel has a smooth tactile feel to it.
+1	The size is nice for me and the buttons and the scroll wheel has a good feel.
+1	Worked really well while with good battery life (maybe 2 or 3 batteries in that time) till the scroll  wheel stopped working .
+1	2) the scroll wheel on top, if you spin it too fast, it will change scroll modes automatically.
+1	I like the scroll wheel with the separate button to allow quick scroll much better than the automatic approach used on the Revolution.
+1	Mostly, i'd get confused when the wheel quit clicking on the old one.
+1	The left and right mouse buttons deliver a crisp click, and all other buttons are just fine, my only mention is off the left and right 'scroll' buttons which are simply to lean the mouse wheel to either side.
+1	The MS mouse was total crap - the  wheel was too hard to press , causing more wrist strain, and the mouse drivers haven't been updated to the 21st century - you can't reassign the left-right wheel motion to actions or keystrokes.
+1	So: all buttons assignable, great scroll wheel (although sometimes the fast scroll is.
+1	Still wish the middle button (scroll wheel) had better haptics, but this mouse is otherwise a great bet, along with any other "darkfield" models.
+1	I have the wheel set so that it permanently runs friction free i.
+1	+ all the buttons and wheel are easy to access (large hands) What I don't like - the free  wheel option becomes sticky  (I mean it does not roll so freely) after a few months.
+1	- occasionally, about 3-4 times a week, the winxp sp2 pc crashes - complete and immediate shutdown (no blue screen) when I roll the wheel.
+1	The multi-tap wheel for click or freespin is a great option, and the thumb wheel is nice once you get used to it.
+1	The 4000 feels a lot more sturdy, but it's too hard to use the scroll wheel button so I never use the 4000.
+1	Unlike some of the other reviewers, I love the scroll wheel, the size is perfect for me (I have medium size hands) and it works on my jeans, my sofa and on the mouse pad very well.
+1	I give it three stars overall because maybe the problem is inherent to my computer, on the other hand the Logitech is a great, intelligently designed mouse, the variable speed scroll wheel is a brilliant invention and once you get used to it nothing else satisfies, but overall three stars since the mouse just won't operate or function normally on a consistent basis.
+1	It does have that extra wheel for the thumb, which is supposed to be used to switch between applications.
+1	I love the scroll wheel which can be used in ratchet-mode (clicks) or a practically frictionless flywheel.
+1	Thumb wheel is sensitive - scrolls fwd/back but also depresses, and too often has my thumb bumped it and brought up the application change window.
+1	That fancy scroll  wheel keeps going out .
+1	I like losing the wire, and it works OK, but the scroll  wheel is way too sensative , even with the mouse settings in Control Panel set way low.
+1	It is by far the best hand fit that I have ever had, the most natural to use, and the most effective in its scrollwheel.
+1	The scrollwheel has that internal gear that lets you scroll in a controlled mode or in a free-wheeling mode.
+1	I find that I am a lot more productive since I have this thanks to the scrollwheel.
+1	The scroll wheel is awesome - and can be switched between modes in a click.
+1	The scroll wheel works well, but it is the type that clicks, I was hoping it would have a smoother action to it, but I didn't have an out of box model to try out.
+1	The scroll wheel has a button to either set in precision or free wheel mode, mine came from factory in free wheel.
+1	What RUINS this mouse: - The stupid, sloppy, poorly made, difficult to re-map, overly sensitive, slippery scroll wheel.
+1	I've been using this mouse for a couple of days and I cringe every time I pick it up because it feels like the scroll wheel could have been pulled from a cheap hot-wheel car.
+1	And it's not that I dislike the tilt-wheel feature, or the smooth scrolling.
+1	and there is an odd button just behind the top scroll wheel that is driving me crazy - poor design on that.
+1	One big issue is that my scroll  wheel often gets stuck  in the free spinning mode and then will randomly switch back into normal scrolling after a few minutes.
+1	The only complaint I have is that the wheel side scroll buttons are very hard to use when compared with my old MX1000 Logitech mouse.
+1	The MX1000's side scroll buttons are very positive feeling and the scroll wheel protruded more from the top of the mouse so using the side scroll function just worked.
+1	Make the scroll wheel better and it would be perfect.
+1	The center wheel also isn't as accurate as I'm used to.
+1	The absolute best feature is the central scroll wheel; this invention is on par with Apple's magnetic power cable connector on their laptops, pure genius.
+1	Another little annoyance is that whenever you wake your Mac up from sleep and the mouse comes to life again (with an audible 'chunk'), it always resets the scroll wheel setting back to 'line by line" ratchet mode, instead of the smooth free spinning mode that I almost always use.
+1	The thumb  wheel is marginally useful  and feels like it's in the way at times.
+1	Even the SCROLL wheel is a solid metal and allows you to switch from a smooth scroll to a more controlled clicking scroll by firmly pushing down on it.
+1	The unique feature of this mouse is the spin the scroll wheel without the  detents engaged (the wheel spins freely).
+1	The wheel has added inertia so a quick flip can get you through dozens of pages of a PDF or Word document or quickly down a long web page.
+1	The concept is that if you give the wheel sufficient spin, the detent mechanism retracts and the wheel goes into free-spin mode and the detect action doesn't come back until it stops or you put your finger on it to stop.
+1	One is that my computer was not fast enough to keep up with the scrolling orders issued by the spinning wheel.
+1	It took quite a flip of the wheel to break out of the detent mode and that strong flip sent the wheel spinning faster than I wanted (hard to see the pages they are flipping buy at 5 or 10 per second).
+1	The scrolling is nice, but when you press down on the scroll wheel, it does not click unless you are coming from a very specific angle that is not natural for how the mouse is angled.
+1	I found myself trying to press the scroll wheel and accidentally pressing the left button in addition or instead of middle button because of the extremely awkward angle.
+1	2) The scroll wheel no longer makes any "clicking" sounds as you turn it, but at the same time, I do welcome the quietness of it, as I can scroll away without making "grinding" noises that potentially bother / irritate other people nearby.
+1	It is cumbersome to have to push down on the wheel before it will scroll the way I want it to.
+1	The center  wheel also isn't as accurate  as I'm used to.
+1	Can zoom with Ctrl+wheel in most programs.
+1	Slightly larger than other Logitech mice I've used in past, getting comfortable with hand position has taken a while but the accuracy and function of buttons and wheel is superb.
+1	The buttons are well-placed and the scroll wheel action is smooth.
+1	Also, the scroll wheel had a feature that wasn't obvious to me at first when I looked at the product online: there is a small button next to the scroll wheel which switches between normal scrolling found in other mice (where you hear a grinding noise as you scroll) and a smooth super-fast scrolling (with this, if you spin the scroll wheel fast, it just keeps scrolling freely on its own for a good couple of seconds before it stops!
+1	- Love the finger groves  - Great mouse height, fits well in the palm of the hand, better than the shorter mice  - Nice clicky mouse wheel CONS:  - Slippery sides  - large receiver dongle  - cheap feeling build quality (esp.
+1	Basically the wheel goes from "Click-click-click" mode (like traditional mouse wheel) to a free-spinning mode that lets you fly through documents and webpages.
+1	You can either have a button that switches, or you can actually configure a threshold where, if you spin the wheel hard enough, the mouse will actually switch all on it's own.
+1	It is easily the best feature I have had in a mouse since the advent of the scroll wheel itself.
+1	It can only be toggled between click-click mode and free mode using the button just below the scroll wheel.
+1	So you have to resort to predicting that you are going to want the free-spin mode, hit the button, flick the wheel, then hit the button again to go back to click-click.
+1	The unit is taller and the scroll wheel is further from the back of the mouse than the old MX.
+1	This review is not concerned with buttons (or whistles), but rather the ease of use, feel in the hand while working, and the degree of sensitivity of the vertical scroll wheel.
+1	The scroll wheel sensitivity on both the new Logitech Anywhere Mouse and the Logitech Performance Mouse MX are inferior to that found on their precursors.
+1	Yes, I tried every setting imaginable to try and tweak them and gave them a fair chance, but no matter what, the  wheel scrolling is not as FLUID  as in the old mice.
+1	The default wheel page scrolling is set at about 80% of the fastest speed and is distractingly slow.
+1	I find all the buttons and track wheel placement just fine, unlike some of the other commenters.
+1	Also, the freewheel scroll mode sucks, it not accurate at all.
+1	It's well designed, it looks good, it feels good in your hand, the scroll wheel is pure genius, but it just doesn't work consistently.
+1	The positions of the side buttons and side wheel are just about perfect.
+1	The mouse does what it says on the box:  it's extremely comfortable, the additional buttons aid in productivity and the wheel's free-flowing option makes scrolling through docs and websites much easier.
+1	But the smooth-scrolling wheel that I thought I'd love.
+1	The wheel doesn't have any "clicks" or "notches" as you scroll up & down, it's just a smooth, fluid motion.
+1	This scroll wheel, as in most (if not all) cases, is also a middle-click button.
+1	With a smooth-scrolling wheel, you have press it straight down, without letting it scroll in either direction while you're pressing it, or else the page you're viewing will move up or down, ever so slightly, and you miss the link you're trying to middle-click.
+1	The scroll  wheel is a joke  -- I much prefer having a metallic wheel with some heft to it.
+1	Also, the wheel used to go into "free-spin" mode when you rolled it quickly.
+1	Lots of buttons, second wheel is amazingly useful.
+1	Zero reception problems (but keep your cell phone away from it =) ) Cons: If you have large hands, the side  wheel can get in the way  of your thumb.
+1	The biggest con: the scroll  wheel is *extremely* sensitive , even in 'click-to-click' mode (which is meant for more precise scrolling, more like on a standard mouse; you get that tactile 'click' when you scroll the wheel).
+1	This super-hyperactive scrollwheel alone is enough to dock this mouse a couple stars, but the rest of the mouse easily make up for it.
+1	You DO, but you must go into the Logitech Control Center, go to the main scroll wheel's options, go to SmartShift, and select either start in click-to-click or start in free spin mode.
+1	UPDATE: I wanted to post a quick update on this mouse, with regards to the "hyperactive scroll wheel" bit.
+1	Despite the scroll wheel, I have never used a better mouse.
+1	Pros: 1) awesome scroll wheel for lightning fast scrolling for long documents and the ability to stop on a dime when needed 2) rechargeable battery + battery gauge 3) super smooth teflon feet 4) configurable buttons and jog wheel 5) fairly accurate compared to an optical mouse 6) solid build quality of the housing 7) weight well, not too heavy, not too light Cons: 1) inconsistent travel for the buttons, sometimes the buttons stick 2) battery life could be better 3) logitech's software was horrendous (osx and windows) 4) choppy performance when there are other devices in the 2.
+1	A couple of observations: I don't like the  wheel -- it is not smooth-scrolling  like my other desktop MS wireless mouse.
+1	The  wheel feels cheap  and plastic with no inertia.
+1	Also the smooth scroll  wheel doesn't work  so well when zooming in on photos.
+1	I have found I have to click the middle button slightly to the right at the perfect angle on the part of the wheel that's closest to me emerging from inside of the mouse, in order for it to even register a click.
+1	I bought this mouse because I thought the side wheel could be configured for horizontal scrolling.
+1	I do a lot of work with spreadsheets and the sideways motion of the top  wheel does not work  as well as my previous 2 wheel mouse.
+1	The other thing I noticed is when the top wheel is put into non-click mode it tends to pop back into click mode.
+1	If I had known the mouse didn't have a horizontal wheel I probably would have just purchased the MX600 which is also a very nice mouse at half the price.
+1	The left and right keys and the scroll wheel worked but that was all.
+1	Also,  wheel scrolling with the V450 feels crippling -- which can't be good, since that's my clue that prolonged usage may result in lovely things like CTS and what-not.
+1	For those used to noisy scroll wheel, this mouse is silent.
+1	The super-fast vertical scroll wheel is much more useful then I would have thought.
+1	You can also scroll horizontally by pushing the scroll wheel in the direction you want to scroll, another helpful function I take for granted now.
+1	The side scroll wheel actually allows you to scroll through your open applications.
+1	The weighted "flywheel" scroll wheel is THE feature here - I don't like a lot of configurable buttons, but the scroll wheel is so excellent, it's easy to ignore some of those extra buttons.
+1	You just give the wheel a flick and you sail down long web pages and multi-page documents.
+1	Touch the wheel and it stops - couldn't be simpler or nicer.
+1	The Rev is nice but I miss the up/down buttons that were on the MX100 just above and below the wheel -- I wish the Rev had those buttons.
+1	I realize the new scroll wheel is supposed to obviate the need for the up/down buttons, but so far I have my doubts.
+1	When you press down on the Rev wheel, you switch between free-spin scroll and click scroll.
+1	So what I'd really like is an MX1000, but with a wing at the right side of the base under the fingers and a wheel like the one on the Rev.
+1	--No second scroll wheel --Using middle click on the top scroll wheel, the button barely registers and you have to click about 5x to actually get the middle click function to work.
+1	If you install the intellipoint software that come up with this mouse, the wheel button click will show you all the applications in large tiles and you can select the one you want, thats very helpful for me.
+1	The only problem i have is the  wheel track is ridiculously fast , which forces me to open up the mouse menu every time i first connect the mouse to the laptop and recalibrate it.
+1	the only thing i miss is the thumb wheel that came with the MX, but no big deal.
+1	It has the normal left and right buttons, a scroll wheel which also clicks like a button, and it scrolls left and right for spreadsheet use.
+1	This is a downside for me, although for some they may prefer the smooth scrolling versus a wheel that has a slight click(tick) as it rotates.
+1	The  wheel seems very sensitive  and I use the mouse a lot for middle clicking inside a web browser to open links in a new tab.
+1	The super sensitivity of the  wheel presents a problem , because as I push down a lot of time that moves the wheel a bit and then the page scrolls and I can't click my link.
+1	as well, i'd say the whole design of the scroll  wheel buttons is worse  than previous logitech mice i've had (i've had all the recent top end mice).
+1	they should raise the height of the scroll wheel back to where it was and they should bring back the distinctive click that existed for the MX1100 and MX Revolution mice.
+1	The middle scroll wheel: The wheel features smooth scrolling, which is nice; however it is also mounted with a ridiculously stiff button mechanism.
+1	Was having a very  hard time trying to configure the scroll wheel  to work correctly.
+1	Once it's finally adjusted to preference, the scroll wheel is pretty amazing.
+1	It has an auto-shift feature (you can adjust or turn this off in the drivers) such that you can have a regular detent scroll, until you whip the wheel very fast up or down.
+1	The first one of these I got had some problems -- the scroll wheel would sometimes scroll on its own and the middle-click would often not work, failing to click maybe 2/3 of the time.
+1	Also the  wheel seems real jerky  when you rotate it.
+1	The splined scroll wheel was starting to drive me nuts while zooming in and out on a particular drawing.
+1	It is configurable so the first thing that went away was the odd "search" button just south of the scroll wheel.
+1	All said, the only really nice feature is the scroll wheel.
+1	There are 3 main reasons why I prefer the MX 1100: 1) The MX 1100 is more comfortable than the Performance MX 2) The MX 1100 holds 2 AA batteries and lasts a really long time, so I never have to think about plugging in a charging cable And here's the big one: 3) The MX 1100 left/right side scrolling wheel clicks when you push it left and right, while the Performance MX wheel does not click #3 was enough to make me go back to the MX 1100 and start the RMA process instead of using this as an excuse to "trade up".
+1	The one semi-redeeming quality to the mouse was the scroll wheel.
+1	The other thing about this mouse that could use improving is the scroll wheel, which is very sensitive and difficult to get a feel for whether you've 'scrolled' or not.
+1	I gave this mouse three stars because for about the past week, my wheel either has not worked at all (it just spins around & does nothing) or I have to roll it to one side to get it to work.
+1	My only gripe is that the  thumbwheel is virtually useless  with a Mac.
+1	The biggest issue with this mouse is the scroll wheel.
+1	I love everything about this mouse except for two things: 1)The scroll  wheel does not protrude high enough , from the inclined top surface, to leave enough grip for a right horizontal scrolling.
+1	Another really big issue with this mouse is the scroll wheel.
+1	(it is frictionless, by design) but then gives very little tactile feedback and is difficult to control, scrolling or  moving it around activates the scroll wheel inadvertently.
+1	If press down on the scroll wheel, it does not click as you would expect and is hard to control because of its position, shape and feel.
+1	Other reviews led me to believe the wheel would spin freely, rest assured it does offer SOME resistance.
+1	Also, I would have liked a rubber scrollwheel instead of cheap plastic.
+1	Also changed is the way the scroll wheel switches between "bumpy" to "smooth" (for a lack of better words) in a way it's improved because the scroll wheel on the old MX was a bit twitchy and wouldn't always cooperate.
+1	Pros -Solid build -Smaller, Unifying receiver -Battery is now user replaceable -Have not experienced any lag yet -No more recharge dock, now uses a usb cable with a separate wall charger Cons -Zoom button is kind of close and too similar to the back/forward buttons, Sometimes I press it by accident when I try to press back -They got rid of my side wheel!
+1	Overall I don't regret making this purchase, I like the mouse and the accessories that came with it and feel that there are improvements, but I want my side wheel back!
+1	Loved this mouse until the  wheel became sluggish  and finally stopped working.
+1	- battery life is low - I miss the thumb wheel.
+1	Good features including scroll wheel, charging, and support of Mac OS X.
+1	The scroll wheel seems to be a much cheaper mechanism.
+1	The scroll wheel on the Revolution MX mouse has a nice movement and clicks when moved to the left or right (sideways scroll) whereas the Performance MX mouse doesn't seem to be moving at all and doesn't give any feedback when moved to the left or right.
+1	The MX Revolution has an electronic scroll wheel can be pressed or scrolled quickly to toggle between smooth scrolling and click scrolling and has a programmable button just behind the scroll wheel.
+1	The Performance MX has a cheaper mechanical scroll wheel and the programmable button on the MX Revolution is now the smooth scroll/click scroll switch.
+1	Of course, the MX Revolution scroll wheel can be programmed per application so it's nice to have the mouse magically switch itself to smooth scrolling when I switch to Internet Explorer or Firefox and back to click scrolling when I switch to another application.
+1	( I am a gamer ) My only issue, and a very small one, is the middle mouse wheel does not click in very smoothly.
+1	For scrolling it is just fine, but you cannot count on key binding the wheel "click" as it is for lack of a better term : clunky.
+1	The mouse has a nice feel to it, but it is a bit small for my hand and can cause cramping when using the wheel much, as the length of the mouse is such that you have to pull your fingers back to reach the buttons and wheel comfortably.
+1	The side button do not work or are sporadic in their operation, and the scroll wheel stops unlocking to allow for free scroll, or vice versa.
+1	Lastly, the wheel is not "clicky" as the older model and much tighter.
+1	Loved the heavy scroll wheel while it lasted.
+1	Even then I would hesitate to buy it because the thing that sets it apart is the scroll  wheel, and it is too delicate .
+1	So far, go good with the mouse, the  wheel seems a tad floppy  (it wiggles).
+1	The left click works great again, but to my dismay, the mouse  wheel no longer functions .
+1	The bad: - What made the MX Revolution revolutionary was the smooth wheel scrolling, which could be activated by a customized "SmartShift" setting - spin it fast, and it'll switch to smooth scrolling mode automatically.
+1	(See addendum at end) Some people decry the loss of the side rocker wheel, but personally, I never found it to be a useful feature on the MX Revolution.
+1	Regardless, that wheel served as three buttons (rock forward, back, or press), which have been replaced by the single thumb button that I really like.
+1	The only issue I find with this mouse is that the  scrollwheel on it clicks in way too easily .
+1	For those of you that don't know quite what I mean; you know how you can down click the scrollwheel on most and then just use the mouse to change which direction?
+1	Well, it's often very easy to down-click the scrollwheel when you don't want to.
+1	The only con is that I wish there were a thumb wheel that allowed scrolling.
+1	I have Firefox setup so I just click the wheel left or right to switch open tabs.
+1	The notches on the scroll wheel have too much play on them, causing each discrete 'notch' of scroll to actually scroll 2 or even 3 lines.
+1	Its left mouse button is starting to die, but it still has rock-solid click-by-click scrolling - each notch of the scroll wheel is always exactly one line of movement.
+1	The scroll wheel DOES have great tracking.
+1	If you switch to free scroll mode, you can move precisely one line up or down with the wheel, but then you don't get the tactile feedback that you do with the notches.
+1	That tactile feedback is important in, for example, an FPS game where you use the scroll wheel to quickly switch between weapons.
+1	I use the middle click button in scroll wheel to open links in browsers in new tabs.
+1	The scroll wheel in this mouse doesn't have a middle click button.
+1	It changes the scrolling from a ratcheted wheel to a smooth/loose wheel (Free Spin).
+1	Nice to get a closer look in some applications of text or objects, but then again the main scroll wheel is used for that anyway in most programs.
+1	A good way to ensure good positioning is to put your middle finger on the scroll wheel and your thumb on the zoom lever.
+1	(UPDATE: I've figured out how to get a middle click on the scroll wheel.
+1	The scrolling  wheel feels lose , and thus cheap, but works fine once you get used to it.
+1	tilt wheel/side to side scrolling, customizable buttons, and easily-accessible forward/back buttons for fast and efficient web browsing), but for basic functionality, this mouse simply cannot be beaten.
+1	The soft-touch buttons and scroll wheel are also amazingly easy on the hand when doing a ton of repetitive movements.
+1	- Now, after just over a month of use, the free-spin wheel mode doesn't work as it should.
+1	The mouse  wheel is lousy .
+1	It's the worst wheel on any mouse I've used in the past ten years.
+1	ONE THING: the scroll wheel is a little loud for use at work; if I scroll through pages quickly, I'm a little self-conscious about the ratcheting sound.
+1	(1) The scroll wheel they hype so much is very hard to get used to, and it does respond to changes in the preferences.
+1	(2) The side wheel, which allows you to quickly change applications, is physically hard to use because the mouse want to slip when you use it.
+1	But now the MX Revo thing with the middle mouse  wheel doesnt work right .
+1	The scroll wheel is very smooth, and easy to use, side clicking is nice, very little force required.
+1	The scroll wheel is very smooth, in fact, too smooth.
+1	I currently use a Logitech VX Nano Cordless Laser Mouse (for notebooks), and that is what I'm comparing alot of the features such as buttons and scroll wheel to.
+1	first it was the MX1000 that had a defective scroll wheel button that only clicked 1 out of 3 times.
+1	one feature i do love is the free scrolling scroll wheel.
+1	The middle scroll  wheel has no tactile feedback  and after 6 months the middle click function, which I have mapped to open links in a new tab, completely crapped out.
+1	The  wheel scroll is a bit iffy  because it isn't detent scrolling so it takes awhile to get use to.
+1	The right side button is awkward to press but doable however the  wheel scroll button is just annoying .
+1	All in all, the buttons feel pretty good, except for the scroll wheel.
+1	My logitech keyboard/mouse combo my work has feels better in the wheel department.
+1	Sometimes i apply moderate pressure to the wheel and the middle button works.
+1	Buttons /  wheel are not as configurable  as I would like.
+1	The scroll wheel is nice, though the free-spin feature is not as useful as I thought it would be.
+1	(It is far faster to press CTRL-END to go the end of a long document, rather than spin the wheel for seconds on end.
+1	This would get 5 stars if it wasn't for a  very bad quality scroll wheel .
+1	I have no idea why they would make such a nice mouse and skimp on the scroll wheel.
+1	The big selling point of the MX Revolution is, of course, its scroll wheel.
+1	Sometimes the middle-click switch doesn't quite recognize that you want to switch modes, so you have to press the wheel a bit more firmly to get it to switch modes (presumably to differentiate the middle button from the tilt-wheel buttons)-- Logitech's newer MX1100 has a toggle switch that's easier to use, and works even when the mouse is turned off.
+1	While the overall design is great and the scroll wheel is very slick, there are two things I find myself never using: the zoom button and the document flip wheel.
+1	I suppose I could assign middle-click to the zoom button assuming SetPoint allows this, but even then I wouldn't use it very often, since I'm so used to using the left hand to hold down Ctrl (on PCs) or Option (on Macs) while turning the scroll wheel.
+1	Evidently Logitech found the MX Revolution's scroll wheel to be a smash success and is including it in much of their lineup, so users may want to try newer models like the MX1100 and G500.
+1	CONS: The Battery life is a little bit shorter than other mice, but the  major con is the scroll wheel .
+1	Overall: This mouse is okay, but the the blue laser is NOT worth it for the  terrible scroll wheel .
+1	======EDIT--- After using both mice (5000 and 6000) for a very long time I have found that, over time, debris gets stuck inside of the wheel and causes friction when moving the mouse wheel.
+1	Fit and finish are excellent, with the only two niggles I have are with the shape of the mouse and the non-tilting scroll wheel.
+1	The real reason that this mouse is so expensive is its clutch-based wheel, which is handy but brittle - mine broke after a couple months of use, and every store display model I have seen is broken as well.
+1	Plus the position where they put one of the new buttons, right below the scroll wheel, and as small as they can make it.
+1	Now the fast scroll wheel feature they added, nice concept on paper & it sounds great.
+1	I've scoured the net hoping to find a wireless rechargeable mouse that has a nice smooth scrolling wheel, that has decent programmable button features, and all I came up with was the G700 - which is way too complex for my needs, and the Logitech Wireless Performance Mouse MX for PC and Mac.
+1	The scrolling  wheel was defective  as it wobbled back and forth creating a terrible, inconsistent, squeaking click.
+1	**** Good 4-fuzzies feature ratings: **** When using the left/right mouse buttons and scroll wheel, both the 6000 and Explorer Mini Mouse are two of the most whisper-quiet mice that I have ever used, with barely audible clicking sounds coming from the mouse buttons.
+1	*** Not-so-good 3-fuzzies feature ratings: *** On both this 6000 mouse and the Explorer Mini Mouse, clicking down on the scroll wheel to use it as the middle mouse button requires far too much force, and it makes a loud clunky clicking sound, which tends to negate the really quiet nature of the left/right buttons and the silent scroll wheel.
+1	*** Both the 6000 and Explorer Mine Mouse use a non-incremental, non-bumpy, continuous rolling of the scroll  wheel that is a bit too fluidly smooth  for my taste.
+1	)  The 6000's scroll wheel is coated with a rubber compound and the Explorer Mini Mouse's scroll wheel has slight ridges covering it for traction.
+1	But neither of these two mice provide for the incremental "cogwheel" rolling effect that you may have become accustomed to on other mice.
+1	So as I roll my finger over the scroll wheel back and forth, I do not feel that there is ever a subjectively precise control exerted over how much I am rolling that scroll wheel since my finger does not receive any tactile feedback as I roll the scroll wheel.
+1	The only advantage of the new wheel is that it works under Apple's OSX.
+1	It seems weird that they would abandon such a neat concept as the original hyper-scrolling wheel.
+1	A bigger problem - for me anyways - is that now using the  scrollwheel as a button is very dicey .
+1	It's mostly programmable, and I like the click wheel toggle for smooth or notched experiences when scrolling.
+1	The only problem I have with it is the scroll wheel (after 7 months of intense use) doesn't always scroll the page.
+1	Also, it's  very difficult to click on the mouse wheel  to use it as a middle mouse button.
+1	Be sure to check out the free-spinning wheel, which I discovered only by accident.
+1	Just give the wheel a really hard flick and it starts spinning like a frisbee, and down (or up) you go at warp speed (pardon the mixed metaphor).
+1	I also really like the idea of the thumb wheel, which is why I bought the mouse to begin with; it seemed a good successor to the MX700's conveniently placed scroll up and scroll down buttons, which I use all the time.
+1	This mouse is very smooth and nice to use the only complaints are even though the scrolling wheel is the smoothest I have ever used it does not feel very durable.
+1	The free or indexed spin of the middle (top) wheel is very nice.
+1	Its comfortable in my hand and one of my absolute favorite features is the clutch for the mouse wheel.
+1	Add in all the other functionality that is so great, like a unlocking scroll wheel so you can fly through the page faster than anything you've ever seen, and it's a great performer as well.
+1	i frequently have to press the scroll wheel down multiple times for the button to be recognized.
+1	The MX Revolution had a button on the top just below the wheel that served as the One-Touch Search button.
+1	That button on the Performance MX is now a "gear shifter" that changes the wheel from click-to-click like a standard mouse wheel to a wheel that spins freely so that you can move up and down long pages quickly.
+1	I never used the freely spinning wheel feature on the MX Revolution anyway because I use a Firefox add-on called FireGestures which is far more useful and efficient for my purposes.
+1	The wheel is angled towards the index finger.
+1	While that angle makes for easy and comfortable wheel scrolling it took some time to adjust to clicking the wheel since the wheel needs to be pressed in at that 75 degree angle.
+1	What's worse is the scroll wheel.
+1	A couple main gripes are they removed the side thumb wheel and the top wheel's free spin settings are more limited in preferences.
+1	Smooth scrolling or "bumpy resistance" wheel is nice - I like having that option with a quick click of a button.
+1	Windows 7 didn't seem to install all the appropriate drivers, just the ones to get it working as a basic mouse (movement, wheel, front/back buttons), just not the extra thumb button.
+1	The rubber on the  wheel eventually got really loose  and started falling apart, now the wheel is completely unusable.
+1	The MX revolution looks great on paper, and has good build quality, but the thumb  wheel ruins the whole computing experience .
+1	This thumb  wheel is a real nuisance .
+1	I've owned three of these mouses over the last year and they all had one recurring issue:  after several months, the mouse wheel becomes sticky.
+1	It would become difficult to turn the mouse wheel, and I eventually have to manually cut out the rubber part of the mouse wheel in order to keep it rolling smoothly.
+1	The wheel is great, I'm continuing to use the mouse, but the rest of the buttons are mostly useless.
+1	The mouse usability is okay, although i dislike the manual button to switch the scroll wheel from freewheel to clicky wheel.
+1	I bought this to replace my Logitech MX Reveloution mouse in which the scroll wheel fly  wheel effect stopped working  due to heavy wear.
+1	The result is depressing the scroll wheel to go to your search engine of choice often goes to the setup menue and requires more depressing to get to the correct function.
+1	This would get 5 stars except for the fact that after owning it for a couple of months the elastic over the scroll wheel gets stretched out and effectively kills the scrolling capabilities of the mouse.
+1	The mouse is fantastic, sensitive, comfortable, works on most surfaces like it says, however if Microsoft does not re-engineer the scroll wheel my next mouse will not be this one.
+1	And it accelerates, meaning that you can scroll a page in a browser or in an Office application at normal speeds and then if you need to get back to the top of the page quickly you can spin it hard and it will "free-wheel" and get there in a split second.
+1	My fingers should slide easily over the surface, the buttons should be comfy and smoothly contoured, and I should naturally find the buttons and wheel in a convenient location.
+1	The shape of this mouse IS nice and comfy, and the thumb rest is nice, (though the MX 1000 thumb rest is smaller, it's more than adequate) but I find the buttons and scroll wheel to be awkward, and in the case of the forward/back buttons, actually uncomfortable to press.
+1	The main left and right buttons are unexceptional (which is fine), but it's the scroll wheel and "search" button that really irritate me.
+1	The scroll wheel has two modes, both of which are bothersome.
+1	I'm not certain if I'm in the majority here, but I also use my scroll wheel as a middle click - and quite extensively.
+1	The wheel is quite stiff to press and is made this way intentionally because it is intended to be used to shift between the two scroll modes, something you probably don't want to do accidentally while scrolling.
+1	Since the scroll wheel was completely unusable as a middle click, I decided to reconfigure the "search" button to serve this purpose.
+1	While I must admit this is much better than the middle-clunk offered by the scroll wheel, it is set just too far forward on the mouse to enable comfortable middle-clicking.
+1	Recently, my new mouse's scroll  wheel buttons stopped working .
+1	From the beginning the scroll wheel was a love/hate affair.
+1	When it doesn't it is a major pain, with no click or tactile feedback and moving the screen irregularly in response to the wheel.
+1	It is always the same screens that make the wheel lose track of itself.
+1	) the scroll  wheel is very loose .
+1	The only thing worse than the scroll wheel and unresponsive zoom control is the rude, non-existent support.
+1	My only other complaint is the scroll  wheel settings are hard to adjust .
+1	only negative is the middle button.
+1	The free wheel mode allows you to go through huge document so easily, this is incredible.
+1	This mouse is by far and away the best mouse I have ever had in terms of comfort and ease of use but having a  scroll wheel break  after not even a year is just ridiculous for a $75 mouse.
+1	The dynamic, "whirl" style of scroll wheel should become mandatory on all mice.
+1	It's very comfortable and smooth, and the free-spinning  wheel is really useful .
+1	The only negative about the mouse is the stiff  spring on the wheel  button.
+1	The unusually high tension on the  wheel button can be a bit annoying , and I wonder if it might be bad for carpal tunnel-type problems.
+1	After using it for a while, I'm finding that the wheel turns freely, on it's own.
+1	The  wheel button became useless  doing the same things as described here.
+1	The keyboard is outstanding and as soon as I got my big hand on the mouse it was love at first sight that is until I discovered that the  wheel wouldn't work  as a middle button.
+1	The  wheel is too sensitive  and won't stay still allowing it to stabilize where you want it to click.
+1	The  wheel works intermittently  but less times than more.
+1	I am happy that this mouse has retained its simplicity of 2 buttons and a scroll wheel/button.
+1	Ive set all the extra buttons to the following for autocad; lower thumb:open, left scroll wheel:escape, right scroll: mute (just in case my boss has something to say), zoom:save, i set the thum up/down to move through the last commands (handy for when you want to go back 2 or three commands real quick), and right click: repeat last command (i prefer it to the spacebar for repeat).
+1	Because of the slight angle the wheel sits (it leans slightly to the left) it's easy to inadvertently hit left scroll when you center click.
+1	Now, if you have larger hands you will find the mouse wheel and thumb up/down buttons too close.
+1	The big plus the M705 has it the scroll wheel has the physical left and right scroll click and isn't as sensitive so you wont accidentally hit it while middle clicking.
+1	The  wheel does not click  when pressed to the right or left, and it requires a good deal of force to move.
+1	But it has a fatal  flaw in the scroll wheel .
+1	the spin wheel has two modes, a normal click to click and a free spin mode.
+1	there are also three more button, a one touch search located just behind the first wheel and two arrow buttons on the side by the second wheel.
+1	The button behind the wheel (Search button) would be a perfect place for a middle click, but alas, you can't assign that function to that button.
+1	Also, the side wheel/document switcher, since it is no better than Alt+Tab, will not let you switch between Firefox tabs.
+1	The second is the middle wheel button on the mouse.
+1	After a month's worth of usage, I have to say the worst part of this mouse is the scrolling wheel.
+1	It's sensitive, but I use to mostly to open tabs in firefox and to press this wheel down, it's takes quite a bit of force in comparison to any of the mouse i've ever used in my life, other than those silly first generation ones.
+1	You are not able to turn you middle wheel to left-right as it supposed to be.
+1	On the cons side, I would have liked to have the wheel on the mouse actually click when you move it rather than just a smooth movement.
+1	Personally, I think a good mouse wheel needs a tactile click-click-click feeling but this one's (I purchased three at once based on good reviews) wheel is so fluid that it might as well be greased.
+1	1) The spin wheel is great but that is all.
+1	I taped over the lazer and now just use it as a sping wheel for my left hand while I use my microsoft mouse in my right hand.
+1	I took the hint that a new mouse was in order when the paint wore off the left mouse button and the  wheel stopped scrolling  to the left.
+1	This mouse clicks reasonably quietly and the wheel is quiet as well.
+1	Apparently the scrolling rate is sensitive to the tilt of the wheel - of course it won't run off whatever Win 7 installs automatically.
+1	The mouse worked perfectly, the wheel button also works perfectly, unlike the buttons on my replacement notebook optical laser mouse 6000.
+1	This mouse also has a better wheel button (good for middle clicking) than the newer laser mouse 6000 which is erratic.
+1	The wheel scrolling, and mouse positioning on the newer laser mouse 6000 is better than this mouse.
+1	Scroll wheel is supposed to also be a middle button according to the brochure, I but could not get it to work.
+1	only 3-5 days with 10hr/day usage ) Cons: 1 - The thumb  wheel is way sensitive  that it should be, making it almost useless!
+1	The 5000 is better when it comes to buttons and wheel placement and functioning, the 6000 MIGHT start a bit faster but that's hard to tell for sure.
+1	The mouse wheel is smooth in the backwards motion but clunks when changing direction to a forward motion.
+1	By default, clicking the middle button swaps the scrolling of the wheel.
+1	The other  wheel is mostly useless .
+1	The side-scroll function has excessive wheel displacement in the right and left direction and too little resistance, and is also inadvertently activated when attempting to use middle click.
+1	Smooth scroll wheel makes for imprecise scrolling.
+1	SUMMARY: If you use the scroll wheel for anything other than pure vertical scrolling, then this mouse is not for you.
+1	The scroll wheel are so smooth.
+1	Pros: The scroll wheel is nice.
+1	The 'air wheel' takes getting used to but thats not the main issue.
+1	The mouse is really confortable it works well, but the mouse  wheel is really anoying  it scrolls to fast and it goes to the end of a page in just one second, the position of the forward and back page could be a better positioned.
+1	The sides of the mouse are wrapped in a soft rubber material, and the wheel appears to be covered in the same material.
+1	There are a total of 4 standard buttons, with a scroll wheel button and 4-way scrolling.
+1	The scroll wheel does not offer any "clicks", which is similar to the click-free setting with the Logitech G9x.
+1	The scroll  wheel button is also very stiff .
+1	I thought my Logitech G9x scroll  wheel button was stiff , but the Mobile Mouse 6000 is maybe twice as stiff.
+1	The Microsoft Bluetooth Notebook 5000 scroll wheel button is about as easy to use as the primary/secondary buttons.
+1	The stiffer scroll  wheel button makes it difficult  to use tabbed browsing, and combined with a jittery scroll wheel on the 6000, it's hard to browse using FireFox or IE8.
+1	What Microsoft should do is reduce the force required to push the scroll wheel button, and add the clicking/gears so it is easier to use.
+1	Microsoft should pay attention to the scroll wheel though, since we're using it more and more with tabbed browsing.
+1	The rocking feature, MicroGear Scroll Wheel, is out of my expectation as it is the mouse driver which decide whether the wheel to go smoothly or click-to-click instead of you.
+1	The second wheel which is besides your thumb in fact take up the space of your thumb.
+1	Just click the center button over the mouse wheel and the scroll wheel goes free.
+1	It will only work fine if it is pressed from the center top of the wheel.
+1	I also give the smooth-scroll wheel, side selector, and even quick-search button high marks.
+1	The worse part is the scrollwheel.
+1	Also, using the side scrolling function is effortless like it should be simple because the wheel does not rise far enough out of the Mouse's body.
+1	The "hyper-scroll" feature is nice - what I didn't realize prior to purchasing it is that you can go back and forth between and indexed scroll (like most other mice) and the hyper scroll which allows the wheel to spin freely - basically, with one quick flick of the wheel in hyper-scroll mode, you can scroll down (for example) 3,000 rows in Excel within about 5 seconds.
+1	the "down-graded" version of the software does not let you configure the scroll wheel on your thumb, nor the 2 buttons on the side of the mouse next to your thumb, so I'm stuck with a nice-feeling, cool-looking wireless mouse that doesn't really have any more functionality that the other mice on the market.
+1	The buttons feel flimsy and weird, unlike another other mice I tried: logitech, microsoft intellimouse/wheelmouse/basic mouse.
+1	the wheel of the mouse is just not good enough to be usable.
+1	another thing is that the  wheel click is very inaccurate , since most of the time you press it it does not work,  and it never feels like clicking, so you don't really know whether you clicked or not (most times, wheel click does not work).
+1	the tilt of the  wheel also does not work  often, and it is pretty much unusable.
+1	The scroll  wheel is so stiff  and jerky, I don't even use it.
+1	My old mouse was pretty plain -- it had two buttons and a scroll wheel, all of which worked pretty much exactly as one would expect.
+1	The scroll wheel scrolled at an acceptable speed, and also doubled as a middle mouse button.
+1	It would be nicer if it you could just click the thumbwheel, select the application, and then click the thumbwheel again or the right click to select.
+1	In general, I have mixed feeling about the scroll wheel.
+1	I would give this mouse easily a 5 star, but the only problem i have with it the wheel, when you the driver install the mouse wheel click, allows you to switch windows, just like alt + tab, but i use the wheel click to open new tabs in my browser, that is pretty easy to change for the wheel click to do that, but i hate the wheel because it free spins and doesnt have the little clicks when you spin it, making it a bit hard to control how much you scroll.
+1	I got this mouse for my notebook because it was one of the few mice available that met my 3 requirements: tilt wheel, thumb button(s), and a micro receiver.
+1	The scroll  wheel has no tactile steps , so it just scrolls completely smoothly.
+1	so when viewing pictures in my picture viewer with the scroll wheel it skips 1-2 pictures every time I scroll up/down.
+1	OTHER THOUGHTS: If you're looking for a nice mouse for your notebook and you don't mind not being able to customize the tilt wheel or number of lines the wheel scrolls and you don't mind the side buttons being too far forward, this mouse is a good choice.
+1	I haven't used this in a long time, but having it at a desktop now I notice the  wheel button is accidentally pressed  all the time, there is not much of a "click" either.
+1	Unfortunately, the scroll  wheel sucks so bad , it makes this otherwise-five-star mouse a one-star piece of junk.
+1	The scroll wheel (and/or its underlying mechanism) is poorly built and undependable.
+1	I blew some compressed air into the crevices around the wheel, and it grudgingly, hesitatingly started to work (first it would only scroll one line per revolution, then slowly more & more until it was back to normal).
+1	The second time that the scroll  wheel stopped working , even compressed air didn't fix it.
+1	In a fit of anger, I pressed down on the scroll wheel with the edge of my hand and scrolled it up & down like a mad man.
+1	I don't know what's wrong with this stupid mouse - I haven't dropped it, I don't work in a dusty old attic or a sawmill or anything, and I have a general policy of not dipping my finger in liquids or gooey substances before attempting to use the scroll wheel.
+1	I always found the typical clicking scroll wheel on other mice so annoying.
+1	The problem lies in the scroll wheel when you scroll, the position changes a few instead of one click to one scroll.
+1	Also, when watching movies on OSX quicktime, if hyper scrolling is enabled, the  wheel is VERY sensitive  and can pause the video.
+1	The only complaint I have is the scroll wheel.
+1	No matter how slow I have it programmed, when you turn the wheel, it "jumps" down the page.
+1	The jog side wheel or whatever they call it on the left side provides a very quick way to move from one open app to another, the more conventional wheel on the top clicks through pages or spins through them like moving over the ground in a fast, low flying plane.
+1	The scroll wheel located between the main buttons is really a flywheel.
+1	Clicking the wheel will toggle between a smooth scroll and a ratchetting scroll but both are capable of speed.
+1	This is a wheel-like button on the side.
+1	If the scroll wheel had an odometer it would have probably rolled back over to zero more than a couple times (I'm scroll wheel happy on webpages).
+1	The rest of course are simple things like fiber-optic, scroll wheel, and wireless.
+1	Since I am an Architect and use the mouse wheel to pan and zoom this was posing a major problem.
+1	Oh yeah, this mouse's software has a tendency to forget how many clicks the scroll wheel's set to.
+1	The wheel also has a nice grip to it as well.
+1	The problem, and this is a major flaw in my opinion, is the scroll wheel!
+1	It is VERY sensitive, I will be web browsing and just accidentally bump it and my page jerks from the scroll wheel, and don't even get me started on trying to use it for gaming.
+1	As a result I've had to set the mouse scroll wheel sensitivity in Windows setting to almost the bare minimum which is rather frustrating when I DO want to scroll because I have to turn the wheel more to get the same result as other mouses.
+1	If the scroll wheel had incremental clicks like EVERY mouse has this would easily be a 5 star review.
+1	PROS: BlueTrack-It works on almost all surfaces Smooth scroll wheel- You get to exactly where you want to be on a page.
+1	I didn't notice this mentioned in other reviews until after I bought it, but the middle  wheel/button click is barely functional .
+1	This was my second cordless optical mouse I purchased for my laptop after the  wheel broke  on my first.
+1	It's solid, well-constructed, the wheel works great, and so on.
+1	The wheel on the side and the search button are mostly worthless.
+1	The scroll wheel in either manual or free-spin mode is the best I've ever felt.
+1	Although I do like the "shifting" aspect of the wheel between free-spin and manual mode, it becomes very annoying to have this automatically shift based on Logitech's interpretation of which mode I want to use and when.
+1	This is particularly annoying because it's very easy to get used to keeping it in free spin mode because it is so convenient only to find that you often have to switch out of it to get the wheel to work at all.
+1	At other times, when I activate the free-spin mode, the scroll effect takes off like it's on its own mission and just madly keeps scrolling up or down without responding to any clicks (left, right or on the wheel itself) until it has decided where to go on its own, anywhere between 3 to 5 seconds after I've given up trying to stop it.
+1	The application switcher (the thumb  wheel) has inconsistent behavior .
+1	I think this might be related to a design flaw in this mouse related to the restrained or unrestrained scroll wheel feature.
+1	As far as the crazy new scroll wheel goes, yea it's nice.
+1	I think that the build quality of the mouse and how SOLID the wheel feels is a far better selling point.
+1	*********** My old Microsoft mouse was great; optical mouse, corded, never had a problem--but the mouse- wheel had grown sticky , defiant and ornery.
+1	One thing I absolutely love about the current Logitech line is the alloy scroll-wheel which really gives scrolling a solid feel.
+1	I'm sure every mouse maker's going to move to alloy wheel, because it's far superior.
+1	And the Logitech line has this ultimate-free-wheeling scroll feature, where you can turn off the wheel friction and let it fly.
+1	No more scrolling down a whole forum page when you know that what you want is on the bottom, just release the wheel-friction and let it fly.
+1	However, like some people I don't like the low resistance of the scroll wheel.
+1	The nice feature of this mouse--as everyone else reports--is the frictionless scrollwheel.
+1	The  thumbwheel, on the other hand, is a major annoyance .
+1	If you have small hands, go for the LX "laptop" version that is cheaper and doesn't put an annoying rubber wheel where you want to rest your thumb.
+1	In fact the only con that I have is the scrolling wheel broke after only owning this mouse for 2 months.
+1	There is one problem using the middle click and the wheel: when you click the wheel to have a middle click, the wheel reports a scrolling and this move the window content.
+1	Disabling "smooth scrolling" from Setpoint makes the wheel and the middle click work well (thanks to S.
+1	The scroll wheel is free rolling without ratcheting and feels rather good to use.
+1	It does not spin the same way as the advanced Logitech scroll wheel does however.
+1	There is also low battery indicator just below the scroll wheel than blinks red when your battery is low.
+1	The MX Performance does a lot to improve the MX Rev, giving us charging-via-USB, an even more ergonomic design, riding us from the -imho-  useless thumb wheel  on the side, top-notch build quality and so on.
+1	actually works on almost any surface and extremely powerful signal, the only problem is its size and the scroll  wheel button is too hard , and does not respond well to design programs is almost a torture,  for a normal job does not demand intensive use will be perfec.
+1	4) Scroll  wheel feels cheap  and clicks loudly in "click" mode.
+1	In a single line: The scroll wheel of this mouse is CRITICALLY bad, and I would recommend against buying it if you like fast-smooth scroll or the left-right rocker buttons on the scroll-wheel.
+1	The Side-to-Side buttons (Left/Right) for the scroll wheel are too sensitive.
+1	Even after I stop the wheel from spinning with my finger, just releasing it from the pressure of my finger tip spins it a few more lines.
+1	It's a bit big and bulky, but the idea of a rechargeable mouse, the smart-shifting scroll wheel, the thumb lever, and the other advanced features (several programmable buttons, laser precision, etc.
+1	Unfortunately, the scroll  wheel shifting mechanism was very clunky  on the unit I received.
+1	The software was better at controlling it than I was (using the software to force it to switch always worked, but manually pressing the wheel was hit-or-miss).
+1	The  wheel was permanently stuck  in frictionless mode.
+1	In its marketing materials, Logitech boasts about the complexity of the mechanism that achieves the scroll-wheel switching.
+1	However, the functions that were available were either redundant ("go back" and "go forward," which the side buttons already do, or scrolling functions, which the scroll wheel already does) or just not terribly useful.
+1	This should have been a cool feature, as it allows you to make program-level adjustments such as setting the scroll wheel to remain always ratcheted in Excel but switch between ratcheted and frictionless in Word, and so forth.
+1	You can click the center wheel to change the feel of the scroll wheel, which is cool.
+1	Using the scroll wheel pages scroll by at blindingly fast speeds or painfully slow.
+1	Because of the wheel where your thumb should be resting if you have larger hands the mouse is extremely uncomfortable to use.
+1	I like most everything 'bout this mouse, but when I try to lock in auto-scroll using the wheel pushbutton, it depends on where the wheel is on its full rotation as to how much luck I have doing so.
+1	Experimenting, I also notice, depending on position of the wheel when auto-scroll is locked in, you can either give the top of the mouse a relatively hard thump or almost breathe on it to knock it out of auto-scroll.
+1	I'm assuming there is a hardware problem with the thumbwheel pushbutton-the function of the  wheel pushbutton is not consistent  throughout the entire rotation of the wheel.
+1	Based on a few reviews I've read where other folks seem to be complaining 'bout the wheel pushbutton in other applications, it sounds like this may be an endemic problem with this model?
+1	It would also be nice if the wheel clicks where a little more definitive-compared to other mice I've used, the individual clicks seem to be a little vague.
+1	For instance, there is not a separate setting for scroll speed with the logitech software, so I have to compromise with the setting between the trackpad (which I want slower) and the mouse wheel (which I want faster).
+1	I also have a minor issue with the scroll wheel: when I place my finger on it and scroll as far down as I can with one scroll then stop, the scrolling sometimes jumps back up on the screen a ways.
+1	The mouse is accurate, I love the free-spinning scroll wheel, (it continues to spin as if on a needle bearing), All the assignable buttons, It's heft, It's fit in my hand, the tiny size of the USB dongle, It works smoothly on most surfaces.
+1	I had to adjust my mouse settings in Control Panel, but I think that's because laser mice are more sensitive than wheel mice.
+1	Minus a star for its size (which I should have researched more) and a minor annoyance with the scroll wheel (a little sensitive to clicks), really good mouse.
+1	Here are the differences: - There used to be a button at the bottom of the top wheel that was supposed to be a search button or something like that.
+1	- Smartshift is a nifty feature that allowed your wheel to roll freely the further you rolled it, which made for very fast scrolling.
+1	I would bet that this is not a big one for many people, but I found the side wheel useful.
+1	It wasn't a real wheel as such, but more like three buttons (up, down and press).
+1	On the defective mouse, the scroll wheel worked, the right button worked intermittently, but the pointer wouldn't move.
+1	Avoid if you use the middle mouse wheel a lot.
+1	There is a button to change the scroll wheel from fast to slow and this is good.
+1	I really like the side scroll feature, and the smooth wheel scrolling feature is very nice once you get it adjusted to your preference (not hard to do, just takes a minute).
+1	I would like to have the wheel full function though.
+1	Only enhancements I would recommend are: on the fly dpi switches (like the G7), wheel button returned (probably hard to do with the free fly wheel technology), search button Firefox friendly (opens 2 tabs for each search), and more features!
+1	This would get 5 stars if it wasn't for a gimpy scroll wheel.
+1	I have no idea why they would make such a nice mouse and skimp on the scroll wheel.
+1	There is no tactile resistance at all and its just a free wheeling scroll.
+1	The third is about the scroll wheel/software/ my software?
+1	With the software I changed the "quick search" button (the one behind the scroll wheel) to show the desktop and turned the thumb rocker into an alt-tab replacement.
+1	I also set the scroll wheel to always be free flowing, as opposed as being able to click and switch between normal and free flowing, so I could use the "click" to be a middle button which is useful to open up another tab in a web browser by middle clicking a link.
+1	I do occasionally play a computer game and the free flowing scroll  wheel is a little too hard  to be accurate with in games and for some reason I can't get the Logitech software to accurately realize when I'm playing a game.
+1	The only downside would be the scrolling wheel, it's hard to tell when it's actually scrolling.
+1	The new  wheel is as close to useless  as possible.
+1	Secondly, the scroll wheel that everyone is so in love with is good for fiddling with if you have to read through a long, tedious document, but as for actually navigating that document or a lengthy web page, the flywheel thing is more of a gimmick than a useful feature.
+1	It is a very good mouse except for the  problems with the scroll wheel .
+1	Also, I have never had a non-click wheel mouse before and now that I have, I think I may like it better.
+1	The size also makes the already stiff scroll  wheel seem even stiffer , it takes more effort than should be necessary to click it.
+1	My fianc&eacute; uses the Anywhere Mouse MX and I was delighted by the design of the wheel; you clicked the wheel to change the scrolling speed, and clicked the button below the wheel for a center-button click.
+1	And the whole advanced scroll  wheel thing is really stupid  unless you are scrolling a huge document.
+1	The mouse still works great if you just use it like a normal mouse; HOWEVER, if you use the middle button (pressing down on the scroll wheel) a lot for games/opening in tabs, DO NOT get this mouse because you really have to push on the scroll wheel for it to click.
+1	- The middle button being more responsive on the PMX doesn't matter because you can assign the button below the scroll wheel as the middle button on the MXR and you can't assign that on the PMX, it's stuck as the button to switch hyper-scrolling.
+1	- Extra thumb button not really useful unless you are a gamer (again, wireless is not made for gaming) - 2nd "wheel" is removed.
+1	Only 2 buttons (thumb and zoom) replaced the wheel which is bascially 3 buttons and has more practical use because it's all on one wheel.
+1	Everything else works great like the 3500 EXCEPT the mouse wheel.
+1	The wheel is supposed to be super smooth scrolling, but what it means is that it is so sensitive that even just moving the mouse around makes the wheel slide ever so slightly up and down, which means the web page you are looking at just randomly ticks up or down.
+1	Also, forget about using the mouse-wheel button.
+1	If you even touch the wheel it moves, and when you actually push the button down (which feels cheap, by the way) the  wheel again will randomly move .
+1	Within just a few months, the scroll  wheel became resistant  to moving.
+1	A solid mouse, with all the basic features (which to me include mouse wheel as a 3rd button click, USB receiver as the on/off switch), and good design and quality.
+1	Works great, scroll wheel got dropped on, and it's not as smooth as it used to be.
+1	One of the coolest features is the scrolling wheel.
+1	If will change from the click type scroll wheel to a free scrolling wheel that can spin freely for a few seconds per spin!
+1	And for on the fly adjustments you can use SetPoint to make clicking the scroll wheel in switch between free scrolling/click modes.
+1	Another cool button is the side wheel.
+1	The top button is placed underneath the top scroll wheel.
+1	the one thing that's a bit "different" is that the scroll wheel does not have the "click click" feel to it as it is turned like all other mouses have had for years but one will get used to that.
+1	Button location, not the same as the Revolution, looks similiar but you have to really move your fingers to engage the side buttons which is important when doing production work, not being able to program the button behind the wheel and its sensitive right and left buttons made it impossible to use with Autocad.
+1	The thing I love about it is the free-spinning scroll wheel.
+1	I plan to replace it with either an ergonomic mouse or a trackball, but I am definitely going to find something with a free-spinning scroll wheel.
+1	After changing the very bottom button to zoom in on print, you press the bottom button, then scroll with the scroll wheel in order to enlarge or compress photos or print size.
+1	My only complaint is one that others have noted, side scrolling via the mouse  wheel is a pain .
+1	The wheel does not tilt to the left/right very well making it a bit difficult to use that feature.
+1	Cons: Weak transmitter, very short battery life, chrome starts to peel off, rubber  scroll wheel comes off .

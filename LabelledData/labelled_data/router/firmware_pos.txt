@@ -1,0 +1,330 @@
+0	It is so wonderful because I can do whatever I want with it installing it community's firmware and I don't have to use the one from Cisco that restrics its use .
+0	It's got <p> great support for most all third party firmware <p> such as DD WRT and Tomato and if you switch to those you'll have a really stable experience with your router .
+1	It was very frustrating to have to update your firmware right out of the box this seems wrong .
+0	Expect to be a beta tester performance is somewhat random but I hope it'll get better as the firmware is updated .
+0	1 Keep up with firmware updates they are easy to do .
+0	This fine unit is easy to set up as routers go and powerful and reliable and can have its firmware replaced .
+0	The Linux foundation of this fine router gives the user access to several remarkable products that can be used to replace its already <p> good firmware <p> with outstandingly complex and useful professional grade software developed by the open source community .
+0	Good router with <p> lots of upgradable firmware <p> and hacks available .
+0	Do not pass go and go directly to the linksys site for the latest firmware update .
+0	I did do a firmware upgrade about a year ago .
+1	After upgrading the firmware the router lost connection a few times until I reset back to the defaults .
+0	Hopefully a firmware upgrade will enable UPnP for AOL IM .
+0	Once it works the thing is great Although the firmware upgrades are a must to fix bugs but require some networking understanding .
+0	Its <p> rock solid stable with firmware <p> version 4 20 6 and this addresses the large file transfer problem .
+0	That means you should not load Beta firmware or other 3rd party stuff unless you want to be a bleeding edge victum .
+0	First thing I did was updating the firmware .
+0	I was very pleased that the newest version of the <p> firmware includes WPA <p> .
+1	I was hoping the newest firmware would fix the problem but it didn't .
+0	When I chatted with the Linksys support he claimed there were only firmware differences .
+0	If you get the latest version 5 then be sure to update to the latest firmware 1 00 4 previous versions were buggy and caused slow downs .
+0	While some here are complaining that the new version doesn't run on Linux this isn't an issue unless you plan to run third party firmware .
+1	The box I received from Amazon is the latest a v4 and unfortunately it's impossible to install third party firmware on it .
+0	This is an excellent router and a great value just be aware that you may not be able to flash it with third party firmware quite yet which makes it a lot less attractive as the stock firmware lacks several important features .
+0	goto the Linksys website and upgrade the firmware for the WRT54G router I would recommend this for any hardware you get stay current with firmware and drivers and then get the latest driver for your Linksys wireless NIC .
+0	Now that the 11g spec is final and a new firmware has been released supporting it the WRT54G is a serious contender for your wireless network .
+0	if you think the included firmware is secure then change what you put in your coffee and on your toast. Setup actually very easy for intermediate or experienced modem router users .
+1	I have noticed some annoying bugs in the firmware .
+1	Even after upgrading my firmware several times I am still not able to save my configuration setting out to a file a fact which is annoying given the MANY advanced security settings I used .
+0	No MAC filtering will be applied you will not be prompted to change the firmware password your SSID will be broadcast for all your neighbors to see and you will have NO encryption .
+0	I flashed to the new 1 01 4 firmware which was a simple task and the complaints about some radios having difficulty associating should be gone .
+0	Flashing to the <p> new firmware even retained all of my previous settings <p> .
+0	I have purchased three of these and after installing custom firmware DD WRT not necessarily for the average end user although pretty simple for the power user these boxes are amazing I was able to set up two for work to provide wireless signals to non wireless enabled computers without too much hassle and for my personal use and one of my friends they have yet to disappoint .
+0	When I used it without the custom firmware it wasn't that impressive .
+0	Also a BIG plus I found out is that the <p> firmware is open source <p> .
+0	The most popular is HyperWRT which is based on Linksys 3 01 3 firmware for the WRT54G and Linksys 3 37 2 firmware for the WRT54GS .
+0	I am currently running the <p> HyperWRT firmware with great results <p> and it works great even on my Xbox .
+0	And having <p> open source firmware is just the berries <p> and makes it the 1 choice for me .
+0	I made sure to download the firmware rev from early December before getting too far along .
+0	Despite reading all of the negative reviews of the Linksys Router v 5 I went ahead and recently purchased this after I saw that Linksys issued new firmware in mid December and read that this solved the problems people were experiencing with v 5 .
+0	This is my first experience with a Router and everything from the installation of the Router to upgrading the firmware to setting up a wireless network in my home went very smoothly and has been working great .
+0	While I didn't use the Router with the old firmware to be able to compare to the new firmware I can safely say that with the new firmware installed this is a great Router and a real bargain .
+0	I also updated the firmware to 8 0 5 as it came with 8 0 .
+0	The version I have has firmware version 1 00 6 There is an upgrade avaialable but the router worked fine so I left it alone .
+1	AOL uses their own version of PPoE and Linksys does not have AOL firmware for the WRT54G .
+0	If you want to share your AOL Broadband in a home network I would suggest checking the Linksys website to see if they have released firmware yet .
+0	I bought this after reading about the 3rd party firmware .
+0	Called the tech support after 9 in the evening fast response first they had me update the firmware then they helped me with a much better wizard than the one on the cd .
+0	It means that if you are adventurous you can get the source code and make your own modifications to enhance the product's capabilities. A little bit less adventurous Try downloading pre built customized firmware off the Internet or exploit some firmware bugs that allow you to enable some of the hidden capabilities of the product .
+0	3 After you get it up and running reading the instructions do a firmware upgrade and update your firmware to the latest version .
+0	I did upgraded the firmware to the latest one before I began using the router .
+0	Need to flash it to most recent firmware version v8 00 5 though to make it stable .
+0	I was fed up and turned to WRT54G because of its positive reviews good past experience with wired routers and <p> frequent firmware updates <p> to correct any bugs .
+0	Even with DD WRT firmware Version 5 of this model keep crashing when using torrents because the memory has been reduced to half from version 1 4 models .
+0	The only reason people buy this model is to reflash the linksys standard firmware with DD WRT google it one .
+1	So if you're not sure on how to flash the firmware then do not buy this model and instead buy WRT54GL .
+0	The good part came in where I upgraded the firmware on the router thats all it took to get the thing humming like a charm All in all happy with it now but I would suggest upgrading the firmware as soon as you get it .
+1	2 hours on the phone with support to figure out you have to update firmware .
+0	How about a sticker on the box or a sheet inside that says Hey we're too stupid to update the firmware before we box these puppies up and ship them .
+0	I have owned the WRT54G from Linksys for several years and have operated on their 1 4 2 version firmware .
+0	I flashed the firmware and upgraded to version 4 which is stable and works great .
+0	But with enhanced firmware from 3rd parties the WRT is an absolute powerhouse .
+0	The WRT54G with this new firmware is now my firewall bandwidth manager wireless router four port Ethernet hub VPN server and has so many more features I can't count them .
+0	They <p> never drop their firmware driver support update <p> from my old 802 11b card .
+0	read a few forums and found out that a firmware upgrade is needed .
+0	waiting for a firmware update that will fix this .
+0	This got fixed after I did a firmware update from the syslink website .
+0	I upgraded the router firmware and the WPC54G driver following the simple instructions from .
+0	1 Upgrade the firmware right away if it's not the newest version .
+0	One key for upgrading <p> Newest factory firmware upgrade gives you QoS support <p> .
+0	Registration for this product should include subscription to a technical e mail list notifying users of firmware and driver updates as well as the lates technical articles and an 802 11g ratification update .
+0	I don't mind that the product is based on draft protocols but proactively notify me about updates You can even use the NET Alerts to IM me about new firmware It was after I performed a firmware upgrade that I started to encounter problems maintaining a connection with the router .
+0	The upgrade is mandatory for many 802 11b devices to hear the WRT54G and I believe it's the standard shipping firmware now. Anyways after I upgraded my WPC54G started dropping connection every 4 5 minutes .
+0	On top of all this great stuff the firmware was released to the Linux community and 3rd party programmers have hacked the router so you can do a lot of cool stuff .
+0	Go to the Anandtech com forums and search for this router and you'll find SVEAsoft has a <p> lot of awesome firmware <p> .
+0	I downloaded and updated the firmware and followed the easy setup instructions .
+0	Quick snappy easy to set up and everything I've tried on it works without having to update the firmware I set it up using the web interface which isnt as easy to find because Linksys now tries to force a windows only installer on you so if you arent comfortable using the web setup without instructions I wouldnt reccommend it .
+0	I was also able to download the latest firmware from Cisco and install it in a few minutes without any problems .
+0	I suppose the Version 5 and later of the WRT54G is inferior if you are interested in uploading 3rd party firmware .
+0	However for my purposes the Cisco <p> firmware is fine and runs a simple network smoothly <p> .
+0	I had problems at first but then I upgraded my firmware .
+0	Note I don't know if any of these reviewers have even checked for the updated firmware on Linksys' website .
+0	The new firmware version currently 1 41 fixes a lot of the reported issues mentioned on this website .
+0	Linksys does not ship its routers with the updated firmware as it costs too much to recall every single router in all the stores just to flash to the newest version .
+0	Unlike many other companies Linksys <p> updates their firmware quite often with new features <p> .
+0	It's a good Product after a firmware upgrade everything works fine .
+0	I'm using the first version of the router but through <p> firmware updates I've been able to use WPA security <p> .
+0	for those that have been having problems with non linksys hardware new firmware is out as of 1 29 03 which should fix many issues .
+0	I recently bought a laptop again customer service helped me download the latest firmware and configure it to work on my own network .
+0	Don't be Linksys is no idiot and it has evaluated different chip sets by different chip makers and get their promised by the future firmware upgrade to become 802 11g standard .
+0	Even if there's any changes it can be done in firmware software I believe you will definitely get a firmware upgrade to become a real 802 11g router. Think in another way some people bought the so called 802 11b 22Mbps wireless stuff .
+0	works well with comcast no problems only when i use the 3rd party firmware upgrades then it seems to have different results .
+0	The <p> stock firmware was OK <p> but the router would hang after 3 5GB of files transfer from wireless to wired clients .
+0	The <p> HyperWRT firmware fixed this problem <p> and combined with WallWatcher Windows application receiving in out log from WRT54G provides excellent logging functionality .
+0	I first tried a Leviton 47611 GT4 router then a Linksys BEFSR41 v2 multiple versions of firmware .
+0	FINALLY I had the WRT54G firmware v 8 00 7 build 011 Jul 27 2009 laying around configured merely as a wireless access point by disabling DHCP .
+0	Out of the box my 802 11b network cards would not connect until I upgraded the firmware in the router .
+0	This is a good product that I could recommend to anyone once the firmware is upgraded .
+1	I think the default firmware is what causes all the troubles .
+1	firmware from 1 28 03 it didn't fix my problem As for my equipment I have a Toshiba e740 and a Gateway Laptop with .
+0	Since I've upgraded the firmware I haven't had to restart the router in a very long time .
+0	Though Linksys may have leapt out of the gate before the 802 11g standard is completely agreed upon I have no doubts based on what I have heard and read that any changes to the standard will be handled via <p> easy firmware upgrades <p> to the router how many times have we already had to update firmware on wire and 11B hardware with little to no pain .
+0	The great thing about them is that <p> there is open source firmware <p> that makes the router as good as the $200 routers out there .
+0	The firmware upgrade allows you to do things such as remotely turning on off your computer advanced port options advanced firewall etc .
+0	And as usual <p> extremely nice firmware features very easy to use <p> Plus I couldn't find a better price anywhere .
+0	I'm using sveasoft's firmware but search the web for more information about it you may find you don't approve of the author's tactics which I only learned about after I'd paid my $20 subscription .
+0	The firmware that came on the unit was v8 0 2 which seems to work just fine with NO drops time will tell .
+0	Installed 1 00 6 firmware as recommended by linksys .
+0	I recommend upgrading the firmware relatively easy process as soon as you take it out of the box .
+0	Granted I updated the firmware right away but I've had NO problems since I've had it .
+0	As a bonus if you upgrade the router's firmware to the newest version the Secure Easy Setup SES feature will be enabled the Cisco logo in the front panel is actually a button which will glow amber when SES is enabled .
+0	The desktop PC needs to be on in order to share files or to print It's so convenient The first few times it was a little flaky but after upgrading the firmware for the router and the driver for the card it has been 100% stable so far .
+0	Also don't upgrade the firmware right away .
+0	Turns out our settings were right all along but after applying the firmware update it just worked perfectly .
+0	I have 2 of these at home they are WRT54Gv3 0 so i <p> updated it with a linux firmware available online freely <p> .
+0	It's incredible what you can do with this router together with the new firmware .
+0	Out of the box it's quite capable too but i just wanted to know what all the hive of the linux firmware was .
+0	This was true despite the fact that my ISP warned me of other users' problems using Linksys Routers to connect through the supplied modem I find the configuration interface using the latest firmware I'm using version 2 02 2 is fairly intuitive and well documented and I rank myself as only a few steps above novice .
+1	Accessing the Linksys web site to check on and download new versions of the firmware and the adapter driver has often been problematic .
+0	Version 4 0 If you have earlier versions upgrade to firmware version 4 0 .
+0	Make sure you look under the router by the serial number to find out which version firmware your router shipped with and get it updated to 4 0 .
+0	The WRT54GS is great if you plan to take advantage of the firmware updates .
+1	The firmware upgrade did not help Finally I located the problem .
+0	I also upgraded the firmware as there are a lot of fixes in that .
+0	It worked fine both before and after the firmware upgrade .
+0	I have flashed it to the <p> latest firmware available <p> and have had virtually no problems with it ever .
+1	very good router but i had to pay linksys 30 bucks to upgrade my firmware .
+0	Go to www linksys com and find out if there is an upgrade for your firmware and download it .
+0	Good engineering <p> good firmware <p> crappy software phone support and documentation .
+0	This is a good stable product and unlike a previous Linksys routers I have owned firmware updates seem to work properly without any special tricks reason for this purchase .
+0	One firmware update if you want compliance with the finalized G standard .
+0	The Linksys web site had a firmware update even though I have Ver 8 but noted that you shouldn't update the firmware unless you are experiencing problems .
+0	The first thing you should do when you buy this is get the firmware upgrade and make sure that you running the latest patched version of XP .
+0	The web based configuration interface makes it very easy to upgrade the firmware .
+1	The suggestion from support to upgrade the firmware was useless .
+1	Anyway after trying to reinstall with the set up CD the router kept doing the 'blinking power light' routine indicating there is a problem with it which could be fixed by firmware but it doesnt help because the firmware cant be upgraded as long as the 'blinking power light' is doing its thing .
+0	There is an <p> open source firmware on the net which has tons of extra features <p> .
+0	The fact that has an open source firmware makes it a great option in my opinion .
+0	I upgraded to the newest version of the firmware although I didn't have any problems with the existing one which was seriousely out of date .
+0	The one advantage of the Apple device is USB printer sharing. My LinkSys came with firmware 2 0 2 which is the current version as I write this .
+0	The <p> firmware can be upgraded <p> through the web page UI but I did not try this .
+0	Ironically the latest firmware update addresses this very specific issue .
+0	Even during the firmware updates my roommates did not loose wireless connectivity .
+0	New <p> firmware update allows for automatic wireless network configuration <p> .
+0	I've been using a Linksys WRT54g for some time but recently I installed some open source firmware on it DD WRT .
+0	There are several <p> open source firmware upgrades available <p> dd wrt is the best one I found it is recommended by experts on the web .
+0	I'm now hoping more manufacturers will release their firmware so that the community can upgrade lots of products in this way But for now at least I have a wrt 54g and dd wrt .
+1	There is no Mac software included to set up the router or update its firmware .
+0	I had no problems at all with this unit tried both the December 2002 firmware that shipped with the unit and the newer January 2003 firmware. Linksys is a solid company with great products Another satisfied customer .
+0	It has suited my purposes but I would rather all my devices have the same firmware .
+0	Don't forget to update the firmware on this thing every month or two it's a button on the setup screen easy .
+0	I've however not tried a firmware update because of the issues people seem to be having with it .
+0	'06 firmware so sooner or later I'll have to summon courage to take the risk of updating it .
+0	However they can be fixed and are being fixed in new firmware .
+0	Also third party firmware for this router can't be beat .
+0	<p> Firmware can add many new features <p> not advertised for the WRT54G .
+0	<p> Speed can be slightly increased through new firmware <p> .
+0	It turns out I needed to download firmware .
+0	i have owned this router for years now i would say about 5 and it still works like a beauty always on always going strong it is an earlier version of the firmware because i dont care about the updates if it runs like a champ why change it i went through a netgear in about 6 months i immediately realized how much of a fool i had been for giving money to someone to take their trash yeah it was slow and constantly dropped signals im looking to get a new wireless n router but lately linksys has crapped out .
+1	If you are suffering the wrath of this terrible version 5 model I'd suggest going to eBay and getting a good used one of an older model Just make sure you also get the firmware upgrade .
+0	Keep in mind that more recent versions of it 5 0 and beyond are next to useless for using with third party firmware so look for a used 3 0 or 4 0 version .
+0	With Tomato <p> firmware you have the ability to create QoS settings <p> quality of service something that is not normally found in routers below the $1 000 dollar range .
+0	Now Tomato is 3rd party firmware but it's easy to install it's free and you don't have to be a rocket scientist or a level 3 network engineer to figure it out .
+0	Then I noticed that Linksys had provided a Firmware update for the Router as well as a driver update for the Laptop card .
+0	The only thing the out of box firmware doesn't have that I wanted is DHCP reservations .
+0	However I got a <p> better firmware from <p> .
+0	I recently upgraded the firmware to the latest version posted on the Linksys web site and voila The user interface of the Web setup utility looks a lot more slick than it did before plus they've added a few neat features including a firewall and the ability to restrict Internet access selectively for computers on the network .
+0	Before buying this I read a lot of reviews about having setup problems and it needing a firmware upgrade but I didn't need any of that .
+0	Maybe Linksys already has the <p> latest firmware on the devices <p> now .
+0	My next project will be to try out sveasoft& 8217 s firmware to increase this unit& 8217 s capabilities and wireless range .
+0	Depending on your revision you may be able to place 3rd partry firmware like DD WRT that can make the router more powerful and customizable .
+0	I always like to try knew and better things and would have <p> liked to have the capability to use 3rd party firmware <p> .
+0	I was able to unpack connect configure register the product and upgrade the firmware under 30 minutes This router is very easy to setup .
+0	Also had problems with a firmware update when my IT sophisticated son tried to do it he had to use his laptop connected directly to router which is why I couldn't do it I was advised not to risk a disconnect by trying to do it wireless .
+0	A router is also a big deal for some people who have no idea how to update firmware and I would hope all kinds of modern future hardware will be capable of firmware updates so we can update it with new features like the iPOD does .
+0	You will also need to update the firmware on your PC Wireless Network Card from time to time .
+0	I installed the new firmware and have not had any problems that I see so many complaints about .
+0	With the use of third party open source firmware it exceeds what almost any comparably priced consumer router can provide .
+1	The WRT54G is a good router for basic use but the firmware it comes with is pretty shoddy .
+1	firmware from 1 28 03 it didn't fix my problem As for my equipment I have a Toshiba e740 and a Gateway Laptop with .
+0	Update the <p> latest firmware to run even MORE stable and MUCH faster <p> .
+0	I noticed my <p> download speeds increased after the latest firmware <p> maybe I'm just a really happy wireless user = .
+0	Best part is that Linksys is very diligent in releasing new firmware for this router so new features are constantly being added .
+0	If anything new appears the router has an <p> easy firmware update function <p> .
+0	2 My first call resulted in getting both a firmware update for the router and new install progam these were located at .
+0	And for that reason since it works I do NOT intend to flash the firmware to the latest as the saying goes if it isnt boke don't fix it .
+1	After about 3 weeks of this I was fed up and retunred to the techinical site where I was promted to download new firmware .
+0	Not being a technical guy this process was quite intimidating However I figured out the process and the router has worked perfectly since Still don't know why I was forced to install new firmware Need better instructions Linksys .
+0	I've been very happy with it so far done a <p> firmware update without a hitch <p> .
+0	I recently used the web interface on the router to perform a firmware update and it was a snap No doubt the simplest I have seen The Linksys PCMCIA cards I bought with this unit work well in Windows 98 and Windows XP haven't tried any other OS .
+0	I was an early purchaser of the WRT54G and had a few problems with stability and speed finally the March 03 firmware update has resulted in an excellent product Great performance better price easy setup .
+0	I found out one glitch before updating the firmware that MSN messenger won't work on the Airport card but I can browse internet using browser just fine .
+0	This problem was gone after updating firmware to the newest version. Another setting with Linksys Wireless G card is no brainer .
+0	I did notice some quirks while changing from the default settings which are easy to get back to BTW however have had no further problems since the latest firmware release .
+0	After reading all the reviews on this product the first thing I did was upgrade the firmware .
+0	Also the firmware was only updated through March 2003 There were no configuration changes need though I will make some for security purposes along with downloading the latest firmware. I have used Linksys before and have never had a problem with any of their products .
+0	Be sure to install the Sveasoft firmware .
+1	It ultimately gave up entirely and seemed completely fried after trying to update the firmware .
+0	However despite its excellent performance and reliability and even if my minor complaints are addressed say in future firmware upgrades I could not give this product five stars because the initial installation requires Microsoft Windows .
+0	I do not have any 802 11b cards to support this makes a big difference since the current firmware implementation drops to the 11 Mbps speed if you run in compatibility mode and the 54g may not work that great even then with 11b cards .
+0	I did not need Linksys support but I did use their website to download the latest firmware .
+0	<p> Updating the firmware is easy <p> requiring only a visit to the Linksys web site and a download to your local computer .
+0	The default firmware is good enough for most people and I would recommend it for anyone .
+0	In the end I just couldn't justify investing the time to hunt down a v 4 especially since I had absolutely no need to install or run 3rd party firmware on the router .
+0	I then updated the firmware to rev 1 00 4 my router shipped with rev 1 00 1 and then rebooted the router everything worked without issue .
+0	If you're a Linux 3rd party firmware aficionado look for the version 4 device .
+0	The router initially gave some problems but once I upgraded the firmware it works great now I was having a lot of problems with routers from other companies recently but this linksys router seems to have solved the issue Thanks .
+0	these firmware upgrades and so that is a good idea . This router has the ability to encrypt all wireless transmissions using 128 bit WEP Wired Equivalent Privacy encryption .
+0	There is new firmware for the router and a new driver for the card from the Linksys site .
+0	I only run the DHCP server on the WRT54G and after updating the firmware there I'm very happy with the performance features and user interface on the WRT54G .
+0	ONCE THIS THING IS SETUP IT'S PERFORMANCE IS ROCK SOLID AND THE <p> FIRMWARE UPGRADES SUCH AS HYPERWRT GIVE IT MUCH MORE OUTPUT POWER <p> FOR GREATER WIRELESS RANGE NO NEED FOR THE EXSPENSIVE HIGHGAIN ANTENNAS WHICH DON'T DO MUCH .
+0	I was also able to connect a 1999 iMac DV SE running a 802 11b card though I did have to download new firmware check your version when you configure your router it will save you some grief .
+0	Haven't attempted to upgrade the router's firmware but within the 1st 24 hours after installing this router I have had 0 network drops Overall great product in my experience .
+0	For my unit v5 I had to upgrade to firmware Version v1 00 6 to make it work properly .
+0	You have to reset the unit to factory default and then upgrade the firmware .
+0	I also went into the web based config to look around and it is very easy to navigate and configure I also tried to upgrade the firmware from 1 4 2 to 2 02 2 sucessfully .
+0	I upgraded the firmware from their website with no issues .
+0	The <p> latest firmware upgrade contains a number of great configuration options <p> .
+0	I suffered lots of pain going through 3 before I managed to update the firmware on one without it being permanently killed in the process .
+0	NOTE Regardless of which router you buy always check the manufacturer's website BEFORE YOU START USING IT to make sure you have the latest software and firmware .
+1	The firmware has bugs too so download and install the latest firmware from Linksys .
+0	After installing the firmware hold the reset button at the back for 30 secs .
+0	The UPnP and NAT traversal features have some kinks that will be hopefully fixed in the later versions of the firmware .
+0	<p> Very Stable and great open source firmware <p> support make this the best of class wifi router .
+0	Anyway like the article says you can basically turn your $50 router into a mini Cisco just by reflashing the firmware and tweaking a few settings .
+0	I run a third party firmware on it which allows me to pump up the power beyond the default 50% .
+0	AOL uses their own version of PPoE and Linkysys routers won't work without special firmware .
+0	Linksys technical support told me they have no information on whether or not they intend to provided such firmware for the WRT54G although they do have it for two other routers .
+1	Biggest problem Firmware for WPC54G card missing drivers .
+0	Last year I update the firmware as recommended did not see any improve after that so anyway .
+0	I had one problem after I upgraded the firmware which I think was caused by some important parameter in the device being changed after the upgrade .
+0	I had to go back up into the attic and connect with a wire before I could get it working again Oh and don't ever do what I did do not ever upgrade the firmware over a wireless connection What I was thinking I do not know I am lucky I didn't lose the connection halfway through and render the device useless This device never drops connection so I stay logged into Windows Messenger continuously Great product no problems .
+0	Not even sure why I upgraded the firmware .
+0	I had to open a trouble ticket with LinkSys which lead them to send me multiple page instructions to perform a FirmWare upgrade which is the only way to change the language on the admin panel .
+0	After looking around I decided to go with the Wrt54g becuase of the ability to upgrade firmware to use QOS quality of service controls .
+0	I was able to update it with third party firmware and now I have a much more powerful wireless router at a good price .
+0	Always be careful when you update the firmware .
+0	I found out that the hardware in the device is not to blame but it was the firmware that has many issues and limited compatibility .
+0	This can be done by flashing the DD WRT firmware for this particular router on the DD WRT website .
+0	For those needing help I will list steps that can be taken to upgrade this routers firmware .
+0	Once you do this you can access the routers settings and locate the tab sub tab to update firmware Sorry I don't have access to the interface .
+0	Once you find the firmware update tab there should be an empty box in which you can browse and select a file to update the router .
+0	FIRST browse and select the file containing Nokaid and hit update or whatever the button says in order to upgrade the firmware .
+0	Once you login you should notice that the interface looks different but don't let that distract you look for the upgrade firmware tab again and this time upload the file containing mini bin .
+0	Linksys' firmware supports the usual security features including WPA2 AES encryption and MAC Address filtering .
+0	This router is easy to configure and you can also update the firmware by downloading the updates from Linksys' website .
+0	I have had a few routers One that I detroyed by flashing the firmware Cisco .
+0	I didn't have to upgrade the firmware as it worked right out of the box and well .
+0	The tech worked tirelessly for 45 minutes downloading new firmware and reconfiguring the IP addresses .
+0	The firmware and web interface is very similar to that of the G1 router so it's very configurable and intuitive for the somewhat technically inclined .
+0	I bought this refurbished router mine is version 3 and downloaded the newest firmware from the manufacturer's website Linksys .
+0	It is definitely a very good deal if you don't mind upgrading the firmware yourself which is very straight forward .
+0	Since the reviews were heavily in favor of using dd wrt on this device I didn't even try running it with the Linksys firmware .
+0	In retrospect I had the same problem when I tried to update the Linksys firmware on my old router .
+0	I used the firmware recommended in the Hardware Specific Article on the dd wrt website .
+0	There seems to be a lot of functionality to the dd wrt firmware but I am unlikely to explore it as my goal is a stable home network .
+0	SO I researched for hours on how to upload new firmware to this thing and I'm pretty computer literate .
+1	Note I did not try this router with the included Cisco Linksys firmware .
+1	After reading some of the reviews and complaints about dropped signals I have conclude that it was either faulty hardware or something with the stock firmware .
+0	my router had latest firmware but i was expecting to upgrade via web .
+0	Works as advertised so far I haven't had any issues with the factory firmware .
+0	If I ever really have any issues I would install DD WRT's custom firmware but no need to fix something that isn't broke .
+0	As a loyal user of DD WRT firmware I was sad to learn that the Belkin N600 belkin f9k1102 is not supported by the DD WRT crew .
+1	I'm so loyal to the firmware that I nearly returned it but then decided to give it a chance .
+1	Before this router I didn't think it was possible with out of the box firmware but it's very possible and setup was incredibly simple .
+1	I'm not saying this firmware is a replacement for a hardcore DD WRT user it's certainly less powerful and less tweakable but it fit my purposes just fine .
+1	PLEASE A firmware upgrade that enables all the usb drives attached to this wireless router to be seen in the actual networked local computer desktop portals AND be able to drag and drop upload attach etc .
+1	Then the next day tried to down load the new firmware and low and behold it wouldn't work so I called again and this time the tech couldn't fix it so he referred me to the supervisor who checked everything out upgraded the firmware with the NEEDED user name admin and the NEEDED password password .
+1	It is very stable and provide a tools to <p> update the firmware very easy <p> .
+0	Only issue is with updating firmware .
+0	My attempts at upgrading using Netgear Genie corrupted the existing firmware .
+0	I had to manually restore the firmware .
+0	The procedure for restoring corrupted firmware is not easy to find .
+1	As a good tech I worked with Netgear tech support and they provided a firmware upgrade to version 103 now in beta .
+1	However my router would constantly drop connection and malfunction on both LAN AND Wifi connection just like some previous Netgear offenders such as early firmware WNDR3700 4000 routers .
+1	WNDR4500 had a lot of issues but now most of the issues solved with new beta firmware .
+1	The router can <p> automatically find the latest firmware <p> if you click on the upgrade link in the router's webpage .
+1	There is already a firmware update for this new router which impresses me that netgear seems to be providing ongoing support to improve performance .
+0	Even with the current software you have to leave the application and log in directly to the router to perform any firmware upgrades .
+0	The Mac application also insists on trying to upgrade your firmware even after it's been updated .
+1	It even tells you when there is a firmware update for you to download and install .
+1	All my previous routers didn't work well with the built in firmware .
+1	The <p> firmware works well <p> with the hardware better than the competitor .
+0	The only problem was that the <i> firmware was corrupted <i> right out of the box .
+1	The Router brand new had firmware version 63 installed and it worked great .
+1	So if you are a potential buyer this firmware update is an extra step to take but it is very very recommended to do it .
+1	Firmware upgrades are a SNAP When mine came it auto checks for upgrades when you login as admin and found an upgrade and just d l it to your PC and use the built in update firmware feature .
+1	Both routers use the same <p> user friendly firmware <p> setup and both routers have been rock solid performers without need for rebooting .
+1	The feature set of the 3800 is tops but if Netgear includes them in a future firmware update for the 4500 then then 4500 would be unquestionable king not only because of its amplified signal and 3 antenna spatial streams but also because it has 2 USB ports built in .
+1	<p> Reliable connection firmware <p> version 1 0 1 6 .
+1	In a subsequent firmware update however they got rid of the frame so you could see most of the settings in a single screen .
+1	After the firmware update I found very little about the interface to complain about .
+1	After upgrading to the latest firmware from Netgear's page my speeds improved greatly .
+1	It hasn't locked up once and I've only had to reboot it when I did firmware upgrades .
+1	I do see that the router already has a firmware upgrade it may be that these bugs are all addressed in the update .
+1	After setup a new user should immediately update the firmware through the admin page as it not only fixes some issues other reviewers have reported but also adds in detailed instructions on how to connect a printer to your network .
+1	So far so good future firmware updates should make this router even better .
+1	Firmware updates are not that helpful except for the first one the boosted range of the 5ghz band and also not frequent maybe about one update per couple of months and each one only fixes 1 2 specific bugs .
+1	<p> very simple to configure firmware <p> .
+1	my old wnr3500 almost can not work correctly with USB with factory firmware .
+1	no third parties firmware DDWRT Tomato etc .
+1	The replacement router came in with newer firmware I noticed this seems a lot more stable with the Netgear range extender I have out in the far corner of the warehouse .
+1	Stay away from the 750 series I was told they are having some firmware issues which will be repaired soon .
+1	The N900 router works well and the <p> firmware updates are frequent <p> and have solved problems .
+1	I bought an Epson printer that handles PC and MAC then Netgear's firmware was upgraded to allow printing from the iPad .
+1	I'm hopeful these inconsistencies will be addressed with future firmware revisions .
+1	It offered an online Firmware upgrade right away that also worked without a hitch .
+1	In doing so I had external Internet access immediately and promptly <p> updated the firmware via the auto update <p> and afterwards set my custom LAN configuration .
+1	I did not upgrade on the firmware from Netgear read some reviews that gave some problems .
+0	UPDATE 8 16 12 After updating to the most recent firmware 1 0 1 18 this router has become extremely unstable needing multiple resets a week .
+1	I did update the firmware immediately upon installation .
+0	Using the web browser to configure the Netgear router I see a defect in it and even with the newer firmware it is not fixed .
+1	It also had a firmware update but the device performed the update quickly and automatically without any trouble .
+0	As soon as i upgraded the router with v1 0 0 7 firmware the router started dropping signal every 20mins or so .
+0	DO NOT use netgear genie to upgrade your firmware It will say your firmware is currently up to date while it is not .
+1	It informs me of firmware upgrades and self installs them very cool .
+1	<p> EXCELLENT FIRMWARE <p> The quality of your firmware can make or break almost any product .
+1	Netgear has done a terrific job by providing a <p> fast and very responsive firmware <p> with the the N900 .
+0	Some had <i> buggy firmware interfaces <i> that would fail to load or save settings or would loose their internet connection and corrupt their config file when you changed something as far removed as adjusting the time on the router's internal CLOCK The list of problems with these now returned units is longer than my arm so I won't bore you with all of the details .
+1	I have always been a big fan of third party firmware such as Tomato and DD WRT but I must say the the NetGear factory <p> firmware Genie is a pleasure to use <p> and offers all the features I need from my main router .
+1	I also liked the fact that NetGear is updating this product's firmware on a pretty regular basis so it will only get better even though it is running like a top with the latest version .
+1	They both were running the latest firmware as well .
+1	This time the router already had the latest firmware which tells me that it might have been manufactured more recently than the first one I recieved .
+1	When I first booted the config page up I saw that Netgear had a new firmware available for the device which increased performance of the 5GHz signal it's nice to see they're already posting improvements .
+1	<p> Firmware updates are exceptionally easy <p> to do on this router it pretty much handles everything on it's own .
+1	And yes I did upgrade to the latest firmware .
+1	That said I can't really complain about anything the setup was a snap WAN LAN WLAN both radios it automatically notified me of an available firmware update as soon as I got it online downloaded installed with the click of a button wireless coverage is much better than my old Linksys and so far it has handled my home office traffic with ease .
+1	Has all the features I want including <p> easy firmware upgrades <p> .
+0	Like many have mentioned you must download the firmware update in order for it to perform adequately .
+1	Also did a firmware update single click of the notice that it was available .
+1	Since I got the router there have been about three firmware updates a sign that the router is being actively supported .	.

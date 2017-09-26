@@ -1,0 +1,670 @@
+1	The internet was continuously going out for no apparent reason, and we knew it had to be either the router/PC cards, or Comcast's signal (the cable modem itself was functioning properly).
+0	Sure the signal was stronger after i installed the Range Expander, but it was less reliable do to all the dropped connections.
+1	And yes, I was using latest firmware bit the bullet and ran wire directly to the room with the week signal and do not regret the effort.
+1	4) At best my Asus Wireless n got me a 65MB compared to 54MB for my old g card, but the signal faded very quickly to 34MB.
+1	11g and through 5 layers of walls and a floor, the signal strength is poor compared to the rangemax which is average according to the strength bars noted on the xbox, and sometimes drops altogether.
+1	The unit performed well for almost one year, the I started losing the wireless signal when the portable computers were moved only a few ft away.
+1	This unit did not even work - <i> no wireless signal generated!
+1	The problem has gotten worse - I have installed the latest firmware for this router - still loses its signal every five to ten minutes.
+1	It is almost like the silent recalls on autos - they probably feel it is not worth it to resolve this issue Hooking the computer directly to the Comcast cable modem by ethernet resolves all lost signal problems  - so I know it is the Linksys router.
+1	This slowed the signal to a managable rate and allowed the modem to function.
+1	Pros:   Strong signal, will feed your all your neighbors with wifi.
+1	Router was easy to set up and configure with good strong signal.
+1	Without putting much thought into its position (it is a floor below where I typically connect to it from), my signal strength ranges from 'very good' to 'excellent' (so says windows).
+1	It no longer broadcast a wireless signal <i>.
+1	I can't connect to internet wirelessly, despite strong cable signal.
+1	I have a small low-signal zone in one corner of my house and I thought this product would be the perfect solution.
+1	Before installing this, I had about a 10% signal at any given time, and it would take about 2 minutes to download 10 megs or so, which is REALLY slow given my cable connection.
+1	After the incredibly difficult (I have set up quite a few wireless networks before, and I do IT consulting for a living, so I can only imagine how difficult this must be for someone without networking knowledge to install) setup process, my signal downstairs did improve dramatically, to 95%, but the speed seemed to be reduced even further, to the point where it was near unusable.
+1	Well, the signal dropped off at the same spot and to the same level of weak-signal as the $30 router.
+1	4GHz signal range dropped down to about 10 ft.
+1	Interestingly, the 5GHz signal is fine, but not all devices support 5GHz (iPhone, iPod, etc do not).
+1	Both routers I tried were Version-B; however, even though the wireless connection showed 11mpbs, 100% signal strength (since I was only 3feet away), yet was very slow, about 2k transfer from the internet.
+1	I have two areas I wanted better signal and I can't seem to place it in an area where it improve both areas at the same time, so I move it 15 ft one direction or the other depending on what area I want to use.
+1	You can even use an ethernet cable between them to move the AP into an area where the  <i> signal is weak <i> .
+1	GPS  <i> loose signal <i>  every 3 minutes, and it doesn't pick up signal ever again.
+1	After I changed all those settings back, and disabled my wireless router's encryption, used the Auto Config to make the repeater both lights blue (signaling ok to connected to my wireless router).
+1	In one corner of my house, my computer was able to pick up the router's signal, but this repeater couldn't!
+1	GPS has a very difficult time receiving a signal.
+1	The excitement quickly vanished when I walked 10 feet away from the access point and the signal dropped to 50%(clear line of sight) about 25 feet away, through 2 walls, the signal and connection quality was poor or non-existent if I moved my hand or arm in front of the card.
+1	After a convoluted set-up, this unit continued to be hassle with constantly dropped signal <i> .
+1	For multiple laptops and a powerful signal spend $20 more and buy a Linksys.
+1	The set-up was easy and the hard-wired part of the router worked, but it didn't broadcast any wireless signal.
+1	It also puts out such a strong signal that you might not even need a repeater for your current dead spots!
+1	It was difficult to get a satlelite signal and it locked up.
+1	Unfortunately it didn't increase the signal strength and it kept fading in and out.
+1	The only good thing I see with this is good wireless signal strength.
+1	If you are using this for just chat and email this is probably an okay router with pretty good signal strength.
+1	signal was strong but there was no Internet connection.
+1	It shows I am connected and it shows I have a strong signal but I am unable to do anything and the little monitor in the task pane indicates it isn't doing anything.
+1	Just about the instant I do that my laptop will connect directly to the router, albeit with a  <i> weak signal <i> .
+1	2-3 minutes later my laptop will connect to the RE and I am back online with a good signal.
+1	The Belkin router won out for three reasons: First, it beat the D-Link in range (distance) tests: It was able to sustain a wireless signal across a greater distance and at a greater strength than the D-Link DIR-655.
+1	I had this router for 2 months and it stopped sending out the wireless signal.
+1	21 have caused problems with port forwarding,  <i> signal loss <i> , and freeze ups.
+1	This device worked well for about 8 months boosting an open signal from a WRT54G router.
+1	In rooms across the house from the router the signal went from " <i> no signal <i> " to "very good.
+1	Also the  <i> signal quality was not great <i> .
+1	I purchased a laptop from Dell and it received the signal much stronger from anywhere in the house without the range expander than my PC did with it.
+1	After that, the wireless signal would drop out and not even broadcast the ssid.
+1	The GPS unit is impressive, but mine kept dropping the satellite signal and recalculating to a different destination.
+1	<p>As I moved the computer to the other room to show my wife how this was going to allow her to stop using the dial-up service that she had been using, the  <i> signal dropped off <i>  significantly.
+1	I could connect a few feet away, but walk 10 feet and the signal started to fade.
+1	I decided to return the device not simply because of the lost signal problem but also based on Garmin's poor customer service.
+1	I am not happy about it's near useless wireless signal <i> ,it took me two days to finish set up right.
+1	The  <i> signal strength problem <i>  that lead to my purchase was due to a bug in my WRT54g's firmware (2.
+1	That's ok when your option is no or very low signal strength.
+1	4 firmware, I am currently running at between about 36% and 52% signal strength, which provides a minimum of 36 mbps, higher than the maximum 27 mbps (54/2) that the WRE54g can deliver.
+1	And, because my signal strength is lower, my signal is more difficult for intruders to detect and is less likely to cause interference with my neighboors.
+1	If you need more signal strength, consider Linksys's new high strength antenna.
+1	Except, my wireless pc upstairs saw the device and the signal boost.
+1	The upstairs pc, however, listed two identical SSID's (later I found out this was normal, but it was not mentioned in Linksys's documentation or on their website), one with low signal strength and one with high.
+1	We watched one Netflick using the old Belkin and we had about 6 interruptions for dropped signal <i> .
+1	* The range of the router was really poor, and I had to purchase an additional anntennae for $50 to make the signal reach through several walls into my living room.
+1	The signal must be very small or non existent.
+1	No signal of life after one single day using it.
+1	This router was a gift; I have set it up with the factory firmware and no one complained about the WiFi a signal dropping <i> , or slow connection speed.
+1	Remember, even with a 10% signal strength, you are still able to surf the net without a hitch.
+1	I replaced a Linksys wireless router in the same spot and signal strength is half or less.
+1	Overall, it does expand my network and gives me higher signal quality, especially when I run my microwave and washing machines which usually interfere with the wireless to some degree.
+1	The signal are better than the D-Link 614+ I just bought.
+1	This router never did work right mostly because of dropped internet signal and complicated set up with instructions written in geek speak.
+1	At first it seemed fine, but then it could not detect the signal.
+1	If I move to the bedroom which is about 25 feet away and has two walls in between, signal floats between medium, poor, and none.
+1	I did have to move the unit around to get a good signal throughout my two story house.
+1	It doesn't have any stronger of a signal than the cheap wireless router I was using.
+1	Despite the 3 antennas not getting great signal strength on the next floor up.
+1	It took me less than a half hour to set up and get running with all three of my laptops (including using WEP security), and the signal from the D-Link router is much stronger throughout my house than the Linksys ever was.
+1	For the most part, it did, but, especially in less populated areas, it kept losing the signal <i> , sometimes at crucial moments when I had to turn.
+1	Now the internal adapter senses the network, but the signal strength is so low that it cannot sign on for more than a few seconds, if at all.
+1	Worked for a few months then I noticed it kept dropping the signal and internet use.
+1	The Extender DOES NOT boost the wifi signal, just "repeats" an already weak signal into a far corner of my house.
+1	After I repositioned the Extender several times I finally did get a decent signal.
+1	No details were given, just insinuations that somehow magical hackers had  <i> caused my signal to disappear <i> .
+1	11b PC cards, and the  <i> signal strength was worse <i>  than the BEFW11S4!
+1	If I don't, my computer shows an excellent signal but I have limited or no connectivity.
+1	Pros: -- Great screen: the display is plenty large & bright to see easily Cons: -- Utterly unreliable in acquiring satellite signal.
+1	Leaving Cincy, I had my first taste of what was to become a week of frustration: it was unable to find any satellite signal.
+1	I'm on I-71 (flat terrain) on a perfectly clear day and it can't find a signal?
+1	Two hours later, it finds signal again only to lose them in another two hours when I was on I-81 with another perfectly clear day.
+1	getting excellent signal strength all the way by my pool which is approx 45 feet away and behind several walls, tv's and computers.
+1	But sure enough I set the router up and on the other side of one wall  little to  <i> no signal <i>  being less than 5 feet away.
+1	Now I have no signal repeater and have lost the ability to get online with my laptop.
+1	Worked fine with a Linksys G wireless router, but when I switched to a DLink router (the Linksys died from a power surge), the Expander become unreliable, frequently  <i> dropping the signal <i>  & requiring repeated setups.
+1	Big and small problems -- requires a cable to initiate setup, complains when internet not connected, requires (for me) at least daily reboot, <i> low signal strength unless nodes are close, etc.
+1	I followed the directions carefully, and after about the 6th location in my house, I got the two flashing blue lights to go steady indicating it found my household wireless signal.
+1	I purchased the PCI card for the computer and it had a very weak signal <i> .
+1	<p>Across the hall in the next room my Laptop is at 0%-3% signal on this thing.
+1	It set up real easy but I keep losing the signal for no apparent reason.
+1	Also signal doesn't seem very strong lots of times.
+1	One nice feature that some of them add is a boost to the send/receive signal from the router.
+1	Now, after 8 month of troublesome experience, the wireless  <i> signal is totoally gone <i> .
+1	Both my laptop, pda cannot identy a wireless signal at all.
+1	I bought this because my router would not get signal to my bedroom, and it's only a single level house, 1800 sq ft.
+1	Without the booster, I could sign on but had a weak signal <i> .
+1	With the booster I had a very strong signal, but could not sign onto the Internet.
+1	Same spot that we have always connected using the old router at full signal strength in both cards.
+1	The quickest route took me along 45 miles of two lane highway with several traffic signal, only to save 2 minutes over the freeway route!
+1	I called them because the brand new Wireless-G Range Expander (WRE54G) from Amazon was not providing a strong enough signal for my wireless laptop to pick up, even when they were side-by-side and in the same room as the wireless router.
+1	The first unit had very poor signal strength and quality.
+1	I could not stream HDTV due to  <i> too weak of a signal <i>  no matter what I tried, so I decided to buy this router.
+1	I went and connected the x-box to the new router and was very disappointed to see that  <i> signal was actually worse <i> .
+1	<p>I have to unplug the power to the router frequently to get it to reconnect to the internet (daily lately), and sometimes it just  <i> stops broadcasting a wireless signal <i> .
+1	However, the signal was poor <i> .
+1	After a couple of days, I have a strong signal in every part of the house (2 stories) and usually a 54 Mbps connection.
+1	I purchased the 3700 solely for the 5gz signal.
+1	Using multiple settings, updated firmware, more than one laptop, and searching various forums I could not get the 5gz to hold a steady signal.
+1	After about 2 hours of mixed signal, changing from dynamic to static DHCPs, etc, I called tech support.
+1	The signal is unreliable <i> .
+1	Now it has very little signal strength.
+1	I keep the router in my basement near my server and I can get a strong signal anywhere on my property.
+1	(7700 sqft lot with a 1850 sqft ranch house with full basement) I don't have any portable devices that use n yet, but my g devices all get strong signal now.
+1	Knowningly I use WRT54GS for router, and even bought HGA7T for "supposively" stronger signal strength.
+1	I found G is better than N in range of signal.
+1	<i> Loses signal in tunnels, big cities, and when tall trees are around, which makes it basically useless when it is needed most.
+1	The TomTom just grays out the screen to indicate that it doesn't have reception but continues to plot your path at your last recorded speed, then gracefully picks up again when it regains a signal without distracting the user with a pointless button push.
+1	Matching speedbooster wireless card connects to the internet only when it feels like it, even in the same room as the router and with 100% signal strength.
+1	The signal strength is good and the product is reasonably priced.
+1	I recently bought this product and set it up and it was working great for 24 hours when the whole unit just  <i> stopped broadcasting the wireless signal <i>  completely, so i restarted it and the signal came back.
+1	It either drops the wireless signal <i> , or lock up network connection on wireless side.
+1	The signal is strong, and it isn't a huge chunk out of your wallet to buy.
+1	There's no real way to tell if this thing will grab a weak signal or not.
+1	The installation directions are simple if you don't put a security lock on the device, but I've been in situations with it when it grabs and amplifies the signal, and some when it does nothing.
+1	This router lasted about a year then it started dropping wireless signal <i> .
+1	It needs re-booting way more often than it should, and drops the signal too often, but you probably cannot expect top of the line quality at this price.
+1	Robust, strong signal - what more could I want?
+1	<p>- <i>  strength is appalling <i> - unlike the ma314 the build quality (plastic vs.
+1	metal in the ma314) is substandard - trying to mask the ssid results in extremely poor connection and dropped signal stays dropped<p>stick to the old style and don't worry about "g" - it's not ready - i'm running "b" now and it's the only way to get a half decent signal.
+1	I bought the Netgear WGT624 wireless router and I get FULL signal, thats right, 99% signal where I only got 50-60% (if I was lucky) using my "Expanded" Linksys network (with the Linksys high gain antennas too!
+1	D-Link DIR-655 Extreme N Gigabit Wireless Router signal strength was no more than half the linksys signal.
+1	It also happened already once that after passing a tunnel it lost signal and then it wasn't able to find any satellite until it finally stopped working, we ended up pulling over to try to find the address with my cell's GPS, about 1 hr later it came back to life and continued providing driving directions like nothing happended, of course we were already at the restaurant having dinner.
+1	I will keep posting as I get more time with this unit May 25, 2011  <i> Loss of GPS signal <i>  happened again today.
+1	Second, the signal strength is terrible <i> .
+1	I setup my old LInksys in place of this and I can get a full signal in rooms where the Netgear doesn't even show up.
+1	Wireless signal is VERY strong - just stops accessing the outside world.
+1	I noticed that any time my laptop detected multiple wireless signal, my wireless connection would fail.
+1	Later a friend gave me a Linksys Compact Wireless-G router that had the very same problem with its wireless signal dropping whenever there were other wireless signal in the area.
+1	It only worked when I gave it to my parents, who live in a remote area where no other wireless signal can interfere with the Linksys wireless.
+1	atleast for me as I sit about 12-15 feet from the router and get Excellent signal at 54 Mbps and can transfer large files(when it doesnt keep disconnecting) with amazing speeds.
+1	In addition to the sync problems and lifeless customer service technicians, the two antennae wireless router has some of the  <i> weakest signal <i>  strength I have seen.
+1	I had to purchase an additional reception antennae for the computer 45 ft away from the router in order to get "good" signal strength.
+1	Then it took 5 minutes more to set up my 2nd computer to the wireless signal.
+1	I tried just about everything, including updating the latest firmware, but still no luck with signal improvement.
+1	Although this isn't a long range router the signal reaches through my walls and into another room.
+1	Many times I reset the router and the signal came back.
+1	This also includes some direct router connections, not just the wireless signal.
+1	I disliked D-link for 2 big reasons: (1) The wifi signal would disappear and only a hard on/off would make it work.
+1	The  <i> signal strength is much lower <i>  on all devices being used in the same places throughout the house.
+1	Worse yet, the signal is dropped entirely at intermittant times meaning streaming video is a nightmare to watch.
+1	I get strong signal in my bed room closet that is at the other end of the house that WRT54G had trouble.
+1	After that, <i> signal drops quick.
+1	I don't know whether I just got a bad one, but the wireless range and  <i> signal strength are terrible <i> .
+1	As a concrete example, in the next room a mere 20 feet away with nothing in between other than a little drywall, I only get 2 signal bars on my Kindle.
+1	There are four routers in my neighbors' surrounding houses which are penetrating my house with a stronger signal than this router IN the house.
+1	It doesn't supply a decent wireless signal within a regular house, even at short ranges.
+1	My wireless  <i> signal disappears <i>  once in a while (even cannot find the router in wireless connection list).
+1	Wirless signal very average and not upto its class as claimed in the product description 3.
+1	All was fine until a couple months ago when the router's signal started deteriorating <i> .
+1	Now the signal is so weak <i> , I have to be in the same room to connect.
+1	Email support was able to verify what I told them, that my router radio signal were defective.
+1	Pros - easy setup Con - crap range and signal strength - overpriced - Broke after 3 months of use - unit is garabage.
+1	However, when I moved approximately 20 feet from the base, the quality of the signal was very poor and did not work.
+1	My router simply decided to stop sending wireless signal a little over a year after I bought it.
+1	Problem is that I still get marginal signal sitting only 2 feet away from the router and it still drops connection every half hour and I have to spend a lot of time getting it to work.
+1	Sometimes it is slow to pick up the signal so I can not give it 4 stars but it is a good product that is easy to use.
+1	Had trouble with the auto programming due to a WIFI network in my neighborhood over took the signal from my router.
+1	However, remember you wanted wireless, so don't complain about signal strength when you're 100 feet away from the router.
+1	Without this problem, this unit is very good with a big screen and fast capturing of satellite signal.
+1	Perhaps the more tech-savvy people among us have been able to figure out what ails the  <i> dropped-signal problem <i>  of this product (as described in other Amazon reviews), but for those who do not want to be overwhelmed with techno-jargon, steer clear of this product.
+1	The  <i> signal is weak <i> , despite the fact that the router is only 10' vertically and 20' laterally from the receiving computer.
+1	I bought this product to provide wireless coverage at around my apartment, as the concrete walls caused a significant signal drop <i> .
+1	The first problem you might encounter is obtaining a signal.
+1	By the time I leave the garage for a signal (it's a big garage that houses over 300+ vehicles), the GPS will ask me if it wants to continue searching for a signal <i> .
+1	foot house, boosting a weak or low signal to excellent but you must have the Expander placed nearby your farthest laptop or work station for it to work.
+1	All in all it was 58-59 minutes of screwing with the PC and 1 minute to verify that the Mac could find the signal.
+1	After less than two years, the signal became spotty <i> .
+1	I live in a studio, and the strength signal bars (Mac computer)would go down considerably by just going to my back porch.
+1	With my Belkin pre-n I could go to the end of my driveway, which is over 300' before I  <i> lost signal <i> , in my house I always had full bars.
+1	When I replaced it with the dlink I could not get a signal in the far end of my house where the bedroom is, plus my iphone could not connect even on the deck!
+1	I eventually got a signal, but the speed was actuallly slower.
+1	And the most major problem is the  <i> poor signal being received by my other pc on a wireless linksys card about 250 feet away from the router.
+1	Wired access was intermitent and wireless  <i> signal were never detected <i>  even tho' the laptop was only 8 feet away from the router.
+1	I re-entered all the settings from the day before, but  <i> no wireless signal <i>  was detected.
+1	This router does not produce a reliable signal, once a day it has to be unplugged and plugged back in which never happened with my old router using the same ISP.
+1	The 614 would sometimes fail to connect devices/computers/printers, sometimes would show a ' <i> low signal <i> ' at the device side, and would seldom recognize my HP wireless printer, so I moved everything back to my Netgear 624 which worked calmly and well.
+1	I think the 614 is higher powered in terms of signal, but its software or electronics or both are faulty.
+1	I developed a scheme: each day, power down the unit and power it back up, to keep signal strong, etc.
+1	I live in an all concrete house and my laptop upstairs has no problem getting the router downstairs and the signal is strong.
+1	The Netgear doesn't seem to punch through walls as well and the signal to the guest house on his property -- about 50 feet away, is much poorer than the Draytek.
+1	In conclusion, I think the Netgear will be acceptable,  <i> signal coverage issues <i>  not withstanding.
+1	Then went to other side of apartment, where the old apple airport would still give 5 out of 5 signal strength.
+1	Takes too long to locate a GPS signal.
+1	Things would sort of be OK for about 5 or 10 minutes, and then it would be back to signal dropping <i> .
+1	So when the signal gave me 5 glorious hours up uninterrupted service I got cocky.
+1	I was unencrypted and dropping signal every hour or so, but I was at least speedy.
+1	I have not yet used the Linksys wireless notebook card, but the Microsoft wireless notebook card I have is giving "low" and "poor" signal strength readings 40 to 50 feet away indoors.
+1	I will try raising the router higher and later, if I have to, I'll get a Linksys signal booster, but I shouldn't be having these problems at such short ranges.
+1	It doesn't connect well with the 2WIRE, always loses signal <i> , and I found its better to use the internet with out plugging in that useless junk.
+1	The thing is, it needs to sit in a "sweet spot" between your router and the receiving device so the router signal isn't too weak, and neither is the extender's.
+1	I realize the 5G signal loses strength quickly traveling through walls but that is excessive.
+1	In that time, the router would randomly drop the wireless signal <i> , ALOT.
+1	Bought it in November, and slowly the  <i> signal decreased in strength <i> , speeds dropped, gaming consoles and laptops disconnected, and finally, a firmware update destroyed it.
+1	The indicator lights don't always work, and the  <i> signal strength is not predictable <i>  at all.
+1	Before I even called customer support I had 2 blue lights and a full signal on my wireless comp but I couldnt access the internet.
+1	100BaseTx users can continue to use the net, but signal strenght on wireless connections drop from 68-84 down to 0!
+1	It provided service to a section of my house where my main WiFi  <i> signal was too low <i> , the signal was in fact significantly improved.
+1	No matter what channel I selected and after applying the latest firmware and recommended technical support troubleshooting, the signal strength was always "very low" and communication from the remote PC via the WUSB54G adapter was consistently intermittent.
+1	4, and the signal strength is full-on (at least that is consistent), so I don't see why I am not getting better performance.
+1	Called technical support and was told that the signal could not go through the floor and a few walls.
+1	As soon as I left the room, the signal degraded <i> .
+1	In the last month I can barely walk 15 feet away from my router without  <i> losing my signal <i> .
+1	Having moved to a bigger house I noticed my wireless signal weakened a bit so I decided to purchase the Liknsys Wireless Range Expander.
+1	After setting it up and talking to tech support for  2 hours, I still get the exact same signal (very low) as I did with the old g-class router.
+1	I have a 1850 sq ft house and I wanted to be able to use the wifi in the back yard but didn't get much of a signal with this Linksys.
+1	Belkin has slightly stronger signal and I've been very happy with it.
+1	i bought this router hoping to get signal range improvement over my current belkin 54g router.
+1	Only pro's would be that when it worked it sent out the wireless signal a lot farther then some of the linksys routers that I have used.
+1	I wouldn't but another one the range sucks on it unless you plan on being in the same room or very close to it don't expect to get a good signal.
+1	If you're willing to spend the time to get it to work, it gives great signal!
+1	I can't see the extender in my network, but I definitely went from a poor signal to an excellent signal, and I can see the blue lights start to blink on the extender when my Vista latop connects wirelessly.
+1	with only two bars of signal strength, but it just seems to me that the performance should be a little better.
+1	I've used this product for about 5 months or so and was a bit disappointed with the signal strength of my computer connected to the adapter after the first hour of using it each time.
+1	When you first plug in the adapter to the network, its signal strength is described as "excellent".
+1	After that such time, the signal would constantly cease to work, but then to kick back up to the  <i> "poor" signal <i>  strength every few minutes.
+1	I would expect that the signal strength would not fade to minimal or none after viewing that description, but after short usage or minimal intereference (i.
+1	The average signal strength is now mostly "very good", every now and then rising to "excellent" or falling to "good".
+1	The product is good as far as signal strength and range.
+1	I wanted extended range so my iPhone would get a stronger Wi-Fi signal in my basement, but it's really no different.
+1	The extender seems to TRY to boost weak signal, but garbage in is essentially garbage out, despite it saying 100%.
+1	I will routinely have full wireless signal strength, but the router will lose it's internet connection.
+1	It took a long time to set up and program properly with the base unit, it frequently drops the signal <i> , and we have to reboot it.
+1	This replaced a Netgear BEFW11S4 router, which was hideously inept at keeping its wireless signal up or doing port-forwarding.
+1	As I work, I can see the wireless signal drop from full strength to nothing for a few seconds, then come back.
+1	At other times, I've turned on a computer to find the  <i> signal gone <i>  and unwilling to come back - this can be fixed by plugging into an ethernet port, visiting the configuration page and simply "OK"ing the wireless settings, without changing anything.
+1	The current one is very slow and wireless signal is weak weak and weak.
+1	I'm inside my house trying to plan a route, I really don't want to go outside and drive around to acquire a signal.
+1	But when I moved the device to a more distant part of my network (once again with solid blue light on), the broadcast signal was no stronger than when the device was disconnected.
+1	<p>That said, my computers on two separate floors are enjoyning high signal strength and  shared internet connection.
+1	Worked just fine a distance of four feet computer next to unit), but unable to get any signal for other two computers that are upstairs.
+1	I purchased my router from bestbuy, and after a month of use, I kept getting disconnected from my wireless connection and the signal would decrease as soon as I connected.
+1	Strong signal, good interface, and streamed data perfectly.
+1	If your home is large or has thick walls, I wouldn't expect the signal to travel through every part of it, however.
+1	My first complaint is that the router comes with the signal strength at a default of 50%.
+1	Called technical support and was told that the signal could not go through the floor and a few walls.
+1	As soon as I left the room, the signal degraded <i> .
+1	Literally need to stand next to it to receive full signal strength.
+1	I bought this Expander because the computer in the farthest part of the house drops the signal from time to time.
+1	I almost always get a "good" to "excellent" signal, but sometimes I get <i>  no signal <i>  at all with this computer.
+1	The little light stayed red (instead of blue) indicating that it couldn't find an Internet address even though it was well within range of the signal.
+1	Even though I couldn't get an Internet connection through the Expander, my computer could see the Expander and find the  <i> empty signal <i> .
+1	In most cases during my attempt at configuration, the Expander's signal was one "bar" less than the original Access Point in the basement.
+1	I have this router set up in my basement, and I receive the signal on the second floor my house.
+1	Currently, although I am happy (sadly enough) to say I can use the internet with this darn thing hooked up, I cannot get it to produce a wireless signal.
+1	I generally got around 75% signal strength with that unit, whereas the WNDR3700 did achieve a signal strength into the room around 95% (it just did not get along with the dlink adapter).
+1	The old MSN version with connected cellular signal produced a color coded road map that displayed (on 2D) all highway traffic conditions in the area of the map - over large areas if zoomed out and over more focused ares if you zoomed in.
+1	The lifetime free traffic only works in larger cities (dependent on a relationship with a broadcast FM station to use a portion of their signal).
+1	At the start it  <i> stopped giving off a signal <i>  on its own, don't know what the cause of it was but it seems to be working fine now.
+1	It works fine I have good signal strength where I need it.
+1	, when WRE54G is on my network, it provides great signal in the room where it's installed, and it works at first, but after a time it fails to allow Windows to pull a valid IP address, resulting in no Internet access.
+1	I'm moving on to try the HGA7T instead - a fraction of the price of the WRE54G, much simpler solution that should be "good enough" and provide a stronger wireless signal that has better coverage than a single room (oh yeah, the WRE54G supposedly only boosts the signal significantly in the room in which it's installed, and the antenna should increase the signal broadly around the house).
+1	This is important if you want to replace the antenna with a larger one or attach a signal booster.
+1	Many of these signal-boosting products state that they are compatible with the WRT54G, but they are not always.
+1	<p>The router signal strength is adequate but not impressive.
+1	I had to try two wireless cards in my PC before getting a signal (but this may have been the fault of my first wireless card).
+1	I thought I would buy one for myself, but it didn't work the same way and it kept losing the satellite signal.
+1	But dont expect to go a hundred yards into the public park and get a signal.
+1	Immediately saw increase in signal strength on all my computers with wireless adapters (desktop with linksys usb wireless adapter, dell laptop with intel wireless minicard, dell laptop with pcmcia wireless adapter).
+1	I unplugged the range expander, and my internet speed rates increased back to my normal rates, albeit with a reduced signal strength.
+1	We (Cisco and I) eventually got it in sync with my wireless router but it only amplified the signal by approximately ten feet, if that.
+1	I find it amazing that I was replace a 2Wire a/b/g router with one rated at n only to receive a poorer signal.
+1	With Linksys support on the phone, we figured out that the link was in fact increasing the signal percentage on other laptops in the house.
+1	What a joke, it's actualy slower, <i> looses its signal very frequently.
+1	The signal strength says 60%, but that does not seem sufficient.
+1	During the few times that I have used this GPS I found outthat sometimes it would not find the satellites at all, and you will only get a red (x) @ where the signal strength icon is, then you are stuck.
+1	Nothing but a pain in my butt week signal and my computer is literally only 20 feet away they say thick wall affect it but I dont think they are that thick.
+1	Like many of us I needed to expand my wireless signal to another building.
+1	The wireless signal was decent, but not a significant improvement  over my 802.
+1	Another real plus was the range of the wireless signal on both G and N.
+1	Then when it was set up it dropped the signal several times a day.
+1	If you are getting  <i> poor signal <i>  strength, first disconnect the batteries from your 2.
+1	If signal strength is better with the battery out or worse with the phone in use, do NOT buy an expander.
+1	Wireless clients show strong signal strength connecting to the box, and indeed the box's 'wireless lan link' light is lit.
+1	It does not give you stronger signal than any other unit!
+1	The signal is weak <i> .
+1	It covers a two-story home with signal strength over 50% every corner.
+1	Multiple random signal drops are a daily occurrence.
+1	Overall, I am very happy with the way this router works, it has a strong signal and allows me to work at the levels I would expect from a wired connection.
+1	8Ghz signal was 2 bars higher than the 5Ghz just one room away.
+1	Of course the wireless signal is weak in this situation and naturally an expander should be the ideal solution, but why force it to depend on cords?
+1	The first one worked for a little over a year, and suddenly stopped broadcasting a wireless signal.
+1	I got the Netgear and It was easy to set up but the signal is horrible <i> .
+1	I am on the second floor and getting  <i> very poor signal <i> .
+1	The signal is line of site with some ability to bounce into an adjacent room.
+1	We've had this router for about 10 months and it's now sending very weak and intermitent signal.
+1	I was hoping this product would raise my poor signal I had downstairs.
+1	And often I have the signal, but not the internet connection, and that's a problem of the router, because when installing again my old router, all these problems stops.
+1	I bought this router and I would get signal only about 25% of the time no matter how close I was to the base.
+1	Their customer service people had no idea what to do and told me other people's router were crowding my signal (I live in New York City).
+1	Not to mention that if highway traffic really IS bad enough that it should be avoided, by the time the FM signal gets picked up and the 1490t churns through the data, it's already too late.
+1	My Porsche is fast but faster than a gps signal, I don't think so.
+1	I owned this router for 9 months, works perfectly once I tried and error to different version of firmware and connection is speedy, steady and no drop signal.
+1	Problem came yesterday, the  <i> signal strength suddenly dropped <i>  from Excellent to Low, I am still able to achieve very high speed traffic at 270mbps within 1 feet from the router.
+1	I declared no firmware changed, nothing was changed, but dropped signal strength in a sudden.
+1	I tried to upgraded and downgrade a few firmware, nothing improve to the signal strength.
+1	How annoying when at the same time, my next door neighbor's Linksys router is sending a nice clear consistent signal.
+1	What's worse, it doesn't like someone trying to connect directly to the Expander itself; remember, it's nothing more than an access point at its core, so it should still be broadcasting a local signal which should do a private IP; it does, then shuts down and refuses connections.
+1	My environment is not electrically noisy, either - this thing just doesn't have the power to do anything but short line of sight transmission, and connections die while the status monitor still reports signal strength as "very good".
+1	Works pretty good until you or your neighbor get that microwave oven going, then signal's gone even if the router is within 10 feet from you.
+1	Works well, sometimes there are some issues with the signal probably because there are a lot of wireless router on the same building.
+1	4 Ghz cordless phone or a microwave oven thats interferring with the router's signal.
+1	********************************************* NETGEAR WPN824v2:  Has a standard signal strength.
+1	D-LINK DIR655:  Has adjustable signal strength (low, med, high).
+1	I receive service downstairs, but the signal strength is on the low.
+1	Finally, I got it to worked and the signal strength on my laptop and iPhone downstairs were at full strength.
+1	pros: -large display -free traffic -good signal reception (locks to satellites fast) cons: -poor lane assist, often times shows way too early and disappears too quickly -traffic information takes too long to show up -sometimes suddenly changes to a different location and doesn't recognize where you are -menu navigation is bad.
+1	When I first used it and kept losing signal I blamed it on fog but then on a clear sunny day with no high buildings or trees in the vicinity, I lost signal 9 times in 7 miles.
+1	Oh, and by the way, the main reason I got this product was to see if it would have better range and signal strength than my Linksys WRT54GS.
+1	The signal drops off with great regularity.
+1	All the lights indicate it is still working fine, and my hard wire connection to the cable modem works great, but no signal emits from the wireless router.
+1	The signal it does put out is so weak it's impossible to get a clean enough signal to enable 128bit encryption.
+1	The router works fine for the first several weeks until it starts dropping signal <i> , losing connection, requiring one to power-cycle the unit every five or so minutes.
+1	The wireless-G router can be on for so long before it stops sending signal or internet.
+1	I left mine on all day everyday and found that it has a lot of problems sending signal and communicating with wireless cards (laptop and wireless computer).
+1	For some reason, they scratch out the serial number to signal that they won't support their refurbs.
+1	This product is cheaper but in my experience dont work with good signal, sometimes my laptops loose the signal in small space, maybe are designed to work in very small distance.
+1	Linksys knows this and has corrected the same problem with early models of its wireless routers (I use one and the Mac sees and can use it, but with an extremely low signal, thus the need for an expander.
+1	This model of the Netgear WGR614 Wireless-G Router disconnects the internet signal whenever the digital phone is in use.
+1	The bottom line was that using any other combination of computers, routers, adapters, and positioning of the devices resulted in our typical 1-2 bar signal strength with a positive internet connection.
+1	Both the one at my home office and the one at our business office have done the same thing -- simply stopped being able to connect to the internet after a couple of months even though the signal strength was great -- and they only worked for a few days after the firmware download that the tech support people walk you through (or that you can do for yourself).
+1	It has a strong signal and will dominate your devices.
+1	If it weren't for the excellent wireless signal stength that I now have throughout the home, I'd never give this more than lowest rating.
+1	The laptop is usually just a few feet from the router so the signal strength is usually Excellent.
+1	I'm in a lab, with perfect Ethernet connections on both the WAN and LAN sides of this router (no ISP involved), and my wirelessly connected computer is sitting feet from the thing, so there's no "bad signal" issues.
+1	4 GHz channel and this band has only 3 non overlapping channels - 1,6, & 11; 5 GHz signal is reduced more when passing through walls etc.
+1	But low range of 5 GHz signal through walls and physical obstacles limits the real world utility of this router.
+1	Unless you are going to use the 5 GHz signal within 15 feet, you do not really need it and can save money by buying single band regular 802.
+1	It gives me the strongest signal and easier to config the router when compare to Belkin and SBC 1(gave that away so can't remember the brand).
+1	Once in awhile probably due the heat, the wireless  <i> signal dissapear <i> , or wouldn't let wireless comps log in and I have to pwr it down for 10 secs and pwr back on and it worked again.
+1	Also, I found out that  <i> signal strenght is weaker <i>  as time goes by.
+1	After some fiddling, it gave me 40% to 50% signal strength through my house's aluminum siding and out to the edge of my back yard.
+1	<p>You have to play with the two little antennas, however, to get the best signal strength.
+1	)  <p>People who gripe about signal strength should remember that they are dealing with high radio frequencies.
+1	Just as your body moving around the room, as well as many other things, can interfere with FM radio signal, it can interfere with a home network wireless signal.
+1	At first I placed it where old one was but I could get signal on my laptop in a bedroom.
+1	After buying two (2) of the WGR614's (recommended by Netgear)and spending countless hours on hold with Technical Support(India), this Router could  <i> never hold a signal <i>  and every few hours to every few days needed to be re-set.
+1	Set-up was very easy on the Netgear, but having to buy 2 units and both not working, I changed to the Linksys WRT54G and never have had a dropped signal yet.
+1	The extender now works, though the signal, while adequate, is not as strong as I had hoped.
+1	One problem I had was that during setup, because the wireless signal was cut off, my laptop, without my realizing it, connected to a neighbor's very weak unprotected signal.
+1	The Garmin Nuvi 1450LMT is hands down the worst at holding a signal from the satellites.
+1	The signal was also very strong and I was geting about 50 mbps downstairs in my townhouse.
+1	Finally, I was able to get the device to link to the router (both blue lights), but the device did nothing to improve signal coverage in my home.
+1	Purchased router and additional antennas to extend range/signal.
+1	DIR-655 work fine for us so far - no dropped connections and signal much stronger than the old one.
+1	This router constantly drops the wireless signal.
+1	Many times my laptop won't even detect a signal.
+1	The signal was so weak that I could not turn on the encryption (could not get internet connection with encryption WEP.
+1	The signal was so weak it could barely get downstairs.
+1	The wireless has worked flawlessly and the signal is MUCH stronger than from my previous router.
+1	<p>However, the wireless range and signal strength is downright pathetic.
+1	In our setup, the signal drops to %70 strength 10 feet away WITHIN THE SAME ROOM, and plunges to %50 if you range as far as the next room.
+1	Forget about trying to get a decent signal on another floor of your house.
+1	Not only I can't access the internet from my desktop, my laptop can't find any wireless signal!
+1	GPS navigation is based on the triangulation of the time signal delays from satellites and the atomic clock in Boulder CO.
+1	The main reason I bought this is because of the several wireless appliances I have I hoped to use the range extender and antenna to cut through some interference and provide a better signal to a desktop that sometimes drops when some wireless cameras are on.
+1	No need for a repeater; the main access point covers the entire house with a strong reliable signal, securely, with no dead spots.
+1	We live in a standard home with drywall interior walls with no insulation or other factors that would normally reduce the signal (large aquariums, bronze statues, etc.
+1	) The signal within 30' seems pretty solid, although for some reason it seems to completely drop the signal to zero once or twice an hour.
+1	We have a back bedroom aboout 40' away, and while we do get a weak signal on laptops (1-2 bars) we get no reception on the X-Box, Playstation or Samsung internet equipped TV located there.
+1	The signal strength is excellent but will go low for few seconds every 2-3 minutes causing you to logout and its really annoying.
+1	As a side not: the device seems to work rather well if you install DD-WRT but the signal strength isn't nearly as good my old Airport even after using a configuration guide.
+1	It needs to be rebooted frequently, and the signal gets weak only 40 feet away.
+1	Also our xbox only gets a strong signal once in a while.
+1	I bought this as an upgrade from my d-link DI-524 router, because I needed something more dependable for wireless, and something with a better signal (and performance).
+1	This being my 4th or 5th Netgear router, I am familiar enough with their router management software to have attempted to tweak some settings (security, broadcast, and otherwise) to attempt to resolve the issue but was unable to successfully keep my router transmitting a wireless signal.
+1	2) While the 5 Ghz wireless signal is a nice option, of my 10+ wireless capable devices, only one is capable of finding and utilizing 5 Ghz.
+1	The range of the signal isnt better than the old Cisco G router its replacing, the other issue I had is the Usb port to which I connected an Epson printer, the software and usability its just rubish.
+1	The main reason I purchased this router was to get better signal to another location  in my home than I was getting with my g router.
+1	8, my son's computers picked up 3 bars of 5 instead of 2 in wireless signal strength, I no longer needed the fan and all was well.
+1	The installation woes behind me, it does run good and the signal is strong enough for me to roam around the house and do what I have to do without being tied down to the computer chair.
+1	wireless signal strength was just bit better than belkin &amp; was not any better than linksys befwf411s v4 nor wrt54g v1.
+1	From strictly getting a wireless signal from my router throughout my house, it did fine.
+1	I will say this if they can fix those Issues I ll buy one in a second as the WIRELESS signal strength was truly amazing it has to be the strongest router i have ever seen when it comes to signal.
+1	I can see if you only use the router to surf the internet that you would think this is the most amazing router because the signal can literally penetrate two houses away but even then it at times hampered my 8 Mbit connection.
+1	1 of our laptops wasn't getting the wireless signal on the second floor of our house.
+1	I live in a two-story house and although I expected the signal strength to be somewhat degraded in the upstairs portion of the house, it was continually dropping the connection.
+1	The range and signal strength is fantastic, I had it up and running out of the box within 5 minutes, and I have yet to experience a dropped connection.
+1	With either version my wireless laptop had a decent signal (3 to 5 bars) no matter where I went on my property (about 70 feet away max) even with 4 or 5 walls in the way.
+1	Some days I connect with good signal, other days I can't connect 5 feet away from the router.
+1	In the spots where I had weak signal with the router the extender was intermittent at best.
+1	Sometimes I get a good signal, sometimes I don't.
+1	All are connected via mixed mode b/g/n wireless network with no problems other than the fact that the old toshiba laptop gets a poor signal because it only picks up the  802.
+1	Remember, even with a 10% signal strength, you are still able to surf the net without a hitch.
+1	I don't get as strong a signal, but it is really easy to install - no hassle.
+1	7- Talking to my wife using the bluetooth, she couldn't hear me very well, eventhough i could heard her very loud Pros: 1-Big screen 2-Free traffic 3-Refreshing time is very fast 4-After the first time, it aquires satellite signal fairly fast 5-Speake is very loud Bottom line is not worth the price, you are better off with the Nuvi 265WT for 199.
+1	The Linksys card was worse--with the router ten feet away, I got a 30% signal.
+1	Pluses  large screen size   up-to-date points of interest   acquires satellites signal quickly   lane assist option Minuses  poor touch-screen response   can turn off entirely in the middle of a route!
+1	It was easy to setup and the range is great, but as of yesterday it has completely stopped broadcasting a signal <i>.
+1	Constantly had to reboot due to lost signal <i>.
+1	After a long time of set-up I was impressed the wireless signal filled my whole home!
+1	After about 10 months of use the router stopped working, <i> no wireless signal only wired.
+1	I needed a range expander because I had a weak signal from my wireless router in remote areas of my house.
+1	Now that the unit is operational, I have a minimum of a "Very Good" signal throughout the house - so I'm happy - albeit exhausted.
+1	Two blue lights came on and I received excellent signal everywhere in the house.
+1	It connected easy and was up and running quickly, but the signal was poor <i>, even with my laptop sitting just 4 feet from the router.
+1	my older WGR614 Netgear router preformed for years at an excellent signal up to 30 feet from the router and I had to change back to using it.
+1	The Netgear service tech tried and help we correct the signal issues with a firmware update and other tips.
+1	Once I got it setup properly, it still dropped connections often on the wireless link, even though my Linksys wireless card showed a strong and high quality signal.
+1	The signal is okay, and the setup is not so easy.
+1	Beyond 25 feet, like in a bedroom, the 5GHZ signal drastically dropped to less than 33 Mbps and often disconnected making that mode useless.
+1	4GHZ mode, at the same distance increased the signal but only to 54Mbps, which is the same as with my old D-Link router.
+1	Tech Support finger pointed to my computer (it's never their product) but I have three late model computers, two running Vista, and they all received the same signal strength.
+1	The manufacturer claims internal antennas do not impact signal performance but as an Electrical Engineer I know it does.
+1	This NETGEAR WNDR 3700 router was returned as defective for poor performance, <i> weak signal connection <i>, and buggy software.
+1	While it was working though, it output a very strong signal and was very fast.
+1	 <i> frequently signal loses <i>, bad compatibility with new MacBooks, frequent failure on routing requests and bugs in user interface (well known port forwarding bug still not fixed).
+1	With average to adequate broadcast signal, you really should look somewhere else for a better router.
+1	This router has average signal, and HORRIBLE user interface.
+1	I recently moved my modem location to the far end of my home, and my old Linksys b/g router couldn't throw a signal to the other end of the house.
+1	While I have no complaints about setup or the ability to connect, the signal strength is not one bit better than my old router.
+1	My Airlink got much, much better signal & it was $30 something compared to $70 something for this.
+1	When not close to a major urban area it can take over twenty minutes to acquire a satellite signal.
+1	In addition, the unit frequently loses signal in the midst of a trip, making it impossible to navigate reliably.
+1	It was close enough to the router to rule out signal strength problems.
+1	I'm purchasing my second Apple AirPort Extreme Base Station to increase the signal and cover all my property.
+1	First the boring stuff: the router is acceptable in terms of performance, though in an older house you'll have trouble getting a signal twenty-five feet away because of the thicker walls.
+1	The other problem I have with it is that it does not always pick up a signal near my starting point, instead, I sometimes have to drive about 7 miles before it kicks in.
+1	It will show full bars for signal strength and still no use.
+1	I bought this router because i was not getting good signal from my old Linksys router and other sites said this router is one of the best online gaming routers.
+1	When I got my brand new modem and router and plugged everything in, none of the house laptops received any signal <i>.
+1	11g card the wireless signal kept dropping out every 2 to 3 minutes.
+1	Most of the time the computer picked up the signal again, but sometimes I had to make it reconnect manually.
+1	11g PCMCIA network card, worked well with no signal drops <i>.
+1	*LANE ASSIST, JUNCTION VIEW, TRAFFIC UPDATES: Be aware that these features depend on what major city you are in and if they broadcast this on an FM signal.
+1	Go on Garmin website to ensure your major city broadcasts the FM signal before you drop $50 or more for a subscription or an additional feature on a unit.
+1	I bought this item as a replacement for a Garmin 260W which was extremely slow in finding Satellite signal <i>.
+1	I purchased this router from Costco, hoping to improve the range and signal over my 2 year old Netgear super G, which occasionally needs rebooting.
+1	The signal strength is much weaker than my old super G, with frequent dropping of the connections on all 3 HP notebook running on G, as well as my Palm TX.
+1	 <i>Unable to validate GPS signal since March 31.
+1	The performance was ok but I would constantly see the wireless signal fluctuating <i>.
+1	The range expander still doesn't work as it claims to be as I keeps getting a weak signal like before.
+1	Since you have to pay for the service anyway, look for other brand which might give you a better signal.
+1	i used orinioco for 1 week, and i had high signal in every room.
+1	At first I got a busy signal and then after three attempts later, I was able to get through.
+1	I did hit some areas in the house where the signal was less than optimal <i>, but nonetheless things worked well until - I tried to VPN in the corporate network.
+1	I find the BEFW11S4 to be very strong on signal but, unfortunately, weak on features.
+1	By default, the Wireless signal is already transmitting, and DHCP is enabled to allow dynamic IP assignment to all computers.
+1	<p>However, after 6 months of happily surfing the internet wirelessly anywhere in my house, the wireless signal suddenly died on me last week.
+1	Then the other day, when the signal began dropping several times a day, out of the blue I'd had enough.
+1	In order to activate the wireless connection, I have to unplug the router, only then will my laptop pick up the signal.
+1	The signal strength could never beyond 60% even the antennas were as close as 3 INCHES to the PC card.
+1	Both work great and, regardless of upstair or basement, the signal keeps at 100% strength.
+1	Cons: The signal strength was the poorest of any wireless router I've ever used.
+1	I like to set up a work desk in my yard on good weather days, so signal strength is important.
+1	When going to other rooms in my home, 2-4 neighbors had higher signal than the D-Link 615.
+1	Just 10 feet out my front door (about 30 feet from the router with 2 walls), <i> I lost signal <i>.
+1	By contrast my cheap $20 router has signal strength for another 100' (but, the cheap one is becoming intermittent so need a more reliable one).
+1	The first one I got working for a bout 2 weeks, then it started to drop the signal <i>, causing me to have to power cycle the unit.
+1	When we got out on the interstate we could never pick up a signal <i>.
+1	It loses connection with satellite, there's delays in directions, <i> wrong signal <i>, no warning before battery dies, touchscreen is not sensitive enough to recognize input, and the list goes on and on.
+1	I get a signal in the front of the house (generally "very good" strength), which I didn't before.
+1	Although I expected a stronger signal but is still decent.
+1	The only way to get a good signal from it is to be less than 10ft away.
+1	Although this router sends out an excellent signal it is very difficult to keep password protected and after your warranty period help with this tedious process is very lacking!
+1	I didn't have any issues with the wireless connection as long as there was a signal.
+1	I cannot get a signal in my office.
+1	- I am on my laptop, 20 feet away from the router  with a clear line fo site and the config util says that I have a Tx of 250, a Rx of 3500, 66% link quality, and 60% signal strength.
+1	Then the wireless signal started failing <i>, and would only come back to full strength for a short while after turning the router off and back on.
+1	Otherwise, do not buy this router for anything other than basic wireless signal, which may stop functioning after a week.
+1	Performance of router was just OK - with the 3 movable antennas - I expected to get a much better signal than the Linksys router, which I did not.
+1	When I leave the room with my laptop I immediately get poor signal strength.
+1	-Poor administration and setup tools -Range extender doesn't show signal strength to AccessPoint (major design flaw) -A good connection b/w computer and range extender doesn't mean a good connection to your AccessPoint/network -No printed documentation for setup when security (i.
+1	WEP, WPA) is enabled -Inconsistent connection strength - laptop kept roaming to AccessPoint b/c signal was stronger than range extender, despite being closer to the range extender -"Auto" setup doesn't support WEP WPA (not well documented either) -At this price, setup, performance, and security support is very poor Strengths: -Solid, compact construction -Versatile power options (attach to wall plate or sit on surface) -Intuitive blue indicator light on box to show AccessPoint connectivity -Web-based admin tools (although somewhat lacking in functionality) -Looks great (only reason I gave it 2 stars).
+1	My biggest problem with the unit is the low signal strenght available from the unit.
+1	Unfortunately, my signal bar drops to one bar even I just step outside and there is no chance of getting a wifi connection in my shop even if the door is open.
+1	With the new Linksys router literally right next to the Belkin router, the signal strength on the Linksys was much worse.
+1	After 30 days (past the return policy of the store I bought it at), the router kept dropping my Wi-Fi signal <i>.
+1	So now every time it drops the signal <i> (which is almost every time I get on my computer), I have to restart the whole system from the computer to the router.
+1	I bought this router and I would get signal only about 25% of the time no matter how close I was to the base.
+1	Their customer service people had no idea what to do and told me other people's router were crowding my signal <i> (I live in New York City).
+1	This router  works great, I think signal is a little weak <i>.
+1	But signal gets very weak on my son's laptop upstairs, it gets so weak that it flags "time out connection".
+1	Then, about three weeks after the warranty expired, it stopped transmitting any wireless signal <i>.
+1	Once up, I had great signal.
+1	When this happens, you have to go through some ridiculous ritual to try and get your signal back.
+1	Last time it happened, I connected the modem directly to my computer to make sure there was no problem with the ISP, and the signal was blazing fast.
+1	however it does find satellite signal quickly, reroutes quickly, has lane assist which is great and has a very wide screen.
+1	The expander simply repeats the strongest signal when using the automatic configuration button.
+1	Well, better than no signal I guess.
+1	I tried multiple different things such as using only N or G signal, disabling QoS and even leaving the encryption off with no luck.
+1	With the expander turned on (and with my wireless signal indeed showing much stronger, as advertised), my download speed was down to less than 100 kpbs!
+1	4GHz and signal was weak <i>.
+1	Even though it was an older wireless G router, the signal strength was better than any of the new N routers I've tried, and my Skype video sessions were rock solid.
+1	I put my laptop a mere foot away from the router and was getting around 60% signal strength!
+1	Aside from the signal strength and reception, it seemed to be a solid replacement.
+1	For slightly less money, I got a better wireless signal with the TP-Link.
+1	- Setting up the router was more painful than I thought - Mixed n and g signal are less powerful than just g, but you can configure something neat here: set up a n and g signal with two different SSIDs, that maximizes performance - Does not do well with concrete (ie basement) or another wireless 2.
+1	The signal strength can be dramatically different - Both speedtests and pingtests at various levels of the house seems to work decently.
+1	It does work within my house but signal is weak beyond 25'.
+1	So I had a Windows borrowed from the office and it took me 2 evenings before, eventually, by trying on the different channels, the installation setup was able to find the signal.
+1	Even where working, the device needs frequent rebooting and repositioning (depending on the day), as the signal disappears often <i>.
+1	I will say this: the router has an excellent wireless signal.
+1	I get stronger signal throughout my home, but with slower internet, it's not much of a bright spot.
+1	Firefox shows I'm not connected to the internet despite the fact that my AirPort indicator shows me  as connected with full signal strength.
+1	Rumor had it, was even in the D-link manual, that the device could interfere with X-10 signal (home automation).
+1	I bought this router with a few simple expectations over my old D-Link 524 wireless G router: 1) Increased signal strength 2) Increased range 3) Freedom from microwave interference and 4) Faster Ethernet.
+1	The 5GHz band barely showed up in my office, which had a decent signal with my old router.
+1	4GHz signal showed up a bit better than the 5GHz signal did, but still not as good as my old one.
+1	On the positive side, the gigabit Ethernet was fast, and when I was able to connect to the 5GHz signal, I did not have interference from the microwave.
+1	The signal strength is good.
+1	So if you can't tell what the wireless signal is, how can you tell where to put it?
+1	You can't use your laptop's signal meter because that really doesn't tell you anything about the extender's actual signal.
+1	Sure, sometimes you can manage to get a wireless signal, but otherwise it'll suddenly drop for no reason, then refuse to let you reconnect.
+1	The Garmin is often confused about where it is, <i> losing a signal often <i> - one day fine in a particular next day, no satellite available over the past few months of use.
+1	Two weeks ago I noticed that the router would randomly drop the signal on both channels, so I called tech support.
+1	The signal is strong and stable in both the 2.
+1	My old Linksys had a weaker signal <i>.
+1	The signal occasionally dropped since the first day I owned it(especially if the microwave oven was on two rooms away?
+1	My notebook can only access the router via wifi if it is beside the router, even worse the signal is not strong.
+1	<p>Also:  satellites may sound cool, but unless you're up in the mountains somewhere, a cable or DSL will be faster (no delay waiting for a signal to bounce back from the satellite), cheaper, and easier to install.
+1	From day one I had issues with the router not keeping a signal up for more than 15 minutes.
+1	4Ghz wireless phones will not just cause interference with the signal <i>, but will cause the router to crash, disconnect both wired and wireless ports and require a "hard" power off reboot.
+1	Secondly, it frequently loses satellite signal when traveling in inner city highway areas.
+1	After a month or two, the signal is getting weaker every day.
+1	The router sent an excellent wireless signal to the adapter in the next room.
+1	Hours of manually attempting to get reliable communication between the router and the WRE54G resulted in a completely unreliable signal <i>.
+1	Now the signal is missing altogether <i>.
+1	The site survey shows an initially strong signal after a WAP reboot for about 2 seconds (great throughput then.
+1	what I expected), and then the signal drops in half for good (despite radio power mode set to high).
+1	If I take the laptop adjacent to the WAP, only then do I get sustained performance of 270 Mbps, but with noticeable signal level drops every minute or two, regularly, and nothing like the 200+ that others report at a reasonable distance.
+1	Like many out there, my Wireless G signal keeps dropping <i>.
+1	Wireless N signal doesn't work <i>.
+1	Con: - Wireless G signal drops constantly <i> - Stock firmware and GUI are horrible - Customer support is poor, if available at all - Some advanced features are unavailable or problematic - No monitoring support - Pricey Customers shouldn't think that dealing with all of these problems is normal.
+1	That is only 1 bar more than I can pick up on a neighbor's "N' band router signal which is about 100 yards away.
+1	However, after a few weeks, it started to drop the wireless signal <i>.
+1	It worked great for 2 days, then stopped transmitting a signal <i>.
+1	The setup is not bad, but the signal strength is weak <i>.
+1	You can buy a WAP54G from Linksys for less money, get much better signal strength, and get the same functionality.
+1	I noticed couple of times the wireless signal has been down but then in a few seconds, my wireless laptop reconnects.
+1	I'd be using my wireless laptop and all of a sudden, the laptop would show that the signal was gone <i>.
+1	So, now I have everything wired back up to my ATT DSL router (2Wire) where I do not have the regular loss of signal.
+1	After an hour or 2 of attempting to get this to link my to my brother's weak wireless signal (100+ ft.
+1	The signal bars were fluctuating <i>, as if there was something wrong with the transmitter.
+1	signal strength was 54 mbps most of the time.
+1	The signal strength is very weak <i>.
+1	My brand new computer gets a 1 or 2 out of 5 bar signal (about 5 to 30 Mbit/s) to this router when it is about 40 feet away.
+1	However, I can always get a 4 bar signal from my neighbors' routers on either side of me, and I know at least one of them also has a Linksys.
+1	<p>Btw: We checked wether the external radiolink could interfer with the signal <i>.
+1	It stopped working and started making a weird high pitched sound, due to my Time Warner cable which resets it's signal every 6-12 months.
+1	For some positives, it acquires signal very quickly and the 5 inch display is clean and clear.
+1	If the signal does stay up for any length of time, it will be cut off by nearby cell phone, cordless phones, microwave ovens etc.
+1	Not only did it not transmit a wireless signal <i>, it didn't route!
+1	I bought the range extender and set it up and it seemed to work for about an hour when it itterupted the wireless signal and required me to restart the network.
+1	However it is very difficult to maintain a signal <i>.
+1	I'm hoping that technology has progressed to the point that I can count on a wireless router that continues putting out a signal for more than a day.
+1	The only upside is that the WRE54G appears, by inspection, to at least be extending my wireless network's range into areas of my house that had very weak signal strength previously.
+1	Problem is that I still get marginal signal sitting only 2 feet away from the router and it still drops connection every half hour and I have to spend a lot of time getting back to work.
+1	Several specific critiques: the range on the router is poor; the expander cannot acquire a steady signal from the router, unless it is in an unobstructed line of sight without things such as refrigerators, walls, etc.
+1	Every few months, I can't get a wireless signal <i>, so I have to cycle power.
+1	<p>We use three wireless components at the house, and none of them could hold a signal once I installed the new firmware.
+1	If I got further than 30 feet from the router and had any obstructions, the signal was just about useless <i>.
+1	This does expand the range of the wireless signal but not as much as I would like.
+1	I dont know if there are legal restrictions on signal power but it seemes that current technology should allow further range for a signal expander.
+1	The wireless connection worked okay, but I could never get more than 35% signal <i> (40 feet, 2 walls between).
+1	It's running great, with no Outlook problems, and better signal strength (45%), and I'm not looking back (except to write this review).
+1	Well the GPS kept directing to get off the highway, (fastest route) and take a route which would have me going through city streets and hitting all the traffic signal etc.
+1	I was routed to a road which took me on an 18 mile trek through heavily congested business districts with many, many traffic signal and many, many trucks cars etc.
+1	Instead of the route my old Nuvii 250 always suggested, (also Google suggested) which was US 87 to NY 7 to US 787 the to I-90 the 1450LMT directed me to NY route 9 which is 6 minutes longer (per Google) and a route which took us through business and residential areas with numerous traffic signal etc.
+1	I consider myself a little bit savvy with electronics so now I'm looking options on how to extend the signal.
+1	The desktop works fine as it's not wireless,  but I have been having issues with my signal dropping on the laptops, and another issue with weak signal strength.
+1	I have been having issues with signal drops in my laptop.
+1	I have been having issues with signal dropping on the laptops.
+1	And strangely enough, the laptop with the g-wireless card has better signal strength than the laptop with the n-card.
+1	It appears that my connection is no longer dropping, but I still have a weak signal when I'm right next to the router.
+1	As for the laptop that IS receiving full signal, I wasn't actually too impressed when I walked around my house checking signal strength in the various rooms.
+1	I had the cable guy out to make sure I was getting a strong signal to my cable modem.
+1	I called Gateway back to see if they could be of more help and was able to determine that the signal strength was only 7% from my husbands desk in the guestroom, to MY desk in the den.
+1	It is advertised to have a stronger signal than g, but it was not stronger than my g.
+1	I am able to capture the signal throught my home.
+1	Router worked adequately during the first 5 months - I was disappointed that the wireless signal was no better than an old Belkin G router - that was the primary reason for my upgrade.
+1	The wireless signal was no better <i>.
+1	If your laptop is between the router and the expander you will have major problems, constant loss of connectivity, it freaks because there are two equal strength signal.
+1	I had to keep moving the expander to the room I was in to get a strong enough signal for it to clearly be dominant and then manually choose which two sources of the same network to use.
+1	The first unit I bought could not acquire a satellite signal <i>.
+1	It's true that the router drops the wireless signal constantly.
+1	I was a bit concerned about setting up a wireless network because of the number of rooms through which the signal would have to travel to get to where we like to use the laptop.
+1	So far the Belkin is working just fine and the signal goes where I want it to.
+1	When the unit was first installed I had 5 bars of signal everywhere in the apartment.
+1	I get low strength signal when I connect to this router through a wireless network card in my laptop.
+1	My neighboor's connection is more reliable and has better signal.
+1	The expander does not give me a wireless signal across the length of my house which is only 120 feet.
+1	My last Nuvi quit taking satellite signal after not quite a year.
+1	This unit also looses Satellite signal much more often than our older Garmin.
+1	First, the Linksys signal was no great shakes, barely penetrating a wall or two and 30 feet.
+1	Second, my main laptop had a strong signal in my office from the Linksys but the laptop never actually accessed the internet wirelessly, even after putting in all the passwords, 15-digit security keys, re-running set up software, etc etc.
+1	The WNDR3700 router constantly drops signal <i>, cannot even give proper wifi speeds to anything (i.
+1	From what most other customers who've bought the item say on forums it's because of interference from other signal and such so I've also tried to switch channels and double check settings, but no help.
+1	Pros : + easy install Cons : - Terrible Wi-fi speeds - Constant signal drops *This review was meant to be short and to the point.
+1	Turns out, the DGL-4300 has a 100% signal strength and consistent 54mbps whereas the DIR-655 from the same distance (about 50ft and two walls) only managed about 65% and 58mbps at best.
+1	My MSN Messenger would always disconnect, the wireless signal only a few meters away would be very poor one day, then great another, the port forwarding wouldn't work like it should, and then the router would completely disconnect from the internet about twice a day.
+1	Every 3-4 days the device will lock up and I will loose all wireless signal <i>.
+1	I can take my laptop right now, put it three inches away from the antennas, and the signal would not get any better.
+1	 <i> Signal strength is so lousy that I have a better.
+1	My best signal at about 25 feet only gives me about 11 MBS.
+1	Then we started losing wireless signal <i>.
+1	Ocassionally, then we had no signal <i>.
+1	You can literally sit a laptop right next to this unit and the signal is unavailable <i>.
+1	Was unable to get enough signal strength to go 200 ft.
+1	Hmmm boost the signal to make it easier for leaches.
+1	I'm "green" everywhere in my house with signal strength ranging from 90 to 100%.
+1	This is only one wall, maybe fireplace and floor, unless ceramic tile interferes with signal <i>.
+1	I have used this for years and have bought a 2nd one when the first one died BUT I can tell you it's a crap shoot to get the thing to work, It might or it might not, it almost always can be made to work as far as boosting an unsecured signal BUT if you are even vaguely concerned about security you have a night mare on your hands.
+1	I have to say that today it gets 4 stars because it's working flawlessly and the signal is stronger than ever (no clue on that one,  got 4-5 bars now instead of 3-4).
+1	Some people download third party firmware that circumvents the signal strength limiter but I wasn't about to do anything that might void the warranty and thus my ability to return it.
+1	We have a very small house and it puts out a low signal <i>.
+1	Bought Router, worked great for several months, then I started having devices drop off the WiFi signal <i>.
+1	Reset router and all is good for a few weeks, then devices start dropping the WiFi signal again.
+1	100Base-T4 uses all eight wires in an Ethernet link, slowing the signal symbol rate down in order to make the signal reliable enough for Category 3 (voice phone grade) cable.
+1	Had to continuously reboot router due to lost signal; Customer Support useless.
+1	you are using the router in yor house or apartment, you will lose significant signal strength.
+1	I didn't find this out until I complained to customer service about the weak signal at only 30 feet from the router.
+1	Compared with cellular navigation systems it's more accurate and you don't have to worry about loss of signal unless you enter a tunnel.
+1	In fact, it makes signal clarity worse <i>.
+1	My computer gets confused between this signal and the direct signal from the router.
+1	After installing the repeater which is suppose to boost the signal strength it turned out that it only got 10% better than my existing wireless signal.
+1	Like many others, bought this to reach the far end of my house where the signal from my WRT54GL is weak.
+1	I get maybe an additional 10-15 feet with a usable signal.
+1	However, I am one of the people who have had issues with it, namely the wireless signal dropping out several times a day.
+1	About 4 times a day, the router will drop the wireless signal <i>.
+1	First month or so worked great, then I started to get dropped signal every few days or so and have had to unplug/replug the power cord just to get a signal again.
+1	now I lose the signal daily and have to power cycle it at least once a day, sometimes 3 or more!
+1	Was considering to add a signal booster, but would rather wait for a later model with stronger signal built in.
+1	If they don't see the extender they try to connect to the primary router which is usually too far away and low (if any) signal strength <i> (that's why you are looking at buying this thing in the first place).
+1	The range is just awesome without weak signal but in this model I have reserved complaint for the fact that my wireless printer was being blocked.
+1	Out of the blue it will just stop sending a signal out.
+1	Everything you have connected to it wireless has no signal <i>.
+1	They are hard to set up (you have to use lengthy codes) and the signal is intermittent <i>.
+1	Even after fine-tuning it, the wireless signal was faint at best.
+1	The next unit I received works fine for about an hour or two and then it randomly looses the satellite signal and becomes totally useless.
+1	Our primary reason for wanting to get this router was its alleged high speed and performance, neither of which has proven to be valid: the 5-GHz antenna has very low signal strength as compared with the 2.
+1	The signal drops off quickly from there.
+1	Walls also quickly kill the connection, causing the signal to drop in half when entering a different room.
+1	It need to be rebooted 3-4 times a day to send wifi signal.
+1	This new router was slower by far, dropped connections, had much less range, <i> weak signal <i>, and customer/technical support (I think from Somalia) was a travesty.
+1	I am well aware of the limitations of wirelss but this was truly disapponiting at 15 feet it was at 30% signal<p>But what caused me to return it the next day was the extremely poor attitude of the technical support at linksys they didnt even seem to care if it worked or not.
+1	11b router sends its signal, therefore my purchase was price-driven and review-driven (when the Netgear works, it works WELL).
+1	<p>The equipment has worked perfectly since I completed the installation and has fired a strong signal to my Airport Extreme card.
+1	It turned out that he hooked it up correctly, and it worked fine as a wired router, but the unit did not transmit a signal <i>.
+1	If you have a 54 mbps router/access point this device bounces that signal but only at 22 mbps.
+1	But, it would drop its wireless signal every few days and need to be completely reconfigured.
+1	It has never dropped its wireless signal <i>.
+1	After 1 1/2 hours on the phone with Linksys manually configuring it, still got no increase whatsoever in wireless signal range (I am not convinced it was ever configured correctly).
+1	This one was set up in a " tough environment" Expanding a wireless network in a bldg with concrete floors through which wireless signal do not penetrate <i>.
+1	It didn't work - the signal was so weak <i>.
+1	The signal dropped every few seconds it was totally unusable.
+0	Note- it is not immediately apparent that the extender is working except for the improved signal.
+0	I literally just got mine setup in the far end of my house and have a full signal.
+1	My signal was boosted from a miserly 11 mpbs (and that's on a good day) to anywhere from 24 - 54 mpbs.
+1	Whenever certain encryption modes are enabled, all of the attached wireless devices drop signal momentarily every 4-5 minutes.
+1	I would be concerned with the security, but the signal strength is so poor that I doubt it's an issue.
+1	The signal drops off with my own house.
+1	I live in a small 3 bedroom but forget getting any signal outside the office.

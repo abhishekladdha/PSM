@@ -1,0 +1,1043 @@
+1	The only firmware that.
+1	If you are a consumer and want this router to function as it should, do not bother with any firmware other than.
+1	The entire staff of Netgear firmware engineers should be fired.
+1	Some people have mentioned similar problems that went away after a firmware upgrade.
+1	Once the problem started showing up, I upgraded to the latest firmware.
+1	I had purchased the add on antennas to extend my range and had even experimented with third party firmware.
+1	Also, the hardware has gotten cheaper and apparently I couldn't run third party firmware on it.
+1	I have used this product for almost a year and I have spent way too many hours trying to make the firmware work with my Apple systems.
+1	It seems to be related to the firmware version, but the older version which didn't appear to have any issues can no longer be loaded into the router.
+1	Also, you will not be able to use third party firmware with this version of the router.
+1	Don't forget to start by updating the firmware, because if you set everything up first then update the firmware, you will need to repeat the setup process since this firmware update restores everything back to the factory settings.
+1	After much messing around with it -- searching the web for lessons learned -- upgrading firmware on my Linksys WAP -- I did manage to get it working without the WEP turned on.
+1	6 months after the release of Windows XP, Linksys is yet to release a firmware update to address Windows XP UPnP issues.
+1	Even Netgear support rep agreed that there is a  bug in the firmware  which makes the router drop connection with the internet (wired and wireless).
+1	Because I upgraded to the G rougter from the slower B router a week ago and of course the first thing I did was to visit the Linksys website and download the most current firmware for my new router (3 point something).
+1	I thought I was doing the prudent thing but little did I know that Linksys would sell me a supposedly compatible product that would not run with anything but a specific, not to mention somewhat older version of the router's firmware.
+1	I explained I was having problems with my WRE54G working with my WRT54G adding that I had been told by several people that I had the wrong firmware on the router.
+1	The tech asked what firmware version I had and I told him whatever the most recent version was on their webste, 3 point something.
+1	I again told him that several people had reported problems by using any version of firmware other than 2.
+0	2 and that once they found a way to downgrade to that exact firmware version the expander worked fine.
+1	02 firmware level, but this WRE54G does NOT support WPA encryption, which the WRT54G does.
+1	I will say that I haven't upgraded to the current firmware yet but give me a break.
+1	should somone have to upgrade the firmware on a device into version 4 just to get the stupid thing to stay connected to the Internet, keep from stalling every 30 seconds into a download, dropping tons of packets, timing out every minute on streaming audio, etc, etc, etc?
+1	This was with the latest Linksys firmware update.
+1	I upgraded the firmware, tried different cables, moving it to another location, everything, and nothing worked.
+1	I have also seen many websites offering this suggestion and that, tweaking the connection software, upgrading firmware, blah blah blah, but honestly, how hard does it have to be to get my wireless network up and running.
+1	It has a lot of problems, and there are still  no firmware  updates available as of mid-April.
+1	UPDATE: Linksys released updated firmware a month later, which fixed most of the router's stability problems.
+1	I checked out their website, and there are firmware files for 1.
+1	Overall, I will say that the product does work as expected, once you update the firmware to the latest version.
+1	This model has less memory than the previous models and its  firmware can NOT be easily changed  to one based in linux.
+1	If you want to change the firmware you are better off buying the WRT54GL.
+1	When I upgraded the firmware to the latest version, the router started dropping wireless connections, rebooting randomly, etc.
+1	DLink doesn't allow you to go back to the previous firmware version either.
+1	Maybe, given enough time, they will come out with a firmware that makes this thing work, but I got tired of waiting.
+1	The agent also told me to never update firmware through GUI because that could "destabilize" the device :-) They do provide RMA (after extensive phone troubleshooting), but you'd have to pay $30 in case you'd like a replacement device being delivered the next day.
+1	Because of the initial set-up issues, I am afraid to perform any maintenance as a firmware upgrade, enable other features, etc.
+1	DLink support told me not to upgrade firmware unless I have real problems.
+1	Pros: Large Screen Easy input of addresses Connectivity for upgrading system and maps Fairly quick download times (30 minutes for both the firmware and map) Cons: Touch screen is buggy Glare on the LCD Clunky interface Poor routing capability Inaccurate listing of some addresses.
+1	I even looked for a firmware update their was none available.
+1	D-Link technical support could not fix, either through firmware update, configuration changes or with a replacement router.
+1	Even after upgrading to the latest firmware, the DHCP server constantly drops the IPs from my computers.
+1	2 of the technicians told me to upgrade the firmware (which was already upgraded) and to reset, so many times, that I got extroadinarily frustraqted and asked to talk to a manager.
+1	04 of the firmware loaded, I could manually input the device MAC address into a field provided and the device worked fine with WEP encryption.
+1	And yes, I was using latest firmware bit the bullet and ran wire directly to the room with the week signal and do not regret the effort.
+1	There are many supposed after market firmwares for this router, but none of them work on Version 6.
+1	3) I upgraded to the latest firmware as of Nov 2008, still tons of issues, it works after I reboot cleanly for 5 mins or so, then wireless connections keep falling very frequently especially if I'm using more than 1 wireless or wired connection, also my PS3 and Vonage were not performing as well as before.
+1	I have updated it to the latest firmware using the Garmin Updater tool and still it has problems.
+1	Luckily, my girlfriend who is rather computer literate ( I am semi)  bought one of these units a few weeks ago and was able to guide me through the quirky set up using the web site to update the firmware and the maps.
+1	Have the same firmware problem with the V1.
+1	So I upgraded the firmware to the newest v1.
+1	After upgrading the drivers and firmware a few times and e-mailing tech support for some setting tips it now works fine.
+1	Linksys is supposed to support PPPoE beginning with firmware version 1.
+1	The current firmware version is 1.
+1	While I applaud Linksys updating their firmware frequently I was not happy waiting for the PPPoE support to be fixed and already returned the unit.
+1	The problem has gotten worse - I have installed the latest firmware for this router - still loses its signal every five to ten minutes.
+1	After 5 HOURS on the phone with 4 different "tech support" experts, they had me upgrading firmware, then downgrading firmware, and finally running my cable from the modem thru a 10base-t hub.
+1	Interestingly enough I have had 2 "firmware" upgrades that the router identified that it needed within this period of time, which I think is odd.
+1	I downloaded the new firmware at least 3 times.
+1	I decided to try the latest firmware (1.
+1	I went back to the older firmware (1.
+1	Even after upgrading to the latest  firmware, these problems have persisted , and I suspect there are serious bugs in NATing any kind of UDP traffic (games, VoIP, etc).
+1	I used the built-in utility to check the firmware and it told me that I already had the latest.
+1	In a final attempt to get the thing to work, I updated the firmware to version 1.
+1	20  firmware had been pulled  and was no longer available.
+1	1) I bought this product for the SecureSpot feature and found out only after a very long, frustrating discussion with a less-than willing Customer Help Desk that SecureSpot is not yet available on the Rev B Hardware, and DLink has no idea when it will be added to the firmware.
+1	Before this, I owned a Netgear router that was working great, until I bought new vista computers, and Netgear decided not to upgrade their firmware to be vista-compliant.
+1	) Went online and searched, recent WRT54G  firmwares had a bug  with DHCP.
+1	The sad but fated conclusion: A new firmware promised to fix the bug, so I thought I'd be a power user and download it.
+1	Note to Linksys: if your firmware download page has seven or more downloads specifically for the WRT54G, you should give the end-user an obvious link telling them how to determine which WRT54G to use.
+1	I submitted the firmware up to the router, and it went to a blank page that said, "Don't interrupt this.
+1	After 15 minutes, the page hadn't auto-refreshed, so I opened another tab and logged in, and the router was chugging along with the old firmware.
+1	Well, I won't invite armchairing by further details, except to state that the router briefly reported itself as running the new firmware, but still wouldn't DHCP my wireless devices, then wouldn't DHCP my wired device, and finally wouldn't respond at all (brick had been achieved).
+1	I reset it rolled back  firmware it would not work  and stay up when I needed it.
+1	The firmware is the latest version, tried cycling power several times with no luck.
+1	I tried upgrading the firmware, playing with the frequencies, the speeds, disabling the 5GHz options, and it continued.
+1	I have downloaded the firmware and upgraded it; actually replaced it since my device shipped with the most current version supposedly already loaded.
+1	After firmware upgrade it works well for normal router and WAP functions.
+1	after 3 hours, i was told, to bring unit back and try to find a version 4 of the router, that they  didnt have a 'stable' firmware  yet.
+1	I would definitly avoid this unti untill a few firmware updates are out.
+1	I then followed the instructions on the two top-rated posts (basically disabling security, downloading and upgrading firmware, then re-enabling security).
+1	So here's what I suggest: #1  Make sure you have downloaded the latest firmware for your router and the range expander.
+1	Then suddenly for no reason ever 10 seconds i would lose connectivity ,  I tried everything I reset, updated the firmware installed some hacked firmware.
+1	--The Setup CD is worthless --There is no useful documentation provided with the unit nor on the Web site --The  out-of-date firmware  with which the unit is supplied makes it unusable (I could not get a link from two inches away until I updated the firmware).
+1	After a few hours the NetGear WNDR3700 went offline, amber light, and through various attempts cannot connect wirelessly, via cable, update firmware or even reset default factory settings to troubleshoot issues with the router.
+1	The hardware is worse than version 2, which was good because it allowed installation of custom firmware.
+1	Now it is impossible, you have to stay with the company's firmware, which is plainly bad.
+1	33 or higher firmware, it makes it lots easier.
+1	He sent me advice, firmware updates, and we emailed repeatedly and found solutions to the problems.
+1	I isolated it to the USB storage, a bug that was supposedly fixed in the latest firmware but was apparently not fixed.
+1	D-Link is no longer supporting this product with firmware updates, so based on the above mentioned issues and the lack of future firmware updates to fix some obvious bugs, I can't recommend this product.
+1	I should mention that the live webcams that this device refused to properly forward ports for, work perfectly with the 4500 using the identical port forwarding settings, so when I say that there is a  BUG in this devices firmware  regarding port forwarding, I know what I am talking about.
+1	It might be a hardware problem and it cannot be fixed by firmware upgrade.
+1	After contacting COX they said I may need to upgrade Firmware on Netgear router, so I downloaded the latest firmware and upgraded router.
+1	The  firmware on this router is just terrible .
+1	Installation was easy, firmware had to be upgraded to the latest one (laptop refused to connect without that).
+1	I couldn't  connect to it from my PC to upgrade the firmware because it was stuck in  self-test mode.
+1	Yes, I updated the firmware, first day installed.
+1	(Why doesn't this come with the most recent firmware?
+1	Anyway, he gave up after 30 minutes, and said I'd have to upload new firmware to the router.
+1	I tried downloading and installing new firmware, and the router wouldn't except any update.
+1	would you believe that their tech rep said he would email me the firmware update, eventhough I couldn't access email (that was why I was calling him).
+1	So I went to netgear's website to download the latest firmware.
+1	With the firmware image ready, my next task was to get the Netgear device back up and running so I could access its setup page.
+1	Anyway, I got the thing to boot, and loaded the new firmware image on it, then restarted the router.
+1	On the failure page that results, you can find a link that takes you to the "basic settings" section, which is essentially the menu system the old firmware used to set up the router.
+1	Like I said, though, I planned to replace the stock Netgear firmware with DD-WRT to get those advanced features.
+1	Don't consider this router, though, if you want to run an alternate firmware or are looking for a router with more advanced features.
+1	However the firmware upgrades from d-link made the router less and less favorable -- they're buggy and hard to get everything set up correctly.
+1	The worst -- the latest firmware upgrade bricked my router and the built-in emergency backup system failed to bring the router back to life!
+1	The professional technician who installed the router and network card spent about 5 hours trying to tweak it, including downloading updated firmware from Linksys, but to no avail.
+1	However, I have to take 2 stars off for lack of stability, ESPECIALLY with recent firmware upgrades.
+1	Some versions of the firmware don't play World of Warcraft - miscalculates the checksum for a particular packet, leading to the game being a 'ghost town'.
+1	First thing I did was updating the firmware.
+1	I was very pleased that the newest version of the firmware includes WPA.
+1	I was hoping the newest firmware would fix the problem but it didn't.
+1	When I chatted with the Linksys support, he claimed there were only firmware differences.
+1	Most recent firmware you say?
+1	Other folks suggested a new beta version of the firmware, but it still has lockup issues too.
+1	But unless you like unplugging your router twice a day to get it unstuck, avoid it until they fix the firmware .
+1	I'm a computer engineer by training and tried everything I could think of - changing the the channels (one by one), updating the firmware to v10, hardware reset, playing with the preamble and tuning other parameters - all to no avail.
+1	I've tried a half dozen different versions of Linksys' firmware versions.
+1	I've upgraded the firmware, but that only established the connection until the next day when it failed again.
+1	If you have the WRT54G router, go to Linksys and download the latest version of the firmware.
+1	I've seen 2 firmware updates, but neither made any apparent improvement in stability or features.
+1	Apparently the hardware is good but the setup software, firmware and tech support are abysmal.
+1	I'm guessing that this problem can be resolved via a future firmware update from Linksys, but who knows when that is coming.
+1	Linksys must perform little or no quality review of their firmware.
+1	The signal strength problem that lead to my purchase was due to a bug in my WRT54g's firmware (2.
+1	Again, Linksys demonstrates an amazing inability to properly test their firmware .
+1	4 firmware, I am currently running at between about 36% and 52% signal strength, which provides a minimum of 36 mbps, higher than the maximum 27 mbps (54/2) that the WRE54g can deliver.
+1	If that does not work, and you do not have a Linksys wga54g game adapter (or you are patient and trusting enough to wait for Linksys to correct the problem in a firmware update, or you are feeling lucky), and you have a Linksys router that the WRE54g is advertised as compatible with, purchase the WRE54g.
+1	I guess the setup CD makes a great frisbee - it certainly does not help with setup, as it couldn't detect the WRE54g, even with WEP and MAC filtering off, and broadcast SSID on, and using a wrt54g router having the latest firmware downloaded from Linksys (2.
+1	I checked the website and noted the existence of new firmware.
+1	The new firmware's date was 6/8/04.
+1	04) date was 5/8/04, so I thought the new firmware would help things.
+1	Too bad the link on Linksys's website resulted in the download of yet another useless version of the WRE54g setup utility, no firmware included.
+1	Here's what Wikipedia has to say about this device: "Known issues As shipped, the Linksys firmware crashes under heavy peer-to-peer network traffic, such as BitTorrent.
+1	Briefly, it involves installing a 3rd party firmware.
+1	And there's not enough memory in this thing to install a full version of DD-WRT (3rd party firmware) so you're essentially SOL.
+1	After about 10 failed attempts, I managed to flash it to newer firmware.
+1	When an firmware upgrade was available (1.
+1	Tech suppport was reasonable, gave a few firmware updates, but didn't help.
+1	Also it's no wonder that this company releases so many firmware updates and hardware revisions.
+1	VXWorks Junk, September 8, 2006 Reviewer: Bryan Garrett "skunkwerx" - See all my reviews Do NOT purchase this unit thinking you will be able to upgrade the firmware.
+1	This is NOTHING like the old versions of the WRT54G and GS routers that would allow opensource firmware with lots of flexibility.
+1	This is the "new" version has 1/4th the memory and very buggy firmware that is NOT upgradable to customized versions.
+1	The first tech thought I needed to upgrade the firmware and told me where to download and to call back if I needed more help.
+1	240 (user blank and password admin) in my web browser and connect to the expander where I could install the new firmware.
+1	It took me a bit to work out what was going on because I initially left the neigbours IP settings in manual (which is fine when intalling the firmware) but after using the setup disk you need to go back to automatic!
+1	The firmware which came out on the 29th January does not help resolve the problem, although they claimed that it will solve some compatibility issues with CISCO chipsets, etc.
+1	Nor would it accept a firmware upgrade (this was a V4 running the 1.
+1	but would not come close to saying they had bad hardware or firmware.
+1	Perhaps it is just the recent Hardware version 4 and the firmware.
+1	Also, contact Linksys to get the latest firmware to update the extender -- the updated one supports security better.
+1	I am also having great difficulty trying to install a third party firmware on the router.
+1	I was hoping that it might not be a hardware issue and it might be a  firmware issue .
+1	This router was a gift; I have set it up with the factory firmware and no one complained about the WiFi a signal dropping, or slow connection speed.
+1	Also, the features don't come close to the terrific Trendnet firmware -- for example, port forwarding only allows you to forward the same port on the WAN side as LAN side (I usually forward port 222 to port 22 on one machine and 223 to 22 on another).
+1	I called the tech support and they helped me install new firmware, but this did not solve the problem.
+1	I ended up performing a firmware upgrade and re-configuring the router.
+1	No change, nothing worked (I had DL the latest firmware upgrade for the V5 hardware (1.
+1	After all this time, the tech tells me that the hardware is new (WRT54G v5) and that there are known bugs, these are two, and the Linksys is working hard to come up with updated firmware.
+1	The only thing that was different wast he firmware.
+1	They had me update my VERY old firmware .
+1	After a lot of work they had me change my firmware to an older version, 1.
+1	The process of upgrading the firmware went like this: 1) Upgrade firmware throught the IE interface.
+1	2) Push in & hold the reset button for 30 seconds 3) Unplug & replug the router 4) Re-enter my settings (because of the reset) The first time I upgraded the firmware, they skipped step 2!
+1	So I don't know if it's the firmware version or if it's reseting the router, but my main constant dropped problem is solved.
+1	After trying this for a couple of weeks I'll upgrade to the current firmware to see which of these 2 is the cause of the problem, as well as seeing if it fixed my OLD problem of having to restart the router  a couple of times a week.
+1	As a result, you won't be able to flash it with third party firmwares.
+1	After she suggested I 'kindly' update my firmware, my set up wizard crashed and I couldn't access half of the router's website anymore!
+1	Followed instructions to upgrade firmware (shipped in 2012, but had older 2009 version it it?
+1	I have tried moving the router to a different physical location, changing the wireless communication channel, and upgrading the firmware from the Netgear website.
+1	A few years ago, I was one of the unlucky 'early adopters' of a Linksys 4 port router (wired type) and, for almost a year, had to endure continuous firmware updates before Linksys got that router's problems fixed.
+1	Two phone calls were made to Linksys tech support during which a firmware update to the 54G router and multiple resets of my cable modem and the 54G and reboots of my computer were required to get the 54G to connect on the WAN/Internet side of the router to the cable modem.
+1	For anyone using older firmware, I recommend upgrading it by grabbing the image from the Linksys site.
+1	the product failed after a firmware upgrade.
+1	I tried downloading the latest firmware, but to no avail.
+1	If Linksys would release reliable firmware for this router, I'd give it 4-5 stars.
+1	"  After having some other problems, I took it back and the vendor upgraded the firmware.
+1	Then today, after being instructed to reset the router, it got stuck in a mode where it only wanted a firmware upgrade (there was no apparent way out of this).
+1	Worked great until the new firmware that installs SecureSpot.
+1	You may ask why not go back to the old firmware.
+1	The first few  firmware revisions were a little bumpy , but the problems I experienced were sorted out relatively quickly and the router was fast and stable - easily the best router I've owned (and there have been many).
+1	So, overall, I have to give this excellent piece of hardware 2 stars because of D-Link's awful recent firmware and support.
+1	If it was possible to revert to an older firmware, perhaps I would feel differently, but I have been forced to replace the router with a non-D-Link device as I work from home and need reliable internet connectivity and VOIP.
+1	  After repeated calls to the terribly unhelpful "technical support" (who seemed convinced that the problem was everything BUT the router - very suspicious - and who sent me firmware that refuses to install) and a sore neck from long hold times (at least 45mins.
+1	This one had the latest firmware, so the bridge option was removed by Dlink.
+1	The linksys people were clueless also , the sent me 3 different firmwares, but none worked ( even beta ones).
+1	50, resetting my router to default, then resetting the new device to default, then upgrading the firmware on the new device (which I downloaded before I changed the ip to static).
+1	The main problem is that you can't see the thing on your network and it has no port to connect to, so you can't configure it or upgrade the firmware--which is worthless and unusable.
+1	I've held on, hoping that a magic firmware update would be issued that would make all of the issues disappear.
+1	My firmware is up to date, I've re-started it 50+ times, my internet is working fine (I'm on it now thanks to my old router), I just cannot get the router to connect to the internet.
+1	With the newest firmware, the b devices and g devices work together very well.
+1	If you load that firmware, your wireless throughput will drop even further, and many of the functions like creating secondary ethernet bridges will completely cause the WAN to quit working.
+1	This router use to be great, but with the new version 5 it's only got half the memory and can't be my 4rd party firmware installed.
+1	I didn't go for that because I had already tried the router somewhere else and used DD-WRT firmware which didn't work either so I knew it was not a software issue.
+1	i've upgraded the firmware, i've even took my router to my friend's house to see if the problem is universal, and yet it is!
+1	The provided firmware is useless .
+1	I was able to delete the old firmware but the new  firmware would not install .
+1	Turns out this version is very buggy and can't be upgraded to aftermarket firmware.
+1	The latest version of this product model has less RAM and runs a different firmware (essentially an operating system) than previous versions of the same product.
+1	As others noted below this router drops local connections constantly (2 to 3 times daily) I did not have this problem until I updated the firmware to the latest release: 1.
+1	Have been updating new firmware whenever a new one is available.
+1	However, with every new firmware, the quality seems gettign worse.
+1	I had to go through talking to three or four   really novice support people before I finally got someone that gave me a firmware upgrade so that   the box would work.
+1	The instructions on the self-help support webpage lead me to upgrade the firmware, and once that was complete, I have not been able to connect to the unit again.
+1	As soon as I got it I downloaded the latest firmware (end of May 2010).
+1	The advantages of the 1490 are all for naught without reliable firmware which this device lacks.
+1	The abundance of capabilities of these new boxes requires complicated firmware which quite obviously the manufacturer is not able adequately to debug.
+1	I have not tried 'eco route' related functionality I have updated map and software - so it has now latest firmware and map Basic functionality - add address/search address , navigation,interface is fine now i feel following issues - if anybody has any input let us know 1) when unit start - screen loads after "I agree" button ,it always make noise like "spark " or radio tunning for fraction of second and then it become normal.
+1	after updating the firmware using a pc, this wireless router works perfectly with mac os x and the airport (802.
+1	it is particularly disappointing that there is no way to update the firmware without using microsoft windows.
+1	I have had mine for about a year and use a third party firmware on mine and love it.
+1	Because of that, a bunch of really smart people sat down and figured out how to make the Linksys WRT54G run their own custom firmware.
+1	So, if you type in "Linksys firmware" into Google or A9, you will get a list of websites that have custom firmware for various kinds of Linksys Routers (Linksys makes a few routers that run Linux).
+1	The really neat thing about this is that the third party firmware are very powerful and add many more features to the WRT54G that are not there, but should be.
+1	Simply put, the hardware is just too small to run Linux, which is a really bummer since I found it fun to play with my Linksys WRT54G's firmware.
+1	This is the 6th version of their firmware and they still haven't solved the problem!
+1	I don't care if DD-WRT is better, I believe the router should work and be functional first with it's firmware.
+1	Downloaded the new 54G driver for the card and firmware for the router - still nothing (router is set to mixed mode and B card has latest firmware and driver, I also uninstalled the B card from my wife's laptop prior to installing the new G card).
+1	The router's "stay alive" feature disappeared after installing the new firmware update.
+1	He had me execute almost the same routine that I had perfomed prior to calling: I rolled back the card's driver to original (Win XP roll-back feature), uninstalled and reinstalled card from the control panel with reboots, reset the router, and rolled back to router's original firmware -- nothing.
+1	Usually Netgear firmware (yes all of the routers have the latest Netgear  firmware had to offer) is really buggy  and takes about a year and half to get the issues work out.
+1	The 3700 now sets on a self waiting until firmware is released indicating these issues are fixed and my wife has forgotten about the struggles over this past week.
+1	She then had me download a beta version firmware update, Version 1.
+1	This firmware update immediately fixed the problem, and I now have a stable Guest network running alongside the regular wireless SSIDs- the principal reason I upgraded to this router.
+1	Hopefully the new firmware version will be posted soon on their website.
+1	Tried every firmware update (even beta versions) to no avail.
+1	Talked to Linksys tech support and suggested new firmware, hopefuly this will fix the problem.
+1	I've updated the firmware, replaced the router with a newer one, and called tech support several times.
+1	Updated the firmware even though I have no idea if that's good or not for this product.
+1	Using multiple settings, updated firmware, more than one laptop, and searching various forums I could not get the 5gz to hold a steady signal.
+1	For the others who don't use custom firmwares, be aware that v5 is running on a new platform with new firmware (rev 1.
+1	So I called support AGAIN, got a guy after 7 minutes, but he directed me to their website to download a firmware update, and then basically hung up on me.
+1	Finally, after a third try, I got someone on the line and he got me to the firmware and helped me install it via their web interface, only for me to experience the same connectivity problem the very next day.
+1	Now I can't use the WRE54G because of the router  firmware incompatability  - the extender is unstable and basically useless.
+1	I emailed Linksys about this issue, and hopefully, they'll include that feature in their next firmware upgrade.
+1	5 firmware (it had firmware at least a year old right out of box).
+1	I had installed the newer Linksys WirelessG routers several times since installing this unit, and saw these similar issues and can only conclude that the latest firmware programmers at Linksys really suck.
+1	It is plagued by firmware issues since day one.
+1	I currently have a bricked DIR-655 due to a firmware update.
+1	Tech support says to download new firmware -  can't find firmware  for v5 on their site.
+1	I have the latest firmware, so there's no excuse.
+1	With third party firmware, it can do lots of stuff only a router that costs much more can do.
+1	I installed the router corretly, upgraded the firmware, secured the network (using WEP), and tweaked all the settings, including disabling content filtering and the firewall, in the hope that it would improve performance.
+1	Tried several firmware upgrades and downgrades, still no help.
+1	I'm hopeful (and expecting) that Linksys will release new firmware correcting this problem.
+1	After I completed setup, I noticed that this router would not list my network printer as a device that could be assigned a DHCP reservation, so I accepted the suggestion on the internal management website to check for a firmware upgrade.
+1	After a long session with tech support, I finally was told that the firmware recovery utility on the CD is apparently not expected to ever work, and they asked me to return the unit for a refund, which I did and ordered a D-Link.
+1	I know what I'm talking about, as engineering manager for a company that makes (not networking) products that have updatable firmware.
+1	There is a new firmware version out (1.
+1	And with the latest AirPort firmware on the MacBook, the WPA settings cause a system crash (kernel panic).
+1	At this point I went on to check firmware which was a minor update behind, so I set that up and updated the router.
+1	So the CS Rep talked me through all the work I had just done to update firmware and change the router settings, which is fine.
+1	I tried to use the DD-WRT firmware update, but something went wrong along the flashing of the router after uploading the firmware file and I ended up with a blue-black brick sitting on my desk.
+1	I hoped to resolve these issues by updating the firmware for second time, but I could not.
+1	Next firmware update not expect until Q2 2011 according to the forum post above.
+1	I think it's pathetic for a company to release firmware which has such an obvious flaw that end users are able to find it and post about it within 4 days of the firmware release, particularly when the problem IS THAT THE ROUTER DROPS THE NETWORK CONNECTION EVERY MINUTE.
+1	Initially the product worked well for me, although there were some config issues to begin with, due to old firmware.
+1	Ok, no big - I can update a firmware.
+1	, then i called again the other guy told me to upgrade my firmware, THAT CAUSED EVEN MORE PORBLEM!
+1	I did a firmware upgrade that did nothing but erase my address book.
+1	And since it's using the latest firmware, the problem can't be solved with a simple firmware upgrade.
+1	I've tried different channels, upgraded the firmware to 2.
+1	Eventually when I tried to update the firmware, my computer crashed, and the router went completely dead.
+1	Recently I tried to revive this older WRT54G model again by restoring the factory defaults and then updating the firmware.
+1	This last problem may not be the fault of Linksys; they do warn that if the computer stops during a firmware update, the router may die.
+1	I tried just about everything, including updating the latest firmware, but still no luck with signal improvement.
+1	After much frustration,I put the gargoyle firmware on it, which lets me use it as a repeater but connection is extremely shoddy, dropping frequently and taking AGES to reconnect.
+1	Here is the short and sweet of it - Vonage runs their own firmware on the routers they package or the routers they commander for their service (i.
+1	if you read them a MAC number, they are running their own firmware).
+1	Most Linksys products are incompatible with the most recent firmware version running on Vonage controlled routers.
+1	What this means is that if you upgrade to a version of firmware that will allow this expander to work, your Vonage service will not work.
+1	Who has ever heard of re-installing firmware?
+1	that's more of a statement that the firmware on so many other products is lacking.
+1	The first thing I did was upgrade the firmware to the latest version.
+1	I have had this thing since it first appeared on the market and have applied all of its firmware upgrades.
+1	I'm fairly tech savvy but there's a crucial but mostly hidden firmware upgrade that apparently the router WILL NOT FUNCTION WITHOUT at linksys.
+1	I have upgraded the firmware, portforwarded and done everything i could possibly do, but every other day i have to come home and pull the power plug to the router, wait for it to reboot then get on the internet.
+1	My guess is that it is the lack of good PPPoE support in the firmware.
+1	95 for a one time "incident fix" after they convinced me that my firmware needed to be upgraded (which I could have done myself) and some "special settings" needed to be put in place (I wasn't sure about those, so that's why I paid them#.
+1	The first time I called tech support the linksys site was down so they could not download and install the firmware upgrade BUT they promised to call me back the next day.
+1	He upgraded the firmware, changed a few settings and it still didn't work.
+1	For maximum protection, it's a very good idea to keep the router firmware updated.
+1	the stats look impressive, but I've sunk more time into debugging and updating firmware than the cost of 5 new routers at a reasonable hourly rate.
+1	It has half the amount of RAM and flash memory as the previous versions, so it can no longer run the third-party Linux firmwares.
+1	I upgraded the firmware with the latest version without results.
+1	Maybe it needs a newer firmware?
+1	The v5 version contains new firmware, and cannot be run with third-party firmware like the previous versions.
+1	The firmware in v5 is brand new and awful, as of 1/28/06.
+1	I upgraded my recently purchased v5 router to the latest firmware, and it still was terrible.
+1	It does  not work with the original firmware  that CAME with the router, it does not work with the LATEST firmware.
+1	a firmware update is supposedly coming, but in the meantime - mine is going back.
+1	if you would like a modicum of security - then look elsewhere or at least be sure that the new firmware has addressed this issue.
+1	Even with the latest firmware, it is consistently unstable and will lock up and stop functioning every few days.
+1	Lynksys (as of 01/20/06) only lists the following three products as compatible: WAP54G (firmware version 2.
+1	Updated firmware and went through hours of troubleshooting with D-Links horrible customer service.
+1	When contacted the Garmin tech support, they kept saying do a soft reset and/or do firmware upgrade.
+1	Besides, due to small internal storage size, you MUST delete some voice files from the unit to install a new firmware.
+1	Not only that, but dlink refuses to admit the problem is their firmware and rectify it with customers.
+1	I've called tech support and the best they could do was guide me through a firmware upgrade or two, which did not fix the problem.
+1	No new firmware available and I'm not wasting my time with Netgear netfools on the phone.
+1	I updated the firmware to beta version 1.
+1	The response told me nothing that I did not know, That the router wasn't ready for prime time, and it needs a new firmware.
+1	I used their online chat tech support, & downloaded firmware, reset the router, & nothing worked.
+1	The opening window does a search to see if new firmware is available.
+1	I downloaded the new firmware and tried to install it.
+1	The new  firmware "bricked" my router  and I couldn't get it fixed.
+1	Even though it was their firmware update that trashed my unit they would not make good on it claiming it was out of warranty, which it was.
+1	The problem comes in with their firmware.
+1	To put it simply you could consider this device to be in beta testing at the firmware level.
+1	Its a firmware issue dealing with the searching for new clients that they haven't ironed out (and who knows if they ever will, its already been through 12 firmware revisions)similarly, the current  firmware lacks  the ability to set the MTU (packet size) which again while it won't interfere with your email will cause a game to crash out eventually as the packet size is nonstandard (i.
+1	Since I have been fairly happy with it, I decided to get the same one again (version B1, firmware 2.
+1	Endless firmware updates dont make a difference to the range - its a poor design.
+1	Unfortunately, I ran into the same type of problems as everyone else -  firmware problems , speed reduction, complete loss of internet capability from my wireless computer - you name it.
+1	The firmware update will ruin your router, and there is no fix available.
+1	It worked fine until the firmware updated to the latest version.
+1	Before the firmware update, the 5G band was weak too.
+1	There was a suggestion from a customer to downgrade back to old version firmware.
+1	After yet another long call to India the latest tech support rep acknowledged that lots of these models are having the same problem, and upgrading to the latest firmware (which I did immediately upon installing both of these routers) won't fix it, so her solution was.
+1	com/gp/product/B000BTL0OA/ref=cm_cr_asin_lnk/181-7332158-2732331">Linksys-Cisco WRT54GL Wireless-G Broadband Router  (Compatible with Linux)</a> with firmware upgraded to DD-WRT which performs flawlessly.
+1	I think Linksys changed the firmware, rendering the unit useless, but then they won't offer help.
+1	I decided to just throw in the towel and return it rather than deal with another one with questionable build quality and firmware.
+1	I tried firmware upgrades and downgrades, but the problem persists.
+1	I've seen no evidence of the Wifi disconnect issues that others have, but I immediately updated to the latest version of firmware when I set the router up.
+1	I have the latest firmware and I have not changed anything else in the set up on either this router or my cable modem.
+1	I downloaded all of the latest firmware updates from Linksys to no avail.
+1	If you go there, check out the reviews, warnings, and horror stories about the WRT54G V5 router, the WRT54G series altogether, and Linksys' refusal to acknowledge any problem or put out any firmware that is in the slightest bit useful.
+1	0 Mbhs) to see if there is newer firmware.
+1	Yes, the V3 died on me and was not great either, but upon doing some research after all this, I feel that with the available 3rd-party firmware available, a V3 would be my best bet.
+1	I verified that I was, indeed, using the latest firmware from Linksys and that the problem was continuing.
+1	He told me to search for another V1 trough V4 WRT54G and upload some third party firmware on it.
+1	I brought it home, plugged it up and immediately downloaded what is presumably some of the best third party firmware available for these routers.
+1	The firmware not ony makes the router reliable, it makes it more powerful as well.
+1	I know that it must sound like I am peddling this firmware or something, but that's only because it has saved me so much grief.
+1	You download third party firmware (be sure to download and install it plugged into the router, not wirelessly) You don't waste your time with Linksys customer service or tech support.
+1	Obvious the problem is their firmware.
+1	I guess the firmware is written to detect pointed object movement, instead of finger movement.
+1	Upgraded firmware, did a factory reset, nothing helped.
+1	Bought it in November, and slowly the signal decreased in strength, speeds dropped, gaming consoles and laptops disconnected, and finally, a  firmware update destroyed it .
+1	I updated to the latest firmware and it's even worse.
+1	So she gave me a silly excuse that the Dlink notebook adaptor needed a firmware upgrade.
+1	it had the latest firmware.
+1	After trying for a hour trying to find the right setting I was missing, I checked for a firmware upgrade and there was one (for warning, the upgrade takes away all your settings so back up your config).
+1	The second time I called (which was only 3 hours later) they tell me that something is wrong with the firmware inside the product and that I would need to replace it and send it back because they aren't getting a response from the product.
+1	I got another Linksys and updated it with latest firmware.
+1	Please note that the "auto-firmware check" does not detect the latest firmware.
+1	com and put your model number in to download the latest firmware.
+1	So I had to go through the same process of giving him all the information about me, the serial numbers, model numbers, firmware version, phone number, blah blah - Again!
+1	No matter what channel I selected and after applying the latest firmware and recommended technical support troubleshooting, the signal strength was always "very low" and communication from the remote PC via the WUSB54G adapter was consistently intermittent.
+1	I updated the router with the latest firmware.
+1	Speaking of which, it needed an immediate firmware update because the one that shipped had a bug that would turn off the antennaes when a guest network was enabled, but no worries, it was corrected in the update.
+1	I updated the firmware straight out of the box and DLINK is apparently ok with allowing customers to waste endless amounts of time trying to correct a problem they caused and are aware of.
+1	I have gone to the Netgear forums for help and i have done all the standard troubleshooting like updating the most recent firmware but this does not help.
+1	Linksys hints that they'll support WPA via a firmware upgrade in the future.
+1	I'm giving 1 star for the crappy company, software, firmware buggy junk.
+1	this router is pretty stable for me, but the firmware, the admin console has a few bugs and inconveniences, and it seems netgear doesn't really respond to fixing them all that quickly.
+1	a few other people including me sometimes get a "no devices attached" situation where the firmware doesn't "see" the connected devices.
+1	if netgear is smart they better come out with a firmware update that fixes these problems fast.
+1	the version 5 is junk ive been disconnected 2times a day and i have there newest firmware.
+1	for the love of god i downloaded 5 updates on firmware and the only thing its cahnged are the slow dwnlaod speeds NOTHING ELSE it still disconnets.
+1	I've tried a firmware upgrade, I've tried changing the MTU size, and next I think I'm going to try another brand of router.
+1	I then asked her if I should do a firmware update and she said I would need to go to their website and match up the firmware I have with what is current on their site.
+1	After several hours and a firmware update through the software I got the router up and running.
+1	What's more frustrating is there is nothing on the linksys support site and the firmware has not been updated since December of 02.
+1	We started having a lot of disconnects and a firmware update did help a lot.
+1	They advertise a network storage capability with the latest firmware update, but my IT guru brother and I could never get it working which is too bad.
+1	Searching the web for an answer, I read a firmware update corrected some of the problems (why did I get one with known problems?
+1	During the attempt of updating the firmware it shut down again, guess that froze up the router for sure.
+1	While surfing the web, I read someone mentioned to update the firmware from Linksys for a problem which was totally different than mine.
+1	Getting a bit better after updating firmware manually.
+1	All I get is the firmware upgrade screen.
+1	I contacted Netgear and they agreed that this was a problem and it was going to be fixed in the next firmware release.
+1	They stated that the firmware was in the final days of testing.
+1	I would not purchase this product until the new firmware is released.
+1	Three phone calls to D-Link technical support finally revealed that aside from the USB port sharing capability on the router, there is no solution addressing the ability to truly share printers efficiently across the network as of 08/22/2009, and no estimated date for a software or firmware update.
+1	there appears to be firmware problems as well.
+1	If you run torrent's or any P2P, run for cover and get the WRT54GL, which is basically this router with the memory (double) and firmware of Version 4 before they cheaped out.
+1	Also, forget about using 3rd party firmware with Version 5 also.
+1	In my efforts to identify routers that provide NAT Loopback Support, I discovered DD-WRT: "DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
+1	I flashed the DD-WRT operating system onto the Asus router with absolutely no problems by doing a firmware upgrade.
+1	It also had a decent amount of options in the firmware.
+1	I've upgraded all the firmware and tech support is useless.
+1	Edit: Switching the QOS OFF appears to prevent spontaneous reboots with firmware version 1.
+1	I've had a Ver 2 of this router for about a year, and the thing works flawlessly, and I can't remember any major problems with it, once I got the latest firmware for it.
+1	Linksys Tech Support is pitiful, and after them telling me over 15 times to upgrade to the newest  firmware, which was buggy  in the first place, I gave up and swore off linksys products forever.
+1	Even with the latest firmware update the connection will drop randomly.
+1	This item was easy to set up and offered fast surfing but firmware updates are far and few between, I have owned for one year, constantly loses internet connectivity, crashes, the customer support is worthless, don't waste your money on this one.
+1	When it goes down, you have to reset or download new firmware or generally spend hours trying to figure out what went wrong with it.
+1	I have WRE54G version 1 and on the advice of tech support and various Linksys articles, upgraded my firmware.
+1	When the support tech came back online I asked him to point me to an earlier firmware upgrade.
+1	I suspect that the latest firmware was designed with V2 in mind, not V1.
+1	During this 7-hour tech call, they had me install a new version of the firmware, which resulted in the router not working at all.
+1	Called D-Link tech support and after being walked through all of things I had already tried, I was asked what level of firmware was in my router and instructed to download the latest firmware and told to call back if that didn't fix it.
+1	It does not run Linux anymore, so there are no firmware alternatives.
+1	You also have to update the firmware, but the dLink support site is pretty easy to use.
+1	Be prepared to have issues fixed as new firmware comes out and all of the sudden your other hardware is functional again.
+1	As other reviewers have pointed out, this unit, with firmware 1.
+1	They don't even have the option of loading the older firmware in order to re-enable the video.
+1	I downgraded to the original firmware (factory default) and streaming worked fine.
+1	He emailed me a file containing a firmware upgrade (version 1.
+1	Just had the new firmware pushed to the router so hopefully that fixes some issues.
+1	Upgraded firmware, WAN port turns 10Mbps, works fine with cablemodem, but LAN ports got stuck at 10Mbps, too.
+1	Linksys' tech support was really bad, didn't even know about the latest firmware which I had to advise her on.
+1	After many config software hangs, then  firmware upgrade not completing  after several tries, she suggested I take the machine back and try to get a version 2 or 3 which she said worked better!
+1	This class of devices cannot fail, and even with the latest firmware this one does, a lot.
+1	My DIR-655 was working great until I upgraded the firmware to version 1.
+1	3x firmware, it will be slow and require a reboot about every couple of days.
+1	If they get their firmware fixed, I would change my rating to a 4-star, but this  broken firmware  that doesn't allow a downgrade is four months old, so who knows how long I will have make regular trips downstairs to reboot the router.
+1	Tried different firmware's from.
+1	Router died while going through firmware upgrade (reset by itself while in the middle of firmware upgrade) Pathetic piece of equipment.
+1	Buyers beware if you have constant reset problems on this router do not upgrade the firmware on it.
+1	a month later: Again to start the same: - lose connection - automatic test in the router is activated - connection is still lost - connection is restored (1 or 2 minutes) I checked for firmware upgrade, I did this, and reset router and other config details but the problem still continue and as the 3months warranty expired.
+1	After many attempts to fix this, including updating the firmware from Linksys's website, refreshing the factory settings and following the Easy Set-up again, it still did not work properly.
+1	10 of the firmware, but using this version, the router didn't work with one of my friend's wireless cards.
+1	With the GS you'll get MORE processing power and more ram so you can use cooler Sveasoft firmwares.
+1	The setup wizard on the supplied CD does not run on either of my wireless PCs, both have Linksys cards installed, and I have found no trace of any firmware upgrade on the Linksys site for this product.
+1	Newest  firmware upgrades are still unstable .
+1	As an added perk this router allows you to change the firmware and install DDWRT on it and enable dozens of more features only found in very expensive wi-fi equipment.
+1	I updated every driver and firmware on several different routers and the range expander, all to no avail.
+1	We buy the same model and expected to be the same but turned to be a wrong decision, the current one (bought at Walmart at 02/2010) is actually a different model: WGR614v9, with only 8MB Ram and 2MB flash Rom, only half of the WGR614v8, and more important no more Qos in router firmware, it is much slower than the WGR614v8, especially under heavy load thus need manual reboot.
+1	constantly drops the connection with rogers 3mb service, i DO NOT recommend this product, the only SEMI-FIX is to upgrade the firmware and PRAY for the best.
+1	com/easy , clicking on NetUpdate to download the firmware upgrade for v.
+1	After a couple livechat sessions (they were helpful but sort of went the roundabout way and didn't get me to the final solution), I finally spoke to someone on the phone for support who noted that I not only needed to do a firmware upgrade (basically software for the router to work) (which I already discovered is a different firmware upgrade for v.
+1	5 needs a firmware upgrade and help from a program you can get online to get it to work.
+1	I was on the phone with DLink support for 3 hours to have them walk me through upgrading the firmware and reconfiguring the router.
+1	The latest firmware ships with 'Advanced DNS' as 'enabled', by default.
+1	Setup was easier because XP had the drivers on-board and there was no need to download and install firmware upgrades.
+1	My Complaints: 1) Total PITA to uprade firmware.
+1	Also the newest firmware package I found was from 2004, so basically cisco doesn't support this router anymore.
+1	To resolve the issue, I had to update firmware multiple times.
+1	They refuse to update the firmware to make it stable while downloading media files.
+1	Both of mine are version 4 with the latest firmware that will NEVER be upgraded by linksys.
+1	I also installed and configured one of these units (with the v4 chipset) for a neighbor and found similar problems - eventually I had to *downgrade* from the latest firmware to get DHCP and WEP to work at all.
+1	After upgrading the firmware, the router is very unreliable.
+1	It still had problems, even with the newest firmware update.
+1	I wrote this purchase off and reinstalled my old (before the Cisco acquisition) Linksys router (same model number, but earlier firmware version).
+1	10 version of international  firmware and still have the issues .
+1	All for not, after 6 months it drops all wi-fi connections after a few hours of running old firmware or latest.
+1	I tested with different firmware versions and various setting adjustments as recommended by other users experiencing the same problems, and it still disconnect and reboot itself at random and frequently.
+1	Its undeniable, this is the worst purchase I can remember making, I have flashed firmware (so many times now its a joke), done resets, combed the internet for help and can only conclude that this is a seriously under engineered time waster, sorry, after 10 months, I have had my fill.
+1	It no longer runs Linux, and can no longer be upgraded with 3rd party linux software (technically firmware).
+1	In the meantime I had some minor, yet annoying issues, with external USB drives not waking up after going to sleep -- later firmwares fixed this.
+1	Firmware: The unit that I got hung almost every day, till I flashed it with the latest firmware from Linksys.
+1	It took me a whole day to realize that it was impossible with this router (version 4, latest firmware 1.
+1	The same problem happened in earlier hardware and firmware versions before (saw some online discussion), and it came back again in this latest version.
+1	Thoughout the year, I've upgraded the firmware on the router several times, each time adding new functionality (PPPoE, IPSec tunneling, etc) without introducing any problems.
+1	This router is serviceable and has good range but the  firmware corrupts  the memory.
+1	This router has very bad firmware , and no prospects of improvement.
+1	The rep had me download the same version firmware I was already running and had me reupload the firmware, then do a factory reset.
+1	A new version of the firmware was released yesterday and the problem is still not resolved.
+1	You can download a firmware upgrade.
+1	Up to this date I could not find a firmware version that works properly.
+1	The newer the  firmware, the more problems  it seems to have.
+1	The web site actually warns against downloading the latest firmware "unless you really need a feature in it" The attitude of technical support is revolting.
+1	I updated the firmware (keep on top of firmware updates) and this problem went away.
+1	Updating the firmware is very very easy.
+1	Checked the website for firmware updates (in case I missed one that fixes something).
+1	nope I had the latest firmware.
+1	- Be very careful about firmware upgrades.
+1	They admitted that the router has a firmware bug and then promptly closed my tech support case.
+1	Also one big topic is the firmware.
+1	Those issues are well known by Netgear but they can't issue a new and robust firmware, instead they keep change the name of the router.
+1	No recent firmware release to correct the issues.
+1	(Not sure why they didn't just push the new firmware onto the units when they were manufacturered.
+1	) Upgraded the firmware to the latest version and it's been working great the last week now.
+1	I was very happy with it until recently and now I'm going to have to play with settings to try and figure out if it is a firmware configuration  problem or if the hardware is just bad.
+1	"Word" is that the bugs in the firmware have NOT been worked out as of recently, and the router is very unstable to say the least.
+1	Even after upgrading to the newest firmware (1.
+1	In fact I never got it to work so I thought I might need a firmware upgrade.
+1	Somehow I got linked to the BEFW11S4 v2/3 firmware upgrade page and did not notice.
+1	In my own erroneous fashion I went ahead and installed the wrong firmware, and what is worse is the software has no versioning checking!
+1	Be careful when dealing with linksys, I hope you don't get burnt doing firmware upgrades.
+1	My old unit had removable external antennas and plenty of RAM to support lots of traffic and advanced firmware like DD-WRT.
+1	It is underpowered and can only support the WW-DRT micro firmware.
+1	D-Link KNOWS of this problem (tech support told me they know but marketing doesn't), but they still sell the router, and there is  no firmware fix  available.
+1	I then made sure the latest firmware was on the router and then that's where the problems materialized.
+1	found out the version 1 model has alot of  issues with the current firmware .
+1	I rolled back to the older  firmware and still had speed issues .
+1	If you visit lniksys's site and read their forums you'll see lots of dialogue on frustrated users being told to upgrade firmware, etc,etc, and still getting no results.
+1	I called tech support and after several failed attempts to upgrade the router firmware with level 1 and level 2 assistance, I was told my router's firmware (the original v1.
+1	nowhere are  firmware upgradeability issues  mentioned and flagged as potential problems.
+1	The support tech tried various fixes including firmware and other undocumented tweeks.
+1	32NA firmware already installed, so I was prepared for some of the problems that have been reported,  but so far, so good.
+1	I've had to wait through two revisions of the firmware, about 6 months, to get even decent performance.
+1	I have the latest firmware but the problem persist.
+1	Then I decided to upgrade the firmware in it to try and fix a few problems.
+1	Unfortunately, the router  firmware is pretty bad .
+1	I am really hoping a third-party firmware comes out soon that works on this router.
+1	Then I found out all I had to do was update my router firmware and everything would have worked just fine.
+1	All the tech person had to do to help me was to say "Have you updated your firmware?
+1	tried the normal trouble shooting methods of firmware upgrades and turning off wireless security to no avail.
+1	Make sure you have a compatible router or access point with up-to-date firmware.
+1	I am ready to give up after trying to fix this problem by flashing latest firmware and resetting router(30-30-30) several times.
+1	You mean, I'm supposed to plug-in my old router firstly, pop the install CD in, maybe download a firmware update or something?
+1	Once I got past that, I was frustrated with doing some initial configuration just enough to connect to the Internet, download a firmware update file, flash the router, then start all over from scratch again.
+1	I *hate* when brand-new devices come with outdated firmware !
+1	I think I may have caused my problems by upgrading to the latest version of the firmware, which is v1.
+1	21 firmware, one that has SecureSpot, and one that doesn't (stupid!
+1	21 (which, I know, doesn't make sense), and the out-of-box version is the firmware WITHOUT SecureSpot.
+1	Should you choose to buy this router for WIN2K and you don't want to shell out another $20-$40 for a third party WLAN client then make sure if you do the firmware upgrade get the driver update for the NIC card as well AND stick with WEP encryption only (not like you have a choice).
+1	Yes, I have the newest firmware (I've even reflashed it several times, just in case).
+1	Those earlier routers run a flexible and powerful Linux based firmware that has been perfected for the past few years a numerous updates and tweaks.
+1	Instead of the flexible, reliable and powerful Linux firmware the new WRT54G version 5 routers run the licensed VxWorks firmware instead.
+1	The open source Linux firmware with the large amount of flash and system memory was attractive to many third party independent software developers that were turning the WRT54G and GS routers into powerhouse micro Linux wireless computers with a functionality approaching and often surpassing the $600+ wireless routers that Cisco sells.
+1	There might also have been an excess number of product warranty returns for the WRT54G routers due to so many people flashing them with non-Linksys third party firmware that sometimes can "brick" a router or make it unusable.
+1	Your solution is to either look for a previous version of the "WRT54G" router before version 5 or purchase the "WRT54GS" (SpeedBooster) version 4 which as of the posting of this review is still available in the stores and it still uses the popular Linux firmware.
+1	If you want to use third party firmware you may want the GS versions 2.
+1	Finally, if you do plan to flash your WRT54G with third party firmware the  ones before version 4 of the WRT54G wireless routers are supposed to be easier to work with.
+1	1) are the most flexible for use with third party firmware.
+1	Unless you want to use a more risky third party firmware I recommend that you read the manual instructions on how to carefully flash these older router models with a newer Linksys firmware which is designed for that specific router version.
+1	The latest official Linksys firmware for each specific version of router can be obtained from the Linksys support site.
+1	You will see the "CGN6" serial numbers on the box and as of this review these were still using Linux firmware with software based SpeedBoost enhancements but the RAM and hardware inside seems to be essentially the same as the older WRT54G (v4.
+1	0 (CGN5) are also good and will have more flash RAM available if you want use the wireless router with third party firmware.
+1	I would like to note that flashing the router with firmware other than an official Linksys releases obtained from the Linksys support web site will void the warranty and can result in a "bricked" or damaged router.
+1	Previous versions could be flashed with powerful third party firmware.
+1	0 routers can still be purchased and except for the SpeedBoost software enhancement (including a different version of Linux based firmware) they are essentially the same as older WRT54G v4.
+1	CONS: The latest version 5 has less Flash and System RAM and uses a  buggy non-Linux based firmware .
+1	) CONCLUSION: With all the changes to the memory and the firmware this latest G model is really a very different product and Cisco should have changed the model number altogether.
+1	Older firmware does not have this problem, so a newly installed router may not.
+1	Now it turns out that I was shipped the V5 version of this router which has been modified to NOT run this popular, powerful, inexpensive firmware.
+1	I can't imagine what motive Linksys had for this, since they don't get revenue from their own firmware.
+1	I've upgraded and downgraded firmware trying to find something that was really solid and reliable.
+1	Note these issues exist even as of the latest firmware at the time of this review (v4.
+1	I was told that the firmware that was installed with initial setup is flawed and the additional "support" that's been put out is also flawed, so it was removed from the company website.
+1	I owned this router for 9 months, works perfectly once I tried and error to different version of firmware and connection is speedy, steady and no drop signal.
+1	I declared no firmware changed, nothing was changed, but dropped signal strength in a sudden.
+1	I tried to upgraded and downgrade a few firmware, nothing improve to the signal strength.
+1	If they said firmware, it is still belongs to Netgear support, they can suggest me to search the answer from the forum, but they did not, the only option is to pay for software support, it is completely insane.
+1	I have tried updating the firmware, reverting to old firmware and everything in between.
+1	Apparently Linksys is having firmware issues on several models (that's what the best buy guy said).
+1	=  Great product with updated firmware Reviewer: An electronics fan from Yonkers, NY USA As has been reported in other reviews, I too had several problems with this unit when I first set it up.
+1	However, after downloading the latest firmware from the Linksys web site (the 1.
+1	I've given the product 3 stars because of how easy it is to set up and because it works as advertised with the firmware upgrade.
+1	If Linksys can get the firmware issue straightened out the product would easily get 5 stars.
+1	The unit I purchased had fairly new firmware installed, so I haven't had to wrestle with doing a firmware upgrade.
+1	I have been through multiple firmware and software upgrades, multiple support calls, and too many hours on-line trying to find solutions.
+1	As far as I've read, it's one of the most reliable Wireless N routers out there, but is plagued with issues - most of which I hope will be fixed in upcoming firmware releases by D-Link.
+1	After installing the latest firmware, this router worked for 2 weeks before my remote extensions all went dead on me (failed to come through the router and register), while internet connection (both LAN & WLAN) was still intact.
+1	Pros (they don't outweigh the cons, but here they are): Gigabit ethernet works well for the home network Range is great along with speeds Firmware has lots of great tweaks if you are technically inclined Looks slick Cons: Sporadically quits working with the internet connection (home network stays up), confirmed this is not an ISP or modem issue D-Link support (even the manual and website are incorrect at times) Must update firmware to get it to even work at an aggravatingly livable level To start off, I have had a horrible experience with this product.
+1	Completely reflashed the firmware recently as a possible fix for the connectivity issues mentioned below.
+1	It actually used to happen more when I first got the unit (I incorrectly thought it was the ISP at fault at the time), but the first firmware update in February 2010 got it up to a more stable state.
+1	However, the level of reliability is still far from acceptable (even after a subsequent firmware update).
+1	One other HUGE issue, upon updating the firmware recently, they have a new thing called SecureSpot 2.
+1	I will update this review when I get new firmware that fixes this issue.
+1	For all you firmware folks, the v3 model of the WNDR3700 is not supported by CeroWrt (.
+1	Actually it is the second version with new firmware packed in new blue box while the first one is in orange box.
+1	Don't forget if you flash upgrade your firmware,  ALL of your router settings WILL BE LOST and you have to configure it all  over again.
+1	I've updated firmware, followed all tech support steps, tried new cables, tried computers other than my own and in the end, it's the router that is malfunctioning.
+1	Be aware that in order to connect your airport express via Linksys you will need to upgrade your firmware, and be ready to spend some serious time working with this project.
+1	This product will NOT do the following: Hold a connection with the settings of 1) not broadcasting ssid 2) wpa or wpa2 encryption 3) MAC filtering on wifi 4) connected to an uptodate Macbook via correct settings 5) all this with the last two firmware updates.
+1	The  firmware is sooo shotty  that they already have like 4 or 5 different versions of it out, and the worst part is that non of them work properly anyway ( I downloaded all of them ).
+1	Netgear should have left well enough alone with firmware v1.
+1	UPDATE 2011/11/15: Smallnetbuilder dot com stuck with firmware version v1.
+1	The rationale behind the paranoid flash procedure is to make sure that another firmware version's setup (usually a slightly different size when backup-stored, with slightly different options) doesn't corrupt the the new firmware footprint (I guess).
+1	I tried at least three versions of firmware and continued to have the same problem (1.
+1	The internet is filled with similar complaints about slow downs and freezes, trying various firmwares, and doing various magic spell rituals before upgrading (holding reset button for 10 seconds, or 30 seconds, or doing it twice, unplugging with reset pushed, and so on).
+1	This occurred even after upgrading the router to the latest firmware.
+1	Seems like problems kicked in after firmware upgrade v1.
+1	Hours of frustrating calls to customer service, 2 replacements, and several firmware upgrades later, I gave up and decided to use only the wired switch.
+1	I reset the router, upgraded the firmware, performed a clean upgrade of all operating systems, and did a little resurrection dance around the unit.
+1	Changing the firmware, using a new password, restoring factory default.
+1	The router worked initially - until I applied the firmware update from Netgear.
+1	Then, after applying the firmware update for the router, I got no response from it - wired or wireless.
+1	I daren't upgrade the firmware again in fear of rendering the router worthless - not that it's worth a whole lot now.
+1	Both the one at my home office and the one at our business office have done the same thing -- simply stopped being able to connect to the internet after a couple of months even though the signal strength was great -- and they only worked for a few days after the firmware download that the tech support people walk you through (or that you can do for yourself).
+1	This is the second expander I have purchased, both of which had the same firmware revision.
+1	If you already have the BEFW11S4 and are having problems, you could wait for a firmware upgrade--who knows when that might come out.
+1	I have tried the hard reset, software reset and upgraded firmware, with no success.
+1	Despite the fact that Linksys (owned by Cisco) has had firmware updates for its WRT54G router to support WPA2 since at least August 2005, it still has not bothered to update this product.
+1	Linksys has done the wireless community a great disservice by making it incompatible with third-party firmware that has more functionality than Linksys's own proprietary firmware.
+1	The extra price is worth it, though, since the third-party firmware lets you increase the gain on the antennas and turn your routers into gateways, among other nifty features.
+1	All-in-all, the WRT54G is a good starter model for those who don't want to mod, but the extra $15 for the WRT54GL would be worth it for anyone who plans on a true firmware upgrade.
+1	I haven't tried customer support--not sure it's worth it, last time I had a similar issue took forever for them to tell me to reset the router, update the firmware--and still had the same issues.
+1	Then if you want, you can flash the firmware to a much better third-party like DD-WRT.
+1	I finally ended up getting everything to work by installing the latest firmware upgrade.
+1	I upgraded the  firmware, same problems .
+1	SLOW: This has become slower and slower with updates (maps and firmware).
+1	I put the latest firmware on it.
+1	However, I couldn't get WEP encryption to work at all until I upgraded the firmware, driver and ACU for the Cisco card past my apparently outmoded (6 point something) firmware version.
+1	Cisco has good instructions on its Website for downloading and installing the updated firmware, drivers, and ACUs.
+1	There are reported instances of data corruption during upload and download, even with the newest (or even newer) firmware.
+1	During this time I've been hoping that the connectivity issues would be resolved with the next release of the firmware for the router or driver for the laptop.
+1	I even liked how you could secure it with the latest encryption (after a firmware update) and even block out objectionable websites.
+1	I contacted customer support, tried everything including resets, and going through every Netgear router firmware available.
+1	However, this firmware version is explicitly called a beta release and is not supported by the company.
+1	My advice: don't buy this until a new firmware is officially released *and* you start seeing consistently positive reviews of this product.
+1	All previous versions ran Linux and were known for their high quality and reliability, as well as the ability to use upgraded firmwares.
+1	New  firmware caused more problems  than it had already.
+1	WRT54G can't work   In above issue, I think maybe I can solve the problem by upgrading firmware.
+1	Hence, I download the latest version firmware (wrt54g_1412.
+1	I upgraded firmware twice, changed ip address, release/renew etc.
+1	I updated the firmware to the latest available with no luck.
+1	Downloading the most recent firmware update made it even worse.
+1	It seems to be some sort of  irreparable failure in the firmware , hard as that is to fathom.
+1	They tried everything including a firmware upgrade, and a disabling of most protocols that had worked for 5+ years with my old dependable Linksys BEFSR41 Router.
+1	I was trying to use this device as a simple (albeit not in-expensive) way to extend the range of a Linksys WRT54G router running the DD-WRT firmware.
+1	The Bad: The firmware is garbage, as a result this modem can not handle bittorrent traffic, multi-party video chat or any other kind of traffic that requires sending/receiving data from many different outside connections.
+1	I asked all over the Linksys web site and talked to forum users and costumer service people alike, the final answer I got was that its related to the router firmware and until Linksys fixes it its gonna stay broke.
+1	I did all the standard hoodoo garbage they recommend, tinkering with countless settings inside the firmware, holding the reset button and cycling power, cycling power multiple times after updating the firmware, rolling back to older revisions, etc.
+1	This  has to have bugs for sure.
+1	BEFW11S4 V4 needs a firmware update or a technical bulletin explaining what settings are needed to keep it working online.
+1	The tech support asked me to change channels ,upgrade  firmware but still has the same problem .
+1	Got it home, hooked up, updated the firmware and started to configure my port forwarding for my remote access but it turns out their port forwarding is pretty limited.
+1	I was reading another review stating that the frequent disconnects could be related to the latest firmware.
+1	First thing I did was update the firmware to the latest and greatest version.
+1	This router  firmware is just plain bad  (check out the netgear forums to see the multitude of complaints) - physically the router was fine - nice range, etc.
+1	Maybe wait a few firmware patches or models before buying.
+1	After struggling with India support I had to download and burn from the web dd-wrt: an open source firmware for this router and i finally got it to work.
+1	Immediately out of the box there was a firmware update.
+1	Netgear support has confirmed this is a problem and said that it is releasing new firmware but can't confirm the date.
+1	I would not purchase until new firmware is released.
+1	The only advice from Linksys was to reflash the firmware for the router.
+1	After several hours of very annoying questions that were designed for someone with no technical experience, they finally told me the router had a problem and asked me to reflash the firmware (basically means to reinstall it's operating system).
+1	I did get a good price on them so I just wanted to know if there was some kind of defect that they weren't able to fix with a firmware upgrade and the only answer I got was the support person reading the text from the website.
+1	I don't understand why, as it must be enough to just upgrade the kernel in the firmware, nothing more complicated than that.
+1	Finally I went to the Linksys website and discovered that I did not have the latest firmware.
+1	I updated the firmware and it now works great.
+1	I reviewed my network device environment, router setup, firmware level and my problem.
+1	I called Support again and got new settings to try and was informed of yet another firmware upgrade to download and install manually, which apparently the N600 didn't know existed.
+1	10 firmware, and called Support one last time where I got a guy with the thickest accent of all, and began to get frustrated when he started asking all of the same questions about my network set up and devices (I have a case #.
+1	He asked further, detailed questions leading us to reflash the firmware which also did not fix the problem.
+1	Linksys has a firmware upgrade - and even after  applying the thing, I still have connection refused issues and corrupt  downloads that mysteriously go away when I take the router out of the  picture.
+1	11g v2 did not have a reliability issue with heavy p2p, but with fair amount of traffic its web interface did not respond at all; it was with firmware version 2.
+1	1 with latest firmware(jan 20, 2004)my other routers are linksys wrt54g v1.
+1	A later firmware upgrade cured that problem.
+1	Seeing that there was a Nov 05 firmware upgrade available, I upgraded the firmware.
+1	Now the WRE54G refuses to associate with the WRT54G Access Point (which has the latest firmware).
+1	So, you have to go to their website and get the new firmware but messenger voice/transfer would not work after that.
+1	Then, after calling support (to India of all places) and trying to communicate with them in english of all things, they claim the firmware needs to be re-installed and the router needs to be re-set which erases everything and you have to start over.
+1	After 30 minutes of that, the new firmware did not let those features work as before.
+1	Keep in mind this I flashed it with the most recent firmware and it still functioned the same.
+1	v5 cannot use third party firmware.
+1	Since v4 is based on Linux, you can use third party firmware to unlock more advance features if you so desire.
+1	Upgraded  firmware still not resolve the problem .
+1	After about twelve hours of struggle to get it working consistently, the power light began to blink, it stopped working and the only suggestion from Linksys was to upgrade the firmware.
+1	To be fair, I have the older v1 of this router (there are at least 6 versions of this router, newer versions are labeled WGR614v2, WGR614v3 and so on), for which the only firmware update is labeled as beta.
+1	I called back minutes later a got another tech in the Phillipines who stayed with me on the phone for 2 hours and was extremely helpful but felt it was a  firmware issue  and said he would send me firmware updates via email.
+1	I had to get off the phone but about an hour later got the firmware and was finally able to see the extender as an available network.
+1	All of my computers are newer and have updated firmware.
+1	I tried numerous times to download  their firmware, but each time I tried to unzip it I either got an error  telling me the file was corrupt, or it would generate an illegal  operation.
+1	Got it all set up, current firmware and all.
+1	I can't recommend this router because the firmware is just too buggy .
+1	After having no problems for about 6months, I upgraded router's firmware to the latest firmware (1.
+1	After going through the Netgear forums and finding the same firmware problem was happening to several owners of the same router, I backed out of the upgrade and installed the prior version (1.
+1	), he said that was all he could do unless I paid $60 for a software/firmware support contract because the software is only convered for 6 months after you purchase the router.
+1	There has been no official response from Linksys on this issue and there has not been a firmware update for about a year now.
+1	After exchanging 4 of these at different locations and using the latest firmware, I have to conclude that it appears to be a limitation of the device.
+1	I ended up performing a firmware upgrade and re-configuring the router.
+1	I had some inkling that this might be the case, as it's documented on the Xbox Live web site, but I was holding out hope that the more recent firmware releases may have fixed it.
+1	Well, there's always hope for the next firmware release.
+1	I heard a few beta firmware upgrades can cure this problem, but I haven't tried any out yet since it's still a beta.
+1	I searched Linksys forums and the Linksys website and found a firmware upgrade that specifically addressed my problem.
+1	I explained my situation and after turning several pages of his manual and repeating things I had already tried (I was VERY cooperative and friendly), the agent had the nerve to tell me that the reason the router failed was because when I upgraded the firmware, I skipped a level (went from ver 2 to ver 4).
+1	I'm going to do a firmware upgrade.
+1	The latest firmware does not support streaming videos!
+0	The older firmware revisions did not have this problem.
+0	However, only the latest firmware revision correctly supports UPnP (a very usefull feature for file-sharing software).
+1	Linksys has not come out with a any new firmware version since middle of 2005 which really goes to show their commitment to customer support.
+1	To make a long story short, after eight nights of trying after work, and about forty tech support calls to Linksys and my ISP, after downloading the firmware update, I couldn't get my router to connect with my modem (by DirecTV).
+1	I had been very satisfied with my DIR 655 for 1 year, until I upgraded the firmware to 1.
+1	3x firmware hijacked/ruined the best router.
+1	I gave 3-star to D-LINK for their horrible way to abuse firmware upgrading.
+1	I upgraded the firmware to the latest and it made no difference.
+1	I'm hoping a future firmware version will clear up these issues.
+1	com/gp/product/B000BTL0OA/ref=cm_cr_asin_lnk/177-7725315-2998643">Linksys-Cisco WRT54GL Wireless-G Broadband Router  (Compatible with Linux)</a> which can also have thrid-party firmware uploaded into it for more customization.
+1	There hasn't been any firmware upgrade to handle this shortcoming.
+1	After explaining the problem and trying a few `standard' suggestions such as upgrading or flushing the firmware <i>, I have been transferred to another level of support.
+1	As you have no doubt read in other reviews, the firmware on this model is buggy but is progressively getting better.
+1	I updated the firmware to the newest 1.
+1	I searched the web then i found that they have problem with the router firmware which doesnot work with most of the dsl modems available now.
+1	Finally, after an hour of work, the rep said that I would have to upgrade the firmware and she would transfer me to the senior tech support rep.
+1	We know that it's published that it works with encryption but this is a known issue and we'll have new firmware out soon"  WHAT!
+1	I said that if they hadn't gotten firmware released in the 6 months since the product came out I wasn't sure that "soon" would arrive very quickly.
+1	I purchased a Linksys WRT54G router and loaded third party Sveasoft firmware onto it (available at www.
+1	In my original plans, I thought I'd have to pay $99 for the Linksys Wireless Range Expander and another $100 or so for a wireless Ethernet bridge but by going with the WRT54G router w/Sveasoft firmware, it only cost me only $49 (router) and $20 (Sveasoft).
+1	It's been a rock solid connection with my main router, dramatically increased my wireless range, given me usable Ethernet ports without any additional wiring, and I can still use the subscription URL/parental control service from Linksys since my main router has original Linksys firmware.
+1	v5 includes a major firmware change that makes it not possible to update the firmware with 3rd party firmware.
+1	I bought and returned this item, after spending most of an afternoon first getting it to partially work, then finding it didn't do what I needed, then finally finding I could probably have gotten it to do what I wanted, if only it was a v4, which allows 3rd party firmware.
+1	A firmware update helped, but the attached device list continued to be missing an entry or two (again including the computer from which I was accessing the router's html interface).
+1	The Netgear service tech tried and help we correct the signal issues with a firmware update and other tips.
+1	After I ordered the WRT54G I read that Linksys modified it so that it has less memory and no longer runs Linux as its OS so you can no longer update the firmware.
+1	You may browse for help on Linksys website and try to guess the solutions or follow procedures such as "upgrade the firmware of your router" and check your access points.
+1	As if that were not enough already, trying to upgrade a firmware for a router is compllicated and troublesome.
+1	Running up and down their website, it may be possible that I have to "update the firmware" of the Range expander, doing direct conections with a LAN cable between the computer and the antenna.
+1	After 5 hours of router swapping, wire swapping, firmware updates and rollbacks, AC adapter tests, various browser tests, cmd prompt tests, I have come to the conclusion that all of my network problems start and end with the Linksys BEFSR41.
+1	In my opinion this gps -at least with current firmware- is disappointing when used for navigation.
+1	This problem should be corrected by a new firmware update (is Garmin hearing?
+1	Even tech support had me try firmware for the "G" version without success.
+1	I read reports of a European firmware update that resolved the problem for some, but it didn't for me.
+1	I have tried at least three firmware updates and still crashes.
+1	it's extremely unrecommended to order these units (wrt54g version 5), very bad firmware quality inside, no options to upgrade firmware (don't expect any new version soon), no chances to get bugs fixed.
+1	order wrt54gl instead ('L' means, it's running on linux, and could be easily upgraded to more stable open firmware in replacement of original default junk stored inside).
+1	Also, if you have disabled the SSID broadcast at your access point, the range finder auto-configure will not work nor will you be able to get into the firmware to set it up manually.
+1	I couldn't get the wireless connection to work at all until I downloaded the firmware update of 1/29/03.
+1	I had to download and install the latest firmware before it would start talking.
+1	This is a direct result of the firmware, which really is pure junk.
+1	The admin functions are accessed via a web page internal to the router and really is quite nice, except that the firmware is buggy.
+1	Update: I was able to get a beta version of the firmware from their tech support after complaining about the bugs and this version works great.
+1	I have to wait 1 week to see if the new firmware will work.
+1	**UPDATE** The firmware upgrade on the web site worked great.
+1	They say that the latest revisions of the firmware are worse than earlier ones.
+1	This unit is obviously in beta, they released it too soon -- and I have the May 30 release of the firmware (they released, then retracted a newer version that had more problems).
+1	For those of you stuck with one, hover at the Linksys site for new firmware, which I imagine will eventually works the kinks out.
+1	The  performance is terrible, port forwarding is buggy at best, and there are  definite firmware bugs <i>.
+1	After I had this problem and my wireless internet stopped working, I tried upgrading the firmware to DD-WRT but that made it worse so I tried changing the firmware back to the latest linksys build but it still won't broadcast the internet.
+1	I tried downloading and installing the latest firmware, and that didn't work either.
+1	It's worth noting that I have attempted to update the firmware but I have the latest version already.
+1	I downloaded the latest firmware update, V1.
+1	It sounds like YOU want to help but the rest of your team is lacking in communication and designing the right firmware.
+1	I've done firmware upgrades and all kinds of tinkering with the settings based on endless internet searching.
+1	I called their tech support and the only thing they could offer was to upgrade the firmware.
+1	Although the WCG200 ostensibly supports WDS bridging and repeating, I believe firmware incompatibilities account for my inability to obtain a secure connection between the two products.
+1	In practice (probably because Linksys wants to force you to buy more of their products) it will work only with the latest firmware updates on their flagship WRT54G products.
+1	Linksys did release a new firmware version on December 9, 2005.
+1	If you want to download the new firmware version, go to www.
+1	It is a zipped file so you will need to unzip it before you can update the firmware.
+1	I installed new firmware versions, one by one, on the router and kept trying.
+1	Tried beta firmware versions which were supposed to fix the problem.
+1	 Buggy firmware update <i>.
+1	The firmware update provided by Linksys fixes most of the problems, but I still see problems loading certain webpages.
+1	It's not worth your time waiting for better firmware.
+1	As others have mentioned, this version does not allow you to load custom third party firmware.
+1	The person on the phone went over basic solutions ( resetting, unplugging, firmware ) All useless as I thought and my lost $35.
+1	Linksys has lowered the built in RAM on this router in newer versions and it will not run full versions of most open source firmware (like Tomato or DDR).
+1	"  A firmware update later and a reconfigure, things seemed to be back to normal.
+1	I called tech support, they're completely aware of it and they provided me with one firmware update after another.
+1	It appeared that these firmware updates where buddy drops and that they where handed off to tech support so that the customers can do the testing.
+1	Tech support gave some suggestions - firmware update, change MTU, and hard reset.
+1	EDIT, 1-31-2012: After a tip from a buddy of mine with an older-version of this router, I did, in the end, on the most recent firmware, (V1.
+1	v3 uses a Broadcom chip, as opposed to Atheros, rendering it (currently) incompatible with custom firmwares, a la DD-WRT, OpenWRT, Tomato, etc.
+1	I tried EVERYTHING to fix it - hitting the reset button, unplugging the devices for 10 seconds, and flashing it with the latest firmware (version 1.
+1	i HIGHLY recommend you upgrade the firmware on the wireless router if you decide to get it.
+1	Odds are your router is going to come with the new firmware installed on it, which people are having a lot of problems with.
+1	(Also it can not be downgraded to the lower firmware) I bought this router a few months over a year ago.
+1	11 firmware) Anyway here recently I finally got me a laptop with a wireless n card it in.
+1	The transmit power is set to "High" and I'm running the latest firmware available.
+1	This is a known bug in a lot of router software and I am upset that a firmware fix is still not available.
+1	As usual, there are plenty of bugs and undocumented features in the firmware.
+1	I've been using this product for about 6 months and was relatively happy until I upgrade my firmware per recommendation on the Linksys web site.
+1	After 3 more chat sessions and no result I finally got a call back from a senior tech who had me upgrade the firmware.
+1	Hopefully, future firmwares will make the router more stable, but the last firmware update was 4 months ago from Linksys.
+1	After contacting tech support (not much help on this) I upgraded the firmware.
+1	I have tried all means to get this work(firmware updates, re-installing the router many times, all the options available in the internet) but no luck.
+1	I have updated the firmware several times where Linksys tech reviews for those updates were mentioning that "some users" had similar problems and those problems should be fixed in the new firmware update.
+1	I even have the latest version 3 firmware.
+1	All three promised that they will e-mail me an updated firmware as the latest version available on Linksys web-site still has bugs.
+1	According to their tech supporter the firmware can be corrupted <i>.
+1	After the corruption there's no reliable way to recover from it because firmware upgrade may not work anymore.
+1	I am not sure how their firmware (not hardware) can run into problem and why they don't have a good solution.
+1	After an hour on the phone with Netgear, they advised me to do a firmware upgrade (uploading new software into the unit) despite the fact that I had just bought it.
+1	I use a Mac, and the firmware upgrades only work using a PC (since I use Virtual PC, I was able to perform updates).
+1	I had a lengthy call with tech support where they had me upgrade the firmware, change settings, do hard resets, to no avail.
+1	seemed to have a lot of adjustment options in firmware, but not as nicely organized or easy to understand as the Linksys admin page.
+1	I recommend that if you buy this product, you download the latest firmware upgrade located in the linksys website.
+1	Do not buy this new version 5 if you ever want to upgrade the firmware with 3rd party enhancements.
+1	I purchased a net gear router N600 and have been researching how to do a firmware update.
+1	I thought it was compatibility issues with the my hard drive so I did some digging and found out that net gear knows about this problem and has not been able to solve the issue with a simple firmware upgrade.
+1	I have the latest firmware.
+1	Note, however, that once you upgrade the firmware (which is really easy to do on the Linksys website), it works great.
+1	At this point, with the extender still hard wired to your router, it is a good idea to update the extender's firmware.
+1	There are major flaws with this product and contrary to the advice of Netgear a firmware upgrade will not help.
+1	Not to worry, there is a firmware upgrade reported to fix  the DSL problems.
+1	I have been unable to successfully apply the  firmware upgrade, and have rendered inoperable 5 (yes, five) of these units  so far.
+1	(If they would  just ship me a unit with the latest firmware, that would do it!
+1	30;  I've seen people note that they had gotten a later firmware  version.
+1	I have not received an email from tech support, so, now I am not sure whether the old firmware will work or not.
+1	I am frustrated; I don't expect Linksys does not fully test its firmware before releasing it.
+1	The 'v4' refers to the actual hardware version, NOT the rewritable firmware.
+1	However, there is one major aspect of this router that you need to consider before purchasing - there is a firmware flaw (as of firmware version 2.
+1	I downloaded the latest.
+1	The firmware didn't solve the problem.
+1	The firmware doesn't work under some scenarios.
+1	The router is working, but this issue seems to indicate that the firmware wasn't thoroughly tested <i>.
+1	The v1 has not received firmware upgrades for a long time now, altough it is still being sold.
+1	The firmware is flaky at best.
+1	This old firmware does not contain the fixes I need.
+1	Hopefully later versions of the firmware will make it more stable.
+1	This was with the latest firmware at the time (1.
+1	A week ago, I noticed that the new firmware was available, and I was hopeful that it would fix the crashing problem.
+1	I have heard that the version 4 of this router (the current version) doesn't work very well, but I was shocked when the firmware upload made the unit completely useless!
+1	And nope, the new firmware hasn't fixed the issue.
+1	Linksys tech support suggested upgrading to the most recent firmware, but the website specifically says not to upgrade the version 4 router with that very patch.
+1	I finally got it working by talking to engineers I work with at work, as far as how to configure each PC, and also Linksys gave me a firmware patch by email that seemed to make the PPPoE login work much better.
+1	In retrospect, I got spoiled by Apple and had forgotten that with Netgear (and the other router brands) you have to deal with weekly reboots, buggy firmware and incorrect information (how difficult is it for Netgear to finally figure out what devices with what IP addresses are attached to a Netgear router?
+1	The router has a defective firmware that has not been fixed in multiple releases over the last year.
+1	In fact new firmwares have actually introduced new problems so this router is just not worth the trouble.
+1	The out of the box Buffalo firmware is pure garbage <i>, but adding Tomato transforms it into an awesome router.
+1	Tried multiple resets, firmware upgrades, etc.
+1	I call back and they said a new firmware came out that was supposed to fix this very problem.
+1	Although I had configured the router correctly (I later discovered), the problem turned out to be defective firmware <i>.
+1	The latest firmware didn't fix this problem.
+1	I have updated the firmware and still have the same problems.
+1	on initial boot up it was connected to the internet and it ran through its firmware auto-update process and successfully downloaded and flashed the updated firmware.
+1	I called the tech support who took me through a few scripted steps (upgrade firmware, downgrade firmware, set a permanent channel etc.
+1	So, according to the many posts on the Linksys help(less) site, I upgraded the firmware on my router.
+1	I upgraded the firmware to the latest one (2.
+1	Then I downloaded the latest firmware which had an update for VPN's.
+1	This firmware has to have bugs for sure.
+1	BEFW11S4 V4 needs a firmware update or a technical bulletin explaining what settings are needed to keep it working online.
+1	The 655 worked great for over a year until one day I clicked on the "update your firmware" button on the user interface.
+1	Since the router wont let you ever "go back" to a previous firmware version.
+1	There is an application on line by a Russian developer that hacks the 655 and lets you down grad the firmware backwards.
+1	or wait until dlink provides another firmware without securespot.
+1	The wireless intermittently cuts out completely (ie, the lights on the front indicate it is no longer providing wireless service), the port-forwarding completely broke in the latest version of the firmware, there are no docs for the updated firmware, even though the web interface has changed and added new features, and the docs have no information for using the router with anything other than Windows.
+1	Ive upgraded the firmware TWICE now, even to the new unsupported "beta" to try and stop this freezing.
+1	then i think there is a hardware/firmware issue.
+1	The problem I ran into was after a firmware upgrade.
+1	Tired of messing with firmware updates and redoing stepups, going to buy another brand router.
+1	Now perhap in a few firmware revisions, or in the hands of a true expert, my issues could have been averted.
+1	Linksys had a terrific product with the WRT54G, running a stable Linux OS, and a rabid fan-base producing alternate versions of the firmware with custome features.
+1	This firmware has to have bugs for sure.
+1	BEFW11S4 V4 needs a firmware update or a technical bulletin explaining what settings are needed to keep it working online.
+1	First, when I installed the router, the automatic firmware installation indicated that there was a new firmware update, but that the system could not find the file specified.
+1	I downloaded the firmware update from the Netgear website, but when I refreshed the configuration page, I got redirected to kb.
+1	After finally getting the firmware updated, I set up the wireless connections.
+1	The Range Expander is supposed to work out of the box with that router, but this was not the case, even with the latest WRT54G firmware (3.
+1	The WRE54G Range Expander does not currently support WPA (allegedly there is a firmware update to fix this but good luck finding it).
+1	What I ended up doing was installing alternative open source firmware on my WRT54G router (this is legal because the Linksys firmware is GPL'd).
+1	Do a search for &#34;satori firmware&#34; and you should be able to find it.
+1	] Next, update the firmware with Satori using the web administration tool on the router and then use the web admin tool to reset the router to factory settings (make a note of your MAC filters, SSID and any other information as it will be lost when you do the factory reset and you will need to re-enter it).
+1	Hopefully Linksys will release that firmware upgrade with WPA support, but I may have to settle for WPE for now.
+1	The router seemed to work fine in the beginning but then I upgraded the firmware to the latest version 5.
+1	I have changed the firmware numerous times.
+1	I've tried all the workarounds, from updating the firmware to using a secure connection - and nothing really helps.
+1	Bottom line, the online documentation (yeah, nothing in the stuff that comes with it) indicates the minimum version of firmware for your WRT54G should be 2.
+1	version, so I wasted a lot of time before I went to their website looking for upgrades to the WRE firmware, which is where they indicate the minimum version required.
+1	Anyway, I finally gave up, only to find months later that there is indeed a problem with this router's firmware (related to DNS name resolution, which causes an intermittent but consistently occurring disconnection on the WAN port).
+1	Since then, they've told the masses that they have a firmware fix, but it's just more of the same crapware, just with an updated version number (and with the word "beta" attached - doesn't that just make you warm and fuzzy?
+1	This router is a good fit for general purpose as long as you: - Don't upgrade the firmware - Don't have a high traffic - Don't use the built-in USB feature We upgraded the firmware because we needed to use the built-in USB feature, and the nightmare began: - The router is frozen and required reboot, few times a day.
+1	What they have said is true, the "old" wrt54g v1-4 are better hardware, and yes, if you had the old one you can install third-party firmware to fix problems.
+1	Tomato does not have this shortcoming of Linksys firmware and has a bunch of other nice features.
+1	I use a WRT54GL with Tomato firmware installed, and I higly recommend it as the best and most stable wireless router option you can use.
+1	However, you need to be comfortable updating the firmware on the device.
+1	If you are not comfortable installing your own firmware.
+1	The person in premium support said that if I signed up for $75 he would give me the URL to download new firmware, which he assured me would address the issue.
+1	The firmware has issues <i>.
+1	The firmware upgrades are a pain <i>.
+1	Latest firmware makes things worse <i>.
+1	The issues surfaced not long after I first setup the router -straight out of the box- and despite two subsequent firmware updates (1.
+1	I believe firmware version 1.
+1	While Netgear appears to have tacitly acknowledge the issue on their customer support message boards, as well as released new.
+1	The firmware hasn't fixed the problem.
+1	A call to their tech support confirmed that this is a problem other users are experiencing, yet the faulty firmware is still available for download.
+1	But be careful if you decide to update the firmware.
+1	Anticipating firmware issues, I updated the firmware in my router.
+1	Turns out that the range expander has "stability problems" (to quote Linksys tech support) with all but one version of firmware for the WRT54G.
+1	I had to install an old version of the WRT54G firmware that could only be accessed through Linksys' ftp web site.
+1	However, what really has me steamed is the three hours I spent on the phone with Linksys tech support before I was referred to a tech specialist who finally came clean about the firmware problems with their products.
+1	Update your online knowledge base with detailed directions for installing the older firmware on the WRT54G--and instruct your tech support people regarding the problem.
+1	It stalled and a flag came up firmware failed halfway through--probably because of it's dropping the connection during file upload.
+1	Flashed the firmware to the latest revision thinking that would fix the language issue.
+1	A firmware update has not helped this issue and D-Link support has been less than helpful.
+1	I am really hoping for another firmware update that will resolve this issue but it's looking less and less likely everyday.
+1	Trying to be smart about it, I decided to look for a firmware upgrade.
+1	After a few failed attempts, I tried a different browser and was finally able to upload the firmware.
+1	But the router has a buggy firmware <i>.
+1	Hopefully, they will release a firmware fix or something soon, or I guess I've got a worthless unit!
+1	I have struggled with this router for several months, and the same issues that I had from the beginning are still present today, even with upgraded firmware.
+1	So folks at Garmin it is time to stop thinking hardware and start thinking software and firmware and give us folks a meaningful and useful update.
+1	Stock firmware was horrible <i>.
+1	The firmware updates were horrible causing more problems.
+1	Pro: - Wireless N signal works for me Con: - Wireless G signal drops constantly - Stock firmware and GUI are horrible - Customer support is poor, if available at all - Some advanced features are unavailable or problematic - No monitoring support - Pricey Customers shouldn't think that dealing with all of these problems is normal.
+1	I am running the latest firmware as of May 19 2010.
+1	Just as an example, the firmware updater checks and prompts me to upgrade to a newer version everytime I reboot the router.
+1	They offered absolutely no help except to tell me to wait  for the next firmware upgrade--due in one week, they said.
+1	It's still  taking me about 10-15 minutes of fiddling around with things to get a  working connection, so if the new firmware upgrade doesn't help, the router  is going back.
+1	I have also seen many websites offering this suggestion and that, tweaking the connection software, upgrading firmware, blah blah blah, but honestly, how hard does it have to be to get my wireless network up and running.
+1	After configuring this router and upgrade to latest /greatest firmware, I fire up eMule and BitTorrent client -----> This router choked within 30 minutes.
+1	After several calls to tech support I upgraded the Share Port software, another call to tech support resulted in upgrading the firmware in the DIR-655 which of course reset all the previously input settings.
+1	Today I spent time on the phone with Netgear support, who had me download a new beta version of the firmware to install.
+1	Perhaps there is a firmware update that solves the problem, but I haven't bothered to check.
+1	Before upgrading the firmware, I backed up the configurations from my initial working install per instructions.
+1	It seems if you go with Linksys Wireless-G routers, you can install third-party firmware which will extend this.
+1	When I loaded the new updated firmware from the Linksys web site my problems diappeared.
+1	Do yourself a favor find the new firmware as soon as you set it up it will tranfer much faster and I have yet to have a dropped connection.
+1	They even got snarky and asked me to give them the reason that I upgraded the firmware -- as if it were my fault for upgrading.
+1	I went to other online sources of info and discovered that the firmware issue is rampant with a large chunk of their routers.
+1	My final solution, no thanks to D-Link, was to flash my router with the Russian version of the firmware and then downgrade to the version of North American firmware that worked for me -- 1.
+1	And the best part about it is that adding securespot required a firmware upgrade, which guess what, is not reversible!
+1	In my case, I thought it was a simple case of firmware version incompatibility.
+1	Linksys routers, including this model have a history of having defective firmware <i>, and it used to be necessary to replace the Linksys brand firmware with 3rd party firmware if you wanted to do any bandwidth-intensive transfer.
+1	However, I did not find the firmware change to be necessary with this router.
+1	I bought the WNDR3700 to replace an old but reliable WRT54G running dd-wrt firmware.
+1	Netgear provided a beta firmware which solved this problem, but it didn't fix any of the other problems.
+1	I did not try new firmware, because people report all sorts of problems flashing the unit.
+1	The firmware upgrade failed <i>.
+1	The router has an unstable firmware <i>.
+1	However, after downloading the latest firmware from the Linksys web site (the 1.
+1	I've given the product 3 stars because of how easy it is to set up and because it works as advertised with the firmware upgrade.
+1	If Linksys can get the firmware issue straightened out the product would easily get 5 stars.
+1	Then I upgraded the router's firmware to its latest version; that didn't help either.
+1	The firmware is the latest 2.
+1	Then I installed the latest firmware (released 01-Jul-2003) and it has been working perfectly.
+1	But read the release notes with the latest firmware: "This release is only for beta testing.
+1	I would avoid this product until Linksys releases non-Beta firmware (and the firmware works, based on user reviews), and then I would buy it only if you are adept at firmware upgrades.
+1	I have a v3 version, and I upgraded the firmware.
+1	The router worked fine until Linksys shipped a buggy firmware update which prevented Macs from using the router.
+1	They shipped a fix somewhat later but the firmware update left my router in an unusable state.
+1	So, I saw that there was a firmware upgrade.
+1	) all they could suggest was manually configuring all of the computers behind the router to use static routes to the name servers (which I wasn't willing to do, and, in a simple test failed to fix the problem), or upgrade the firmware to a beta release, version 1.
+1	I thought, "maybe after one year I should get a map update or a firmware update.
+1	It drops my VPN connection if I idle for 4 minutes and even the latest firmware (1.
+1	I have also seen many websites offering this suggestion and that, tweaking the connection software, upgrading firmware, blah blah blah, but honestly, how hard does it have to be to get my wireless network up and running.
+1	When I fire up uTorrent, my mIRC connection drops, and my web connection drops to about 300kbps dl speed;  after much frustration, and even a firmware upgrade, I have decided to give up on trying to make it work.
+1	I may not be the most network savvy guy but I program device drivers for a living and this device has just been one big headache trying to get it to work right with constant firmware upgrades.
+1	though latest firmware seems to work better.
+1	After a week of fiddling, downloading firmware (for this item, the new PC card WPC54GS as well as the router WRT54GS), endless resetting, then paying an experienced consultant to try to get the thing to work, I gave up and returned the junk.
+1	Updating to the newer firmware is of no use as the router won't connect.
+1	The firmware won't connect <i>.
+1	From the posts over there, sometimes updating firmware works but often doesn't <i>.
+1	I have a Wireless-G Linksys Access Point (WRT54G), that works wonderfully, that I wanted to use with this Linksys Extender - the Extender never did work in spite of having no security, and all the latest firmware.
+1	Among the things I had to do was install new firmware and a new version of the print server software.
+1	Their tech support will only give you the next revision of the firmware if its available, which they sware will fix it but never does.
+1	I've heard that the firmware may be the problem so if you do end up buying this you better not update the firmware because once you do you cannot go back to the older version.
+1	After researching Linksys deeper, I found the WRT54G now has a different firmware (VxWorks) and has decreased the amount of RAM.
+1	(As a matter of fact, WNDRMac is much closer to WNDR3800, only missing things are the firmware features like ClearChannel Selector, Tivo compatability etc).
+1	If you do have interest, make sure that your firmware of choice has support for this newer version (FCC ID is PY308300092).
+1	However, after upgrading to the latest firmware, to comply with the 802.
+1	We use three wireless components at the house, and none of them could hold a signal once I installed the new firmware.
+1	I just downgraded the firmware and was able to get the router back to the performance it had before.
+1	I noticed after a lot of hair pulling that others are waiting on dd-wrt firmware to rectify this VPN issue.
+1	UPDATE 9/10/2010 : Somehow during a firmware update VPN is now working in Windows 7 64bit.
+1	I did everything he said, including upgrading the firmware, and Outlook still wouldn't send large messages.
+1	Once I updated the firmware the wireless speed DOUBLED!
+1	The latest firmware is buggy related to the date/time setup and with saving changes.
+1	Given the shoddy quality of the firmware maybe making this feature a little more useful was just beyond their ability.
+1	This is how the unit works AFTER several firmware updates.
+1	Con: - no firmware with WPA support to date - I am not able to achieve expected speeds downstream (upstream is fine) with a Broadcom 54G mini-PCI card - I am able to get full speed with the WG511 card in the other laptop Pro: - Range is great - Did not crash once on me - Wireless connection is 100% stable (I use VPN so that is fairly important for me).
+1	So, I thought: "let's get the latest firmware from the web".
+1	maybe about 6 to 10 hours crashed, anyone can send me the old European firmware.
+1	It took me a whole day to realize that it was impossible with this router (version 4, latest firmware 1.
+1	The same problem happened in earlier hardware and firmware versions before (saw some online discussion), and it came back again in this latest version.
+1	Two weeks ago I decided to check for new firmware, and attempted to download the newest version from linksys's site.
+1	Following directions on Linksys's webpage, I re-downloaded the firmware, and it actually got a little better.
+1	Now I'm thinking I've picked up some firmware bug <i>.
+1	Version 3 of this router ships with this same crappy firmware <i>.
+1	Judging from what I've seen, alot of them do work just fine, so there seems to be more at play then just a firmware bug, which would affect all units.
+1	just make sure to upgrade to the latest firmware.
+1	After a year of frustration with this unit I'm finally tossing it and getting an ASUS RT-N16 instead, which supports open source firmware and gets rave reviews for its stability (when loaded with the Tomato firmware).
+1	The firmware would reboot itself at least once every 1-2 days, usually when someone connected to it but not always.
+1	The most obscure involved flashing up to a Russian Beta firmware version which then allows you to them flash down to 1.
+1	21, which everyone hails as being the only stable firmware release.
+1	Their automatic firmware update doesn't even acknowledge the existence of the more up-to-date versions (1.
+1	WARNING -- Version three of this router (the newest, currently shipping/on the shelf version with firmware 1.
+1	As of this writing (9-10-03) there is no firmware upgrade fix available.
+1	Only the original firmware version  from 6-20-03 is available, and you CAN NOT use the firmware for the  previous versions of this model with the version 3 model.
+1	You can go to the DIR-655 page on dlink forums and see thread after thread complaining about these issues for firmware 1.
+1	Unfortunately for all of us, the firmware cannot be rolled back to an earlier version, so if you are one of the unlucky ones, you have no option but to buy another router, until Dlink fixes it.
+1	I liked Dlink, and I still do, but if you buy a new DIR-655, chances are you will get stuck with firmware <i>.
+1	One last thing to be aware of: If you are a fan of DD-WRT firmware, the DIR-655 is not supported.
+1	but the firmware in this new model is terrible <i>.
+1	Even after several updates to the firmware, the media server still hangs every few hours.
+1	After the latest firmware update, at least the NAS works.
+1	It also took days and many, many phone calls to tech support to get this to work including firmware upgrades to both, endless reconfiguring and trying different settings on both the router and expander.
+1	I did a firmware upgrade to no avail.
+1	Install disc is worthless (firmware 1.
+1	Even with the newest firmware, this router drops the wireless at least once a day and has to be rebooted.
+1	4) The firmware update mechanism repeatedly confirmed, that there's no newer firmware available.
+1	With the help of this forum, I was able to get the device back by TFTP-ing the firmware by command line.
+1	My search for an alternative firmware like Tomato wasn't successful, because the ingenious product designers removed 2 of the 4 megabyte RAM that is necessary for these firmwares.
+1	The Tech Support person had me download a firmware patch.
+1	The reason why we only would have given four stars is that they shipped it out without the requisite firmware.
+1	My computer guru( #3 son) had to update the firmware a couple of times, the last time last night.
+1	The device automatically detected that there was a newer version of firmware available when it first booted up.
+1	This time, I downgraded the firmware to the previous version hoping that would fix this problem.
+1	Worked fine out of the box when being used as a wired router but it took a total of 4 hours on the phone with tech support, several firmware downloads/installations and more asprins than I care to admit to get this puppy working wirelessly.
+1	The unit has hardware v1 and the latest firmware.
+1	It costs a bit more, but you'll find it has more memory and thus can support more features with new firmware.
+1	No new firmware, and upon searching for answers, this is a huge problem with these units.
+1	Also, if you your router is WRT54G and is v3, you will need to upgrade your firmware to at least 4.
+1	They just now finally released a firmware that allowed more than 256k to flow through the router, the changelog for the firmware update states "Resolves issues with slow downstream speeds".
+1	on hold, he said he couldn't do that because the firmware upgrade had been removed from Cisco's website due to "legal reasons".
+1	Also tried to do a firmware update, but router was already running latest firmware.
+1	The DIR-655 started rebooting within a day of installation with the current firmware.
+1	I updated the firmware and still the same issue.
+1	I called them back and they walk me through the same set-up and firmware upgrades I've already done.
+1	I have updated the firmware, turned off any options possible, read all the forum posts and made sure the thing is not overheating.
+1	I have updated it with the latest firmware version 3.
+1	UPDATE: I ended up purchasing the DIR-655 and I would give it 4 stars now because of their latest firmware updates.
+1	I used Linksys online chat to contact tech support and they recommended flashing with an older firmware.
+1	Netgear support did have a beta firmware patch didn't work <i>.
+1	I am afraid this particular item either needs a necessary firmware, which maybe an excuse from DLink or simply it is a defective router sold by this retail company.
+1	Although it was packed in a box that appeared to be for the American market, the firmware inside displayed some Asian language (Korean?
+1	Tried to download firmware from Linksys as I was unable to connect through the internet with it after asking the tech guys at Verizon about the problem and they say it's something about the router that is not working.
+1	I tried to download the firmware, but it lead to a dead link.
+1	However, the latest firmware updates have left a large number of users quite unhappy.
+1	Stability issues have arisen in the latest firmware releases that dlink seems either unable or unwilling to fix.
+1	31, you can not go back to previous firmware versions.
+1	If you purchase a router and it has a firmware prior to 1.
+1	31 firmware, I was quite happy.
+1	The final straw came when they told be to do a hard reset and reload the firmware.
+1	It is totally inappropriate and negligent to sell a product that requires firmware downloads every couple of days to patch flaws and hours of sifting through arcane jargon and sitting on help lines to get running, and don't forget shipping on your own dime and trips to the post-office etc.
+1	I updated the DLINK to the latest EU firmware 1.
+1	Conclusion: This would be a good router, but i think DLINK has a problem.
+1	The firmware is flaky and can cause all kinds of problems.
+1	I am pretty sure those problems are firmware related <i>, not so much hardware.
+1	I had an old Linksys wireless access point and there was no firmware support for WPA.
+1	In my opinion, Netgear released this product, and it's latest firmware revision, before they were sufficiently tested.
+1	I have also seen many websites offering this suggestion and that, tweaking the connection software, upgrading firmware, blah blah blah, but honestly, how hard does it have to be to get my wireless network up and running.
+1	I decided to unhook the D-Link router and plug back in my old Buffalo router (with Tomato firmware).
+1	And, as always, don't forget to update firmware on new unit before setting it up.
+1	) Because I couldn't get into the online menus I couldn't configure the extender so that it matched the encryption settings on my network nor could I upgrade the firmware.
+1	The latest firmware update causes even more glitches and the worst part is that the reset button on it is broken.
+1	Some people download third party firmware that circumvents the signal strength limiter but I wasn't about to do anything that might void the warranty and thus my ability to return it.
+1	During a firmware upgrade it locked up and I had to return it for a new one.
+1	Pros: this router has a significant advantage over the others - it has a mini-Linux running inside, and the firmware source code is available under GPL.
+1	Lots of folks asking when the new firmware will finally be released.
+1	Support forums also have lots of people regretting updating their firmware - the wretched thing just behaves worse and worse.
+1	My Tomtom Go720 is only 2 years old but Tomtom wants me to pay for a firmware AND map  update ($120) Well I just can't see spending that much when a brand new updated unit is only $200.
+1	LinkSys written specifications say this router supports IPSec passthrough (needed for access to some secure networks) but their firmware doesn't.
+1	The latest firmware release for this router has the IPSec passthrough enable in the router menu but in exchange for this feature (apparently), the wireless network PC cards in my other computers became inoperable.
+1	So I had to chisel an older version of the firmware out of customer support just to get back to where I started.
+1	while some of the problems are related to firmware <i>, others are related to the manual settings.
+1	Defaulted the router, updated the firmware - port forwarding completely stops working altogether.
+1	Found out the firmware upgrade was totally glitchy <i>, so had to go back to a previous firmware version.
+1	The firmware update made matters worse <i>.
+1	The firmware was drastically lacking as well with many strange options missing such as being able to turn off the radios as desired.
+1	why do you need to spend $150 for a router that will continue to have bad firmware updates <i>?
+1	Every single firmware update has been a flop <i>.
+1	The firmware is incapable of doing what is advertised.
+1	Hardly any problems until these bad firmware updates started coming out.
+1	This firmware is defective and I'm convinced that they know it.
+1	The provided firmware is useless <i>.
+1	Even if it is just a firmware issue <i>.
+1	0 firmware is the culprit <i>, but for now I would strongly caution you and would suggest you wait until D-Link figures this out and fixes these isssues.
+1	Seems the new firmware is causing a lot of problems <i>.
+1	The firmware is full of issues <i>, connections drop often, every few minutes in some cases.
+1	The firmware is deffective <i>.
+1	The firmware keeps losing the connection.
+1	Unfortunately, the router firmware is pretty bad <i>.
+1	Apparently Linksys is having firmware issues on several models (that's what the best buy guy said).
+1	If Linksys can get the firmware issue straightened out the product would easily get 5 stars.
+1	The firmware is sooo shotty that they already have like 4 or 5 different versions of it out.
+1	The Bad: The firmware is garbage <i>, as a result this modem can not handle bittorrent traffic.
+1	The firmware cannot handle traffic.
+1	This router firmware is just plain bad (check out the netgear forums to see the multitude of complaints).
+1	I can't recommend this router because the firmware is just too buggy <i>.
+1	This is the "new" version has 1/4th the memory and very buggy firmware <i>.
+1	The firmware is NOT upgradable to customized versions.
+1	most of these issues are due to maybe a buggy firmware version.
